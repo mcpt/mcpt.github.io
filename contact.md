@@ -10,7 +10,7 @@ permalink: /contact/
 - [Vincent Macri](mailto:cpt@vincemacri.ca)
 - [Sarah Goldfarb](mailto:sarahgoldfarb12@gmail.com)
 - [Samantha Unger](mailto:sammydsu@gmail.com)
-- [Arsh Raza](mailto:arshisboss@gmail.com)
+- [Arsh Raza](mailto:arsh.raza2015@gmail.com)
 
 ## Vice Presidents
 - [Richard Yi](mailto:richardyi25@gmail.com)
