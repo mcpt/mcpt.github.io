@@ -1,18 +1,21 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: Contact
+permalink: /contact/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Meet the 2017-2018 exec team: 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Co-presidents
+- [Vincent Macri](mailto:cpt@vincemacri.ca)
+- [Sarah Goldfarb](mailto:sarahgoldfarb12@gmail.com)
+- [Samantha Unger](mailto:sammydsu@gmail.com)
+- [Arsh Raza](mailto:arshisboss@gmail.com)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Vice Presidents
+- [Richard Yi](mailto:richardyi25@gmail.com)
+- [Lev Raizman](mailto:raizman.lev@gmail.com)
+- [Jeffrey Gao](mailto:jeffrey.magmachu@gmail.com)
 
-
-[jekyll-organization]: https://github.com/jekyll
+## Staff Supervisor
+- Ms. Krasteva
