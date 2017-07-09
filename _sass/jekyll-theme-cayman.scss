@@ -348,6 +348,15 @@ nav {
   a {
     color: $nav-text-color;
   }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    display: inline;
+    margin: 2vw;
+  }
 }
 
 footer {
