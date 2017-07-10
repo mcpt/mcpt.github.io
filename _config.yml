@@ -25,6 +25,7 @@ github_username: mcpt
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 gems:
   - jekyll-feed
 
@@ -39,3 +40,9 @@ gems:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  cpt:
+    output: true
+  ics:
+    output: true
