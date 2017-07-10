@@ -2,6 +2,7 @@
 layout: default
 title: Contact
 description: Contact information for all executives. Click on someone's name to send them an email.
+permalink: /contact/
 ---
 
 # Meet the 2017-2018 exec team: 

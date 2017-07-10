@@ -2,6 +2,7 @@
 layout: default
 title: CPT Lessons
 description: Lessons on competitive programming.
+permalink: /cpt-lessons/
 ---
 
 <ul>
