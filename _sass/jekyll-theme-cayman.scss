@@ -369,4 +369,7 @@ nav {
 .figure {
 	display: block;
 	width: 50%;
+	@include small {
+		width: 100vw;
+	}
 }
