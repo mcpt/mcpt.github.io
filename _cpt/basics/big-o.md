@@ -2,6 +2,8 @@
 title: Big O Notation
 description: Big O is a mathematical notation used to describe the worst-case performance of an algorithm or data structure. More specifically, it represents the number of operations an algorithm executes or the amount of memory a data structure takes. These two, are respectively called time complexity and space complexity.
 layout: default
+category: basics
+order: 1
 ---
 
 # The Notation
@@ -40,13 +42,13 @@ Logarithmic complexity ($$\mathcal{O}(\log N)$$) typically comes from some kind 
 
 # Common Complexities
 We will now compare many common complexities. The upper bound on both axes is 100.
-<img class="figure" src="img/big_o_notation1.png">
+<img class="figure" src="../img/big_o_notation1.png">
 
 Now this is the same graph except on a bigger scale. The upper bound on both axes is 10000.
-<img class="figure" src="img/big_o_notation2.png">
+<img class="figure" src="../img/big_o_notation2.png">
 
 However, there are a couple of complexities that aren't didn't include here because they grow too quickly to be graphed. We will look at them on a logarithmic scale. The upper bound on both axes is 100.
-<img class="figure" src="img/big_o_notation3.png">
+<img class="figure" src="../img/big_o_notation3.png">
 
 # Constraints
 Knowing the maximum constraint of an algorithm is a useful in figuring out the time complexity required to solve a given problem.

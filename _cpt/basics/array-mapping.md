@@ -2,6 +2,8 @@
 title: Array Mapping
 description: Array mapping is a technique used to associate a key with a value.
 layout: default
+category: basics
+order: 3
 ---
 
 Primitive arrays map the key type (`int`) to a value (the type of the array). In this lesson, we will explore mapping with letters as keys.
