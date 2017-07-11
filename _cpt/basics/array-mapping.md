@@ -6,6 +6,7 @@ category: basics
 order: 3
 ---
 
+# Introduction
 Primitive arrays map the key type (`int`) to a value (the type of the array). In this lesson, we will explore mapping with letters as keys.
 {% highlight java %}
 array[0] = 1;
@@ -14,8 +15,7 @@ Notice the `0` as the accessing index. This is the key. With arrays, the key is 
 
 However, we can take advantage of the fact that a `char` can be easily cast to an `int`.
 
----
-
+# An example
 Let's try a problem:
 > Find the number of occurrences of each letter in a word.
 

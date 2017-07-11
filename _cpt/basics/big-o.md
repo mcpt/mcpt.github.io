@@ -6,7 +6,7 @@ category: basics
 order: 1
 ---
 
-# The Notation
+# Notation
 Big O notation looks like a math function: $$\mathcal{O}(1)$$
 
 The contents of the brackets represents the performace. Variables may be used. Generally, the variable $$N$$ is used, however, more variables may be needed and some may be defined in a problem given. It is convention to use a single letter as a variable. We prefer uppercase ones.
@@ -17,7 +17,7 @@ Another rule is that only the dominating factors are used. This means that coeff
 
 $$\mathcal{O}(2N^2+6N) \to \mathcal{O}(N^2)$$
 
-# Determining Complexity
+# Determining complexity
 Complexity is determined by analyzing the number of operations an algorithm performs or the amount of memory allocated by a data structure. For example, if a program looks like the following, then the complexity is $$\mathcal{O}(N)$$
 
 {% highlight java %}
@@ -40,7 +40,7 @@ $$\mathcal{O}(1)$$ is something such as doing an addition operation, accessing a
 
 Logarithmic complexity ($$\mathcal{O}(\log N)$$) typically comes from some kind of binary search.
 
-# Common Complexities
+# Common complexities
 We will now compare many common complexities. The upper bound on both axes is 100.
 <img class="figure" src="../img/big_o_notation1.png">
 

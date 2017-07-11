@@ -20,7 +20,7 @@ cube[0].length; // Y
 As more dimensions are added, the memory required grows exponentially.
 
 # Complexity
-## Time Complexity
+## Time complexity
 Access: $$\mathcal{O}(1)$$
-## Space Complexity
+## Space complexity
 $$\mathcal{O}(S_0 \times S_1 \times S_2 \times \dots \times S_k)$$, where $$S_i$$ is the size of the $$i^\text{th}$$ dimension.
