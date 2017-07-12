@@ -17,7 +17,7 @@ One solution would be to generate all combinations of $$K$$ elements, and take t
 
 However, instead of exploring all the possible combinations of array elements, it is possible to solve this problem using a greedy solution: sorting the array and choosing the $K$ largest elements in the array.
 
-This will always work because in order to maximize the sum of elements, the largest elements in the array must be chosen. Since only $K$ elements can be chosen, it is always optimal to greedily take the $K$ largest elements in order to maximize the sum.
+This will always work because in order to maximize the sum of elements, the largest elements in the array must be chosen. Since only $$K$$ elements can be chosen, it is always optimal to greedily take the $$K$$ largest elements in order to maximize the sum.
 
 Shown below is a code snippet of the greedy solution to the problem given:
 
