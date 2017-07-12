@@ -1,7 +1,7 @@
 ---
 title: Big O Notation
 description: Big O is a mathematical notation used to describe the worst-case performance of an algorithm or data structure. More specifically, it represents the number of operations an algorithm executes or the amount of memory a data structure takes. These two, are respectively called time complexity and space complexity.
-layout: default
+layout: lesson
 category: basics
 order: 1
 ---

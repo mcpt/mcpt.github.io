@@ -1,7 +1,7 @@
 ---
 title: Multidimensional Arrays
 description: Multidimensional arrays may be required in some situations with multiple states or grids.
-layout: default
+layout: lesson
 category: basics
 order: 2
 ---

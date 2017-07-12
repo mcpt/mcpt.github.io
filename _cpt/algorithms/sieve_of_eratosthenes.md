@@ -1,7 +1,7 @@
 ---
 title: Sieve of Eratosthenes
 description: Sieve of Eratosthenes is an algorithm for quickly generating all the prime numbers below a maximum number.
-layout: default
+layout: lesson
 category: algorithms
 order: 3
 ---

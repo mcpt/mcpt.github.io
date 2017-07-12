@@ -1,7 +1,7 @@
 ---
 title: Array Mapping
 description: Array mapping is a technique used to associate a key with a value.
-layout: default
+layout: lesson
 category: basics
 order: 3
 ---
