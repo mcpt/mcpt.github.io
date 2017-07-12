@@ -15,7 +15,7 @@ Notice the `0` as the accessing index. This is the key. With arrays, the key is 
 
 However, we can take advantage of the fact that a `char` can be easily cast to an `int`.
 
-# An example
+# Example
 Let's try a problem:
 > Find the number of occurrences of each letter in a word.
 

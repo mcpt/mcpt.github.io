@@ -17,7 +17,7 @@ Another rule is that only the dominating factors are used. This means that coeff
 
 $$\mathcal{O}(2N^2+6N) \to \mathcal{O}(N^2)$$
 
-# Determining complexity
+# Determining Complexity
 Complexity is determined by analyzing the number of operations an algorithm performs or the amount of memory allocated by a data structure. For example, if a program looks like the following, then the complexity is $$\mathcal{O}(N)$$
 
 {% highlight java %}
@@ -40,7 +40,7 @@ $$\mathcal{O}(1)$$ is something such as doing an addition operation, accessing a
 
 Logarithmic complexity ($$\mathcal{O}(\log N)$$) typically comes from some kind of binary search.
 
-# Common complexities
+# Common Complexities
 We will now compare many common complexities. The upper bound on both axes is 100.
 <img class="figure" src="../img/big_o_notation1.png">
 

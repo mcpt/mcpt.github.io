@@ -9,7 +9,7 @@ order: 1
 # Introduction
 Greedy algorithms only take what they believe is the best path to the optimal solution and do not explore any other options, making them very efficient and usually simple. However, some problems are unsolvable with greedy algorithms because they require all options to be explored in order to find the optimal answer, in which case other techniques (e.g. dynamic programming) may be needed.
 
-# An example
+# Example
 To illustrate the concept of a greedy algorithm, the following problem is given:
 > Given an array with $$N$$ elements, choose $$K$$ elements such that the sum of the chosen elements is maximized.
 
