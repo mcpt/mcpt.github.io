@@ -41,8 +41,6 @@ gems:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-exclude:
-  - vendor
 
 sass:
   style: compressed
