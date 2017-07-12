@@ -6,14 +6,12 @@ permalink: /ics-lessons/
 ---
 
 {% assign units = site.ics | group_by: 'category' %}
-{% for unit in units %}
-<h1>{{ unit.name | replace:'-',' ' | capitalize}}</h1>
-<ul>
-	{% assign lessons = unit.items | sort: 'order' %}
-	{% for lesson in lessons %}
-	<li>
-		<a href="{{ lesson.url }}">{{ lesson.title }}</a>
-	</li>
+<div>
+	{% for unit in units %}
+		<h1>{{ unit.name | replace:'-',' ' | capitalize}}</h1>
+		{% assign lessons = unit.items | sort: 'order' %}
+		{% for lesson in lessons %}
+			<a href="{{ lesson.url }}">{{ lesson.title }}</a>
+		{% endfor %}
 	{% endfor %}
-</ul>
-{% endfor %}
+</div>
