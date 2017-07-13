@@ -9,8 +9,7 @@ order: 2
 # Introduction
 The following is a diagram of a deque (pronounced "deck"). It is depicted as a linear structure.
 <img class="figure" src="/assets/cpt/diagrams/deque.png">
-
-Elements can be inserted and removed from the front and back (sometimes called top and bottom) as shown above.
+Elements can be inserted and removed from the front and back as shown above.
 
 # Operations
 Because a deque supports the same operations as stacks and queues, the deque can always be used in any situation where a stack and queue are applicable.
@@ -49,7 +48,7 @@ It is important to note that all operations below are performed in amortized $$\
 `ArrayDeque` ([documentation](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayDeque.html)) is a class which implements the methods in `Deque` interface that were shown above. Other classes such as `LinkedList` also implement the above methods, but they are usually slower and/or more difficult to use.
 
 {% highlight java %}
-import java.util.*; // We must import the required classes.
+import java.util.*; // Import the required classes.
 public class DequeTest {
 	public static void main(String[] args) {
 		// Create a Deque called dq which stores objects of type Integer.
@@ -85,7 +84,7 @@ Output:
 # Applications
 Deques are extremely important data structures that are used in many programming problems in place of stacks and queues. While they are rarely the only part of a solution to a problem, they are used as utility data structures in many solutions.
 
-Read the [stack](stack) and [queue](queue) lessons to learn how to use the deque as a functioning stack or queue.
+Read the [stack](./stack) and [queue](./queue) lessons to learn how to use the deque as a functioning stack or queue.
 
 # Practice
 [DMOJ: Sandwich](https://dmoj.ca/problem/sandwich)
