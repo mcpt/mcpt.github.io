@@ -365,10 +365,17 @@ nav {
 	}
 }
 
-.figure {
+img.figure {
 	display: block;
-	width: 50%;
+
+	@include large {
+		max-width: 75%;
+		max-height: 80vh;
+	}
+	@include medium {
+		max-width: 50%;
+	}
 	@include small {
-		width: 100vw;
+		max-width: 100%;
 	}
 }
