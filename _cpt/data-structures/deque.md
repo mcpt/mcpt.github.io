@@ -8,7 +8,7 @@ order: 2
 
 # Introduction
 The following is a diagram of a deque (pronounced "deck"). It is depicted as a linear structure.
-<img class="figure" src="../img/deque.png">
+<img class="figure" src="/assets/cpt/diagrams/deque.png">
 
 Elements can be inserted and removed from the front and back (sometimes called top and bottom) as shown above.
 

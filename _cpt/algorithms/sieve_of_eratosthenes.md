@@ -19,7 +19,7 @@ Depending on what we want to do, we can loop through the prime array again and g
 
 # Visualization
 Visualization of the algorithm on the range $$[1, 100]$$. Gold indicates a prime number. The flashing row at the end shows that the search is done -- all the numbers up to $$\sqrt{100}=10$$ have been checked.
-<img class="figure" src="../img/sieve.gif">
+<img class="figure" src="/assets/cpt/diagrams/sieve.gif">
 
 # Implementation
 {% highlight java %}

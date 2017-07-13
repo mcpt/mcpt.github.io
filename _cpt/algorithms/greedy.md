@@ -55,10 +55,10 @@ return used;
 {% endhighlight %}
 
 If we are given the coin values of $$$1$$, $$$5$$, $$$10$$, $$$25$$, and $$$50$$, what is the smallest number of coins that are needed to represent $$$41$$? When using the greedy algorithm, we can start with one $$$25$$ coin. Now we have to make change for $$$16$$. We can use a $$$10$$ coin, a $$$5$$ coin and finally a $$$1$$ coin --- four coins in total.
-<img class="figure" src="../img/greedy1.png">
+<img class="figure" src="/assets/cpt/diagrams/greedy1.png">
 
 In the above case, the greedy algorithm worked perfectly. However, if we are given the coin values of $$$1$$, $$$5$$, $$$10$$, $$$21$$, $$$25$$ and are asked to make change for $$$63$$, the greedy algorithm would fail. It would suggest to use two $$$25$$ coins, one $$$10$$ coin, and three $$$1$$ coins for a total of six coins. However, the optimal solution would be to use three $$$21$$ coins.
-<img class="figure" src="../img/greedy2.png">
+<img class="figure" src="/assets/cpt/diagrams/greedy2.png">
 
 # Conclusion
 Greedy algorithms are powerful tools that can be used to solve many problems quickly and efficiently. However, greedy algorithms commit to potentially suboptimal decisions early (which is often irreversible), and not all problems can be solved in a greedy manner as a result. Care must be taken to ensure that the greedy algorithm will never overlook the optimal solution in favour of short term gain.
