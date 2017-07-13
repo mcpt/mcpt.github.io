@@ -41,3 +41,9 @@ for(char i = 'a'; i <= 'z'; i++) {
 	System.out.println("The letter " + i + " occurs " + occ[i] + " times");
 }
 {% endhighlight %}
+
+Array mapping can also be used with other keys such as digits: counting the occurrences of digits. Later on, we will learn mapping with other data types, such as ``double``, ``String``, and even custom classes.
+
+# Practice 
+[CCC '11 S1: English or French?](https://dmoj.ca/problem/ccc11s1)\\
+[CCC '16 S1: Ragaman](https://dmoj.ca/problem/ccc16s1)
