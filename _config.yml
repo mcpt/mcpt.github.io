@@ -48,6 +48,7 @@ sass:
 collections:
   cpt:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path/
   ics:
     output: true
+    permalink: /:collection/:path/
