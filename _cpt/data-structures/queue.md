@@ -1,6 +1,6 @@
 ---
 title: Queue
-description: The queue is a first in first out (FIFO) data structure. It allows you to insert elements and remove them in the order in which they were inserted.
+description: The queue is a first in first out (FIFO) data structure. It allows you to insert elements, and remove them in the order in which they were inserted.
 layout: lesson
 category: data-structures
 order: 3
