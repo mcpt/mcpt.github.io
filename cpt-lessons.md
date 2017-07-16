@@ -51,3 +51,18 @@ permalink: /cpt-lessons/
 		{% endif %}
 	{% endfor %}
 </div>
+
+<h1>Advanced</h1>
+
+---
+
+<div>
+	{% for unit in units %}
+		{% if unit.name == "advanced" %}
+			{% assign lessons = unit.items | sort: 'order' %}
+			{% for lesson in lessons %}
+				<a href="{{ lesson.url }}">{{ lesson.title }}</a><br>
+			{% endfor %}
+		{% endif %}
+	{% endfor %}
+</div>

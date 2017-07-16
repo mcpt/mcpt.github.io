@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Mackenzie CPT
 email: mcpt@gmail.com
+repository: mcpt/mcpt.github.io
 description: > # this means to ignore newlines until minipage"baseurl:"
   This is the website for the William Lyon Mackenzie Computer Programming Team.
   Here you can learn about competitive programming.

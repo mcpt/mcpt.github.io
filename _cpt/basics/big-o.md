@@ -21,7 +21,7 @@ $$\mathcal{O}(2N^2+6N) \to \mathcal{O}(N^2)$$
 Complexity is determined by analyzing the number of operations an algorithm performs or the amount of memory allocated by a data structure. For example, if a program looks like the following, then the complexity is $$\mathcal{O}(N)$$
 
 {% highlight java %}
-for(int n = 0; n < N; n++) {
+for (int n = 0; n < N; n++) {
 	// Do something in O(1)
 }
 {% endhighlight %}
@@ -29,7 +29,7 @@ for(int n = 0; n < N; n++) {
 Similarly, the following is $$\mathcal{O}(NM)$$
 
 {% highlight java %}
-for(int n = 0; n < N; n++) {
+for (int n = 0; n < N; n++) {
 	for(int m = 0; m < M; m++) {
 		// Do something in O(1)
 	}
