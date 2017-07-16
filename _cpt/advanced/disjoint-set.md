@@ -86,7 +86,7 @@ The ideas discussed above are implemented below:
 
 {% highlight java %}
 // merges the sets that contain e1 and e2
-public static void union(int e1, int e2) {
+void union(int e1, int e2) {
     int root1 = find(e1), root2 = find(e2);
 
     // e1 and e2 are already part of the same set, nothing should be done
