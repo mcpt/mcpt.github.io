@@ -33,9 +33,9 @@ boolean solve(String expression) {
 // Create a stack which stores objects of type Character.
 	Deque<Character> stack = new ArrayDeque<Character>();
 
-	for(int n = 0; n < expression.length (); n++) {
+	for (int n = 0; n < expression.length (); n++) {
 		// If the character is an opening bracket, add it to the stack
-		if(expression.charAt(n) == '(') {
+		if (expression.charAt(n) == '(') {
 			stack.addFirst('(');
 		} else if(!stack.isEmpty()) { // If the character is a closing bracket and there is an opening bracket that came before it.
 			stack.removeFirst();
@@ -54,7 +54,7 @@ The above code is a simpler version of algorithms that solve BEDMAS equations. T
 The behaviour of recursion closely models how stacks add and remove elements. For example, shown below is a method which recursively calculates the factorial of a given number:
 {% highlight java %}
 public static int factorial(int n) {
-	if(n <= 1) {
+	if (n <= 1) {
 		return 1;
 	}
 
@@ -81,11 +81,11 @@ public static int factorial(int n) {
 
 	int result = 1, curr = 0;
 
-	while(!stack.isEmpty()) {
+	while (!stack.isEmpty()) {
 		curr = stack.removeFirst();
 		result *= curr;
 
-		if(curr > 1) {
+		if (curr > 1) {
 		  stack.addFirst(curr - 1);
 		}
 	}

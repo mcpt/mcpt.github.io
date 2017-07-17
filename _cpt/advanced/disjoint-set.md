@@ -90,7 +90,8 @@ void union(int e1, int e2) {
 	int root1 = find(e1), root2 = find(e2);
 
 	// e1 and e2 are already part of the same set, nothing should be done
-	if (root1 == root2) return;
+	if (root1 == root2)
+		return;
 	
 	if (rank[root1] < rank[root2]) {
 		// if tree rooted at root1 is longer than root2

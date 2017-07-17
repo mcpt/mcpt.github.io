@@ -23,7 +23,7 @@ We need to *map* each letter to an index in the array. Let's use `a` to `0`, `b`
 {% highlight java%}
 String word = "hello";
 int[] occ = new int[26]; // Occurrences
-for(char c : word.toCharArray()) {
+for (char c : word.toCharArray()) {
 	occ[c - 'a']++; // 'a' for lowercase and 'A' for uppercase
 }
 {% endhighlight %}
@@ -32,12 +32,12 @@ Mapping isn't limited to only letters though. Just use a bigger array to support
 {% highlight java%}
 String word = "mcpt.ca";
 int[] occ = new int[256]; // Many more ASCII values
-for(char c : word.toCharArray()) {
+for (char c : word.toCharArray()) {
 	occ[c]++;
 }
 
 // Print the occurences of only lowercase letters
-for(char i = 'a'; i <= 'z'; i++) {
+for (char i = 'a'; i <= 'z'; i++) {
 	System.out.println("The letter " + i + " occurs " + occ[i] + " times");
 }
 {% endhighlight %}

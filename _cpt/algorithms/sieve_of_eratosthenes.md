@@ -28,9 +28,9 @@ Arrays.fill(isPrime, true); // Need to import java.util.Arrays;
 isPrime[0] = false;
 isPrime[1] = false;
 
-for(int i = 2; i * i <= M; i++) {
-	if(isPrime[i]) {
-		for(int j = i * i; j <= M; j += i)
+for (int i = 2; i * i <= M; i++) {
+	if (isPrime[i]) {
+		for (int j = i * i; j <= M; j += i)
 			isPrime[j] = false;
 	}
 }

@@ -21,8 +21,9 @@ This is likely one of the most primitive search problems. It requires you to *se
 ### Implementation
 {% highlight java %}
 int max = 0;
-for(int n = 0; n < N; n++)
-	if(a[n] > max) max = a[n];
+for (int n = 0; n < N; n++)
+	if (a[n] > max)
+		max = a[n];
 System.out.println(max);
 {% endhighlight %}
 
@@ -41,13 +42,13 @@ However, we can optimize the search. All prime factors of a number $$N$$ are les
 ### Implementation
 {% highlight java %}
 boolean isPrime(int N) {
-	if(N == 2)
+	if (N == 2)
 		return true;
-	if(N < 2 || N % 2 == 0)
+	if (N < 2 || N % 2 == 0)
 		return false;
 
-	for(int i = 3; i * i <= N; i += 2) {
-		if(N % i == 0)
+	for (int i = 3; i * i <= N; i += 2) {
+		if (N % i == 0)
 			return false;
 	}
 	return true;

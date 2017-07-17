@@ -43,7 +43,7 @@ Finally, after all $$Q$$ events are over, we can simply sum up all the bread sli
 {% highlight java %}
 int total = 0;
 
-while(!queue.isEmpty()) { // As long as there are still people in the queue.
+while (!queue.isEmpty()) { // As long as there are still people in the queue.
 	total += queue.removeFirst(); // Remove them from the line and add their bread slices to the total.
 }
 

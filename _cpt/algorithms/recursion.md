@@ -17,7 +17,7 @@ Recursion is more of a general technique than an algorithm. It is where a method
 This method counts down, using recursion:
 {% highlight java %}
 void countDown(int num) {
-	if(num == 1) {
+	if (num == 1) {
 		System.out.println(1);
 		return;
 	}
@@ -31,7 +31,7 @@ Calling `countDown(5);` will result in the following output: `5 4 3 2 1`.
 The method can be easily changed to make the method count up instead:
 {% highlight java %}
 void countUp(int num) {
-	if(num == 1) {
+	if (num == 1) {
 		System.out.print(1);
 		return;
 	}
@@ -59,7 +59,7 @@ The recursive function is defined with it's base cases which are the terminating
 
 {% highlight java %}
 int fib(int n) {
-	if(n <= 2)
+	if (n <= 2)
 		return 1;
 	return fib(n - 1) + fib(n - 2);
 }
@@ -71,9 +71,9 @@ int fib(int n) {
 Another fundamental rule of recursion is that the method does not call itself with the same parameter, thus causing infinite loops. Similarly, there are other ways to achieve an infinite loop.
 {% highlight java %}
 void inf(int n) {
-	if(n == 0)
+	if (n == 0)
 		return;
-	if(n % 2 == 0)
+	if (n % 2 == 0)
 		inf(n - 1);
 	inf(n + 1);
 }
