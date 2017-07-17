@@ -53,21 +53,21 @@ Construction of a 2D prefix sum array `psa` from 2D array `a` of size `C` by `R`
 int[] psa = new int[C + 1][R + 1];
 
 for (int r = 1; r <= R; r++) {
-    for (int c = 0; c <= C; c++) {
-        psa[c][r] = psa[c - 1][r] + psa[c][r - 1] + a[c - 1][r - 1];
-    }
+	for (int c = 0; c <= C; c++) {
+		psa[c][r] = psa[c - 1][r] + psa[c][r - 1] + a[c - 1][r - 1];
+	}
 }
 {% endhighlight %}
 Query sum of rectangular region with left-top corner at $$(c1,r1)$$ and bottom-right corner at $$(c2,r2)$$.
 {% highlight java %}
 int sum(int c1, int r1, int c2, int r2) {
-    return psa[c2 + 1][r2 + 1] - psa[c1][r2 + 1] - psa[c2 + 1][r1] + psa[c1][r1];
+	return psa[c2 + 1][r2 + 1] - psa[c1][r2 + 1] - psa[c2 + 1][r1] + psa[c1][r1];
 }
 {% endhighlight %}
 Alternatively, if the rectangular region is represented by $$[(c,r),(c+w+1,r+h+1)]$$. $$(c,r)$$ is the starting square, and the rectangle is $$w$$ squares wide and $$h$$ squares high.
 {% highlight java %}
 int sum(int c, int r, int w, int h) {
-    return psa[c + w + 1][r + h + 1] - psa[c][r + h + 1] - psa[c + h + 1][r] + psa[c][r];
+	return psa[c + w + 1][r + h + 1] - psa[c][r + h + 1] - psa[c + h + 1][r] + psa[c][r];
 }
 {% endhighlight %}
 

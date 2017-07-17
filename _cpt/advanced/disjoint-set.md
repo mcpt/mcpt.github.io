@@ -47,8 +47,8 @@ int[] rank = new int [N];
 
 // each element is the root of its own tree and they all have the same rank at first (as each set contains one element)
 for (int n = 0; n < N; n++) {
-    rank[n] = 0;
-    parent [n] = n;
+	rank[n] = 0;
+	parent [n] = n;
 }
 {% endhighlight %}
 
@@ -57,12 +57,12 @@ Using this 'rooted tree' structure, it is simple to find which set a given eleme
 {% highlight java %}
 // returns the root element of the set containing e
 int find(int e) {
-    // if root has not been found, keep recursing
-    if (parent[e] != e) {
-        // parent[e] links directly to root now, saving time for later operations
-        parent[e] = find(parent[e]);
-    }
-    return parent[e];
+	// if root has not been found, keep recursing
+	if (parent[e] != e) {
+		// parent[e] links directly to root now, saving time for later operations
+		parent[e] = find(parent[e]);
+	}
+	return parent[e];
 }
 {% endhighlight %}
 
@@ -87,23 +87,23 @@ The ideas discussed above are implemented below:
 {% highlight java %}
 // merges the sets that contain e1 and e2
 void union(int e1, int e2) {
-    int root1 = find(e1), root2 = find(e2);
+	int root1 = find(e1), root2 = find(e2);
 
-    // e1 and e2 are already part of the same set, nothing should be done
-    if (root1 == root2) return;
-    
-    if (rank[root1] < rank[root2]) {
-        // if tree rooted at root1 is longer than root2
-        parent[root1] = root2;
-    } else if (rank[root1] > rank[root2]) {
-        // if tree rooted at root2 is longer than root1
-        parent[root2] = root1;
-    } else {
-        // the roots have the same rank, doesn't matter which one becomes the new root
-        // as the new tree has a greater max depth now, increase the rank of the new root by 1
-        parent[root1] = root2;
-        rank[root2]++;
-    }
+	// e1 and e2 are already part of the same set, nothing should be done
+	if (root1 == root2) return;
+	
+	if (rank[root1] < rank[root2]) {
+		// if tree rooted at root1 is longer than root2
+		parent[root1] = root2;
+	} else if (rank[root1] > rank[root2]) {
+		// if tree rooted at root2 is longer than root1
+		parent[root2] = root1;
+	} else {
+		// the roots have the same rank, doesn't matter which one becomes the new root
+		// as the new tree has a greater max depth now, increase the rank of the new root by 1
+		parent[root1] = root2;
+		rank[root2]++;
+	}
 }
 {% endhighlight %}
 
