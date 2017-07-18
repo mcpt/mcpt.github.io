@@ -8,7 +8,9 @@ order: 4
 
 # Introduction
 The following is a diagram of a stack. It is depicted as a linear structure. The last element inserted is called the top.
-<img class="figure" src="/assets/cpt/diagrams/stack1.png">
+<figure>
+	<img src="/assets/cpt/diagrams/stack1.png">
+</figure>
 Elements may only be inserted into and removed from the top.
 
 # Example
@@ -20,7 +22,9 @@ To understand how a stack might be used to solve programming problems, let's sol
 > Example of incorrectly nested parentheses include: `())`, `()((()`, and `)(()())`.
 
 To solve this problem, realize that as you read the expression from left to right, the most recent open bracket always matches the first close bracket, as shown in the diagram below:
-<img class="figure" src="/assets/cpt/diagrams/stack2.png">
+<figure>
+<img src="/assets/cpt/diagrams/stack2.png">
+</figure>
 
 Using this information, we can form an algorithm. We will iterate through the expression left to right. If a `(` character is encountered, it will be added to the stack. If a `)` character is encountered, we will remove a ( character from the stack, as it has been matched. If there is no `(` to remove from the stack, it means that the expression is unbalanced. The expression is also unbalanced if the stack still has elements after the iteration is complete.
 

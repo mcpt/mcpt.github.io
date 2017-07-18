@@ -163,6 +163,23 @@ a {
 		font-size: 1rem;
 	}
 
+	figure {
+		img {
+			display: block;
+
+			@include large {
+				max-width: 75%;
+				max-height: 80vh;
+			}
+			@include medium {
+				max-width: 50%;
+			}
+			@include small {
+				max-width: 100%;
+			}
+		}
+	}
+
 	img {
 		max-width: 100%;
 	}
@@ -361,20 +378,5 @@ nav {
 	li {
 		display: inline;
 		margin: 2vw;
-	}
-}
-
-img.figure {
-	display: block;
-
-	@include large {
-		max-width: 75%;
-		max-height: 80vh;
-	}
-	@include medium {
-		max-width: 50%;
-	}
-	@include small {
-		max-width: 100%;
 	}
 }

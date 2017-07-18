@@ -7,9 +7,9 @@ order: 1
 ---
 
 # Memoization
-An example of when memoization can be used is with the recursive fibonacci function.
+An example of when memoization can be used is with the recursive Fibonacci function.
 
-The following is the unoptimized fibonacci function.
+The following is the unoptimized Fibonacci function.
 {% highlight java %}
 int fib(int n) {
 	if (n <= 2)

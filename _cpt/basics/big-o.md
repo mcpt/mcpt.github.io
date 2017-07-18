@@ -42,13 +42,19 @@ Logarithmic complexity ($$\mathcal{O}(\log N)$$) typically comes from some kind 
 
 # Common Complexities
 We will now compare many common complexities. The upper bound on both axes is 100.
-<img class="figure" src="/assets/cpt/diagrams/big-o-notation1.png">
+<figure>
+	<img src="/assets/cpt/diagrams/big-o-notation1.png">
+</figure>
 
 Now this is the same graph except on a bigger scale. The upper bound on both axes is 10000.
-<img class="figure" src="/assets/cpt/diagrams/big-o-notation2.png">
+<figure>
+	<img src="/assets/cpt/diagrams/big-o-notation2.png">
+</figure>
 
 However, there are a couple of complexities that aren't didn't include here because they grow too quickly to be graphed. We will look at them on a logarithmic scale. The upper bound on both axes is 100.
-<img class="figure" src="/assets/cpt/diagrams/big-o-notation3.png">
+<figure>
+	<img src="/assets/cpt/diagrams/big-o-notation3.png">
+</figure>
 
 # Constraints
 Knowing the maximum constraint of an algorithm is a useful in figuring out the time complexity required to solve a given problem.

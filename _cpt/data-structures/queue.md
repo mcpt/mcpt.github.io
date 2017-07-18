@@ -8,7 +8,9 @@ order: 3
 
 # Introduction
 The following is a diagram of a queue. It is depicted as a linear structure. The first element is called the front. It is the next element to be removed. Conversely, the last element is called the back. It is the most recently inserted element.
-<img class="figure" src="/assets/cpt/diagrams/queue.png">
+<figure>
+	<img src="/assets/cpt/diagrams/queue.png">
+</figure>
 Elements may only be inserted to the back and removed from the front.
 
 # Example
