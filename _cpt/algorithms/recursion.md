@@ -49,10 +49,10 @@ Another classical recursive method is the Fibonacci function. This function find
 
 $$
 \mathrm{fib}(n) =
-    \begin{cases}
+	\begin{cases}
 		1 & \quad \text{if } 1 \le n \le 2 \\
 		\mathrm{fib}(n - 1) + \mathrm{fib}(n - 2) & \quad \text{if } n \gt 2 \\
-    \end{cases}
+	\end{cases}
 $$
 
 The recursive function is defined with it's base cases which are the terminating scenarios of a method which are required to end the recursion. In the two methods above, $$num=1$$ were the base cases. It is very easy to convert the recursive Fibonacci sequence to code.
