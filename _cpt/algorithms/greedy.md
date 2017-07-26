@@ -45,10 +45,10 @@ Arrays.sort(coins); // Sorts coin array in ascending order by value
 int used = 0;
 
 for (int n = N - 1; n >= 0; n--) { // Iterates through coins in descending order by value
-    while (coins[n] <= S) { // Keep using a certain coin to make change as long as it is possible to do so
-      S -= coins[n];
-      used++;
-    }
+	while (coins[n] <= S) { // Keep using a certain coin to make change as long as it is possible to do so
+		S -= coins[n];
+		used++;
+	}
 }
 
 return used;

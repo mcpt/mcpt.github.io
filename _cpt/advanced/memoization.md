@@ -7,6 +7,7 @@ order: 1
 ---
 
 # Memoization
+Memoization is the act of storing previous answers so they don't have to be calculated again. \\
 An example of when memoization can be used is with the recursive Fibonacci function.
 
 The following is the unoptimized Fibonacci function.
@@ -17,6 +18,8 @@ int fib(int n) {
 	return fib(n - 1) + fib(n - 2);
 }
 {% endhighlight %}
+Notice that `fib(5)` will calculate `fib(4)` and `fib(3)`. `fib(4)` will also calculate `fib(3)`, which has already been calculated.
+
 To optimize the function, a global array `cache` is initialized with the maximum value of `n` of and filled with `-1`. The function will then be as follows:
 {% highlight java %}
 int fib(int n) {
@@ -31,4 +34,4 @@ int fib(int n) {
 Base cases may be hardcoded into the cache array or in the function.
 
 # Practice
-[Practice Question Here](404)
+[P1 - HSIUNG](https://dmoj.ca/problem/rgss1)
