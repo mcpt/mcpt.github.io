@@ -5,4 +5,4 @@ description: Resources for learning competitive programming.
 permalink: /cpt/
 ---
 
-# [Lessons](/cpt/lesson-list)
+# [Lessons](/cpt-lessons/list)

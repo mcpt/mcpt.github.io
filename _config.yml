@@ -47,9 +47,12 @@ sass:
   style: compressed
 
 collections:
-  cpt:
+  cpt-lessons:
     output: true
     permalink: /:collection/:path
-  ics:
+  ics-lessons:
+    output: true
+    permalink: /:collection/:path
+  cpt-problems:
     output: true
     permalink: /:collection/:path

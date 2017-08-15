@@ -5,4 +5,4 @@ description: Resources for learning computer science.
 permalink: /ics/
 ---
 
-# [Lessons](/ics/lesson-list)
+# [Lessons](/ics-lessons/list)

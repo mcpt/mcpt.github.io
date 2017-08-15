@@ -4,7 +4,7 @@ title: ICS Lessons
 description: Lessons on programming for your ICS course.
 ---
 
-{% assign units = site.ics | group_by: 'category' %}
+{% assign units = site.ics-lessons | group_by: 'category' %}
 <div>
 	{% for unit in units %}
 		<h1>{{ unit.name | replace:'-',' ' | capitalize}}</h1>
