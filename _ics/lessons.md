@@ -2,6 +2,7 @@
 layout: default
 title: ICS Lessons
 description: Lessons on programming for your ICS course.
+permalink: /ics/lessons/
 ---
 
 {% assign units = site.ics | group_by: 'category' %}
