@@ -6,7 +6,7 @@ description: Lessons on competitive programming.
 
 {% assign units = site.cpt-lessons | group_by: 'category' %}
 
-<h1>Basics</h1>
+# Basics
 
 ---
 
@@ -21,7 +21,7 @@ description: Lessons on competitive programming.
 	{% endfor %}
 </div>
 
-<h1>Algorithms</h1>
+# Algorithms
 
 ---
 
@@ -36,7 +36,7 @@ description: Lessons on competitive programming.
 	{% endfor %}
 </div>
 
-<h1>Data Structures</h1>
+# Data Structures
 
 ---
 
@@ -51,7 +51,7 @@ description: Lessons on competitive programming.
 	{% endfor %}
 </div>
 
-<h1>Advanced</h1>
+# Advanced
 
 ---
 
