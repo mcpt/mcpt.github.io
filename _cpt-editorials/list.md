@@ -14,8 +14,8 @@ description: Editorials to practice problems.
 <div>
 	{% for contest in contests %}
 		{% if contest.name == "jdcc2015" %}
-			{% assign problems = contest.items | sort: 'round' %}
-			{% for problem in problems | sort: 'difficulty'%}
+			{% assign problems = contest.items | sort: 'round' | sort: 'difficulty' %}
+			{% for problem in problems %}
 				<a href="{{ problem.url }}">{{ problem.difficulty | upcase}}. {{ problem.title }}</a><br>
 			{% endfor %}
 		{% endif%}
