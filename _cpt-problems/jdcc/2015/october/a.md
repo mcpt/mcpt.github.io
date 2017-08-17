@@ -47,4 +47,4 @@ In the first test case, your first guess was 3 and your friend says you were off
 ---
 
 # Editorial
-[Read only if you are stuck or have already solved the problem.](https://example.com)
+[Read only if you are stuck or have already solved the problem.](/cpt-editorials/jdcc/2015/october/a)
