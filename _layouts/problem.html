@@ -14,7 +14,7 @@
 	<body>
 		<section class="page-header">
 			<h1 class="page-name">{{ page.title | default: site.title}}</h1>
-			<h2 class="page-tagline">{{ page.description | default: site.description}}</h2>
+			<h2 class="page-tagline">{{ page.problem-id | default: site.description}} by {{ page.problem-author }}</h2>
 			<nav>
 				<ul>
 					<li><a href="/">Home</a></li>
