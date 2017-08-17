@@ -56,3 +56,6 @@ collections:
   cpt-problems:
     output: true
     permalink: /:collection/:path
+  cpt-editorials:
+    output: true
+    permalink: /:collection/:path

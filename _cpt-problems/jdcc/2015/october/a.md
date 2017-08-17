@@ -44,5 +44,7 @@ For each test case, output one integer, your friend's number.
 # Explanation for Sample Output
 In the first test case, your first guess was 3 and your friend says you were off by 2. Your second guess was 7, and your friend says you were again off by 2. The only number that is 2 away from both 3 and 7 is 5, so that must be your friend's number.
 
+---
+
 # Editorial
 [Read only if you are stuck or have already solved the problem.](https://example.com)
