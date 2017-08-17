@@ -1,67 +1,23 @@
 ---
 layout: default
-title: CPT Lessons
-description: Lessons on competitive programming.
+title: CPT Problems
+description: Problems to practice competitive programming
 ---
 
-{% assign units = site.cpt | group_by: 'category' %}
+{% assign contests = site.cpt-problems | group_by: 'contest' %}
 
-# Basics
+# JDCC
 
 ---
 
+## 2015
 <div>
-	{% for unit in units %}
-		{% if unit.name == "basics" %}
-			{% assign lessons = unit.items | sort: 'order' %}
-			{% for lesson in lessons %}
-				<a href="{{ lesson.url }}">{{ lesson.title }}</a><br>
+	{% for contest in contests %}
+		{% if contest.name == "jdcc2015" %}
+			{% assign problems = contest.items | sort: 'round' %}
+			{% for problem in problems | sort: 'difficulty'%}
+				<a href="{{ problem.url }}">{{ problem.difficulty | upcase}}. {{ problem.title }}</a>
 			{% endfor %}
 		{% endif%}
-	{% endfor %}
-</div>
-
-# Algorithms
-
----
-
-<div>
-	{% for unit in units %}
-		{% if unit.name == "algorithms" %}
-			{% assign lessons = unit.items | sort: 'order' %}
-			{% for lesson in lessons %}
-				<a href="{{ lesson.url }}">{{ lesson.title }}</a><br>
-			{% endfor %}
-		{% endif %}
-	{% endfor %}
-</div>
-
-# Data Structures
-
----
-
-<div>
-	{% for unit in units %}
-		{% if unit.name == "data-structures" %}
-			{% assign lessons = unit.items | sort: 'order' %}
-			{% for lesson in lessons %}
-				<a href="{{ lesson.url }}">{{ lesson.title }}</a><br>
-			{% endfor %}
-		{% endif %}
-	{% endfor %}
-</div>
-
-# Advanced
-
----
-
-<div>
-	{% for unit in units %}
-		{% if unit.name == "advanced" %}
-			{% assign lessons = unit.items | sort: 'order' %}
-			{% for lesson in lessons %}
-				<a href="{{ lesson.url }}">{{ lesson.title }}</a><br>
-			{% endfor %}
-		{% endif %}
 	{% endfor %}
 </div>
