@@ -5,7 +5,7 @@ problem-id: jdcc15octb
 editorial-author: aurpine
 contest: jdcc2015
 round: 10
-month: october
+round-title: october
 difficulty: b
 ---
 
