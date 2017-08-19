@@ -3,7 +3,7 @@ layout: editorial
 title: Lifting Weights
 problem-id: jdcc15nova
 editorial-author: Vincent Macri
-contest: jdcc15
+contest: jdcc2015
 round: 11
 round-title: november
 difficulty: a
