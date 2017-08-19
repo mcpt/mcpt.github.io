@@ -18,7 +18,7 @@ But how do we test if a level fills to the end? We can use either BFS or a recur
 
 Once we find the lowest level, we can use the same algorithm to find out how much water was used. In fact, you can find the amount of water used while testing a water level. When filling a block, use a counter that contains the amount of water used. The amount of water used for a single block is $$\text{water level} - \text{block level}$$. Remember to use a ``long`` and to mod by $$1\,000\,000\,007$$.
 
-## Time Complexity
+## Time complexity
 $$\mathcal{O}(RC\log L)$$, where $$L$$ is the level ($$1\,000\,000$$). Thus approximately $$\mathcal{O}(20RC)$$ per test case.
 
 ---

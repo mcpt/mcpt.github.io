@@ -13,7 +13,7 @@ It helps to know about the integer parsing functions part of most languages that
 
 However, if you experiment with a few numbers you will find that the highest mark is in either the highest or lowest base possible. Thus, we find the highest digit in the two numbers. The lowest base possible is one greater than the highest digit. The highest base as stated in the problem is one less than the denominator. Just check the two numbers and print the maximum.
 
-## Time Complexity
+## Time complexity
 $$\mathcal{O}(1)$$
 
 ---

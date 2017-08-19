@@ -19,7 +19,7 @@ We can derive the equation $$M = A − N$$. For which in the example above, $$M_
 
 Let us use some equations. If $$M_1$$ is positive, then $$N_1 + M_1 = A$$, otherwise, it wouldn't. We can use a system of equations to check if $$M_1$$ is positive. $$\vert M_2\vert = A - N_2$$. We are given differences as absolute values, so the equation is equivalent to $$M_2 == A - N_2$$. Then we plug in $$A$$: $$M_2 = \vert N_1 + M_1 - N_2\vert $$. If the equation holds true, then $$M_1$$ is positive (output $$N_1 + M_1$$), otherwise, $$M_1$$ is negative (output $$N_1 - M_1$$).
 
-## Time Complexity
+## Time complexity
 $$\mathcal{O}(1)$$
 
 ---

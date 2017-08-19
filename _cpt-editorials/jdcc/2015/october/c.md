@@ -13,7 +13,7 @@ We'll use the assumption that we can minimize the number of candy given by makin
 
 After finding our adjustment value, we go through all the marks to figure out who passes. If the mark + adjustment is at least a 50%, then we add one more to our candy counter. Output the final value of the counter.
 
-## Time Complexity
+## Time complexity
 $$\mathcal{O}(N)$$, where $$N$$ is the number of students.
 
 ---
