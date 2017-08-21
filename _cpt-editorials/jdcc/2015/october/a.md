@@ -13,7 +13,9 @@ Mathematically find the last number. Since you are given the absolute distance f
 
 Let's imagine the numbers on a number line. $$A$$ is the answer, $$N_1$$ and $$N_2$$ are the guesses, and $$M_1$$ and $$M_2$$ are the respective distances from the answer.
 
-<img class="figure" src="/assets/cpt/editorials/jdcc15octa.png">
+<figure>
+	<img src="/assets/cpt/editorials/jdcc15octa.png">
+</figure>
 
 We can derive the equation $$M = A − N$$. For which in the example above, $$M_1$$ is positive and $$M_2$$ is negative. There are four cases of combinations of positive and negative differences ($$M$$), but we don't need to check them all. We just need to know if $$N_1 + M_1 = A$$.
 

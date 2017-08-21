@@ -7,7 +7,9 @@ order: #
 ---
 
 # Introduction
-<img class="figure" src="/assets/cpt/diagrams/image.png">
+<figure>
+	<img src="/assets/cpt/diagrams/image.png">
+</figure>
 
 {% highlight java %}
 // Java code
