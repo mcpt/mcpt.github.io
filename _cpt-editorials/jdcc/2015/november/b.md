@@ -1,6 +1,6 @@
 ---
 layout: editorial
-title: Icy Sprial
+title: Icy Spiral
 problem-id: jdcc15novb
 editorial-author: aurpine
 contest: jdcc2015
