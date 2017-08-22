@@ -19,10 +19,10 @@ The first line of the input provides the number of test cases, $$T (1 \leq T \le
 
 **Note:** No two students will have the same number of votes, and there will be at least one boy and one girl.
 
----
-
 # Output
 For each test case, output one line containing the name of the female co-president and male co-president, separated by a space.
+
+---
 
 # Sample input
 {% highlight text %}

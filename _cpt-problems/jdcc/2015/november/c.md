@@ -19,10 +19,10 @@ For example, ``Charles`` and ``Kate`` share two letters: they are an okay match.
 # Input
 The first line of the input provides the number of test cases, $$T (1 \leq T \leq 100)$$. $$T$$ test cases follow. Each test case begins with a string $$S$$, a person's name, and $$N (1 \leq N \leq 1000)$$, the number of potential partners. $$N$$ lines follow, each containing one name. The names will appear in alphabetical order and will be entirely capitalized.
 
----
-
 # Output
 For each test case, output the name of the best partner. If multiple partners share the same number of letters with the person, output the name which comes first alphabetically.
+
+---
 
 # Sample input
 {% highlight text %}
@@ -36,7 +36,6 @@ ANDREW
 ANN
 JANE
 {% endhighlight %}
-
 
 # Sample output
 {% highlight text %}

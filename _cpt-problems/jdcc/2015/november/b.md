@@ -17,10 +17,10 @@ Mark loves watching the Zamboni clean the ice at his local rink. In particular, 
 # Input
 The first line of input provides the number of test cases, $$T (1 \leq T \leq 100)$$. $$T$$ test cases follow. Each test case consists of one line containing two integers $$H$$ and $$W$$ $$(1 \leq H,W \leq 100)$$, the height and width of the ring. The Zamboni is one unit wide.
 
----
-
 # Output
 For each test case, your program should output one integer, the amount of turns the Zamboni makes.
+
+---
 
 # Sample input
 {% highlight text %}
@@ -28,7 +28,6 @@ For each test case, your program should output one integer, the amount of turns 
 3 5
 4 4
 {% endhighlight %}
-
 
 # Sample output
 {% highlight text %}
@@ -41,6 +40,8 @@ In the first test case, the Zamboni takes the following path:
 <figure>
 	<img src="/assets/cpt/problems/jdcc15novb.png">
 </figure>
+
+---
 
 # Editorial
 [Read only if you are stuck or have already solved the problem.](/cpt-editorials/jdcc/2015/november/b)

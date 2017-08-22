@@ -21,10 +21,10 @@ Given the serial number of a ticket, find the serial number of the next lucky ti
 # Input
 The first line on input contains $$T (1 \leq T \leq 100)$$, the number of test cases. $$T$$ test cases follow. Each test case contains an integer $$N$$, $$(1 \leq N \leq 10^{100})$$, the serial number of a ticket. $$N$$ will have an even number of digits and may be given with leading zeroes, however $$N$$ will never have every single digit be nine.
 
----
-
 # Output
 For each test case, your program should output one integer, the next lucky ticket.
+
+---
 
 # Sample input
 {% highlight text %}
@@ -33,7 +33,6 @@ For each test case, your program should output one integer, the next lucky ticke
 113331
 123456789123455789
 {% endhighlight %}
-
 
 # Sample output
 {% highlight text %}

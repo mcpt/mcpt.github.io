@@ -17,10 +17,10 @@ Describe problem.
 # Input
 Describe input.
 
----
-
 # Output
 Describe output.
+
+---
 
 # Sample input
 {% highlight text %}
@@ -39,6 +39,8 @@ Describe output.
 
 # Explanation for Sample Output
 Explain sample output.
+
+---
 
 # Editorial
 [Read only if you are stuck or have already solved the problem.](https://example.com)

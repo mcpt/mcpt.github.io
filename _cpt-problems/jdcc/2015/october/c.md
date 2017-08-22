@@ -19,10 +19,10 @@ Ms. Dyke has picked you to figure out what is the minimum number of candy she ca
 # Input
 The first line of the input provides the number of test cases, $$T (1 \leq T \leq 100)$$. $$T$$ test cases follow. The first line of each test case provides the number of students in her class, $$N (2 \leq N \leq 1000)$$. The next $$N$$ lines each contain a real number $$M (0 \leq M \leq 100)$$, the mark of one of her students. Marks are given in increasing order and no two marks are the same.
 
----
-
 # Output
 A single integer denoting the minimum amount of candy she needs to give out.
+
+---
 
 # Sample input
 {% highlight text %}

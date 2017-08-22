@@ -17,10 +17,10 @@ You and a friend are playing a guessing game. Your friend picks a number between
 # Input
 The first line of the input provides the number of test cases, $$T (1 \leq T \leq 100)$$. $$T$$ test cases follow. Each test case consists of four lines. The first line contains integer $$N$$ and the second line contains integer $$M (1 \leq N, M \leq 1000)$$, the number you guessed and by how much your guess was off, respectively. The third and fourth lines each contain one integer, your second guess and by how much it was off respectively.
 
----
-
 # Output
 For each test case, output one integer, your friend's number.
+
+---
 
 # Sample input
 {% highlight text %}

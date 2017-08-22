@@ -19,10 +19,10 @@ Eve, like many other students, wants to get a high mark. However, she forgot to 
 # Input
 The first line of the input provides the number of test cases, $$T (1 \leq T \leq 100)$$. $$T$$ test cases follow, each test case consisting of two integers $$N$$ and $$D (1 \leq N \leq D  \leq 1200)$$, the numerator and denominator of her grade.
 
----
-
 # Output
 For each test case, output the percent value of the highest possible mark she can achieve by changing the base, rounded to 6 decimal places.
+
+---
 
 # Sample input
 {% highlight text %}
