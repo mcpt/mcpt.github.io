@@ -4,7 +4,7 @@ title: Lifting Weights
 problem-id: jdcc15nova
 problem-author: rtilikay
 contest: jdcc2015
-round: 11
+round: 2
 round-title: november
 difficulty: a
 ---

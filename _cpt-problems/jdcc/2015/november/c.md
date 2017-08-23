@@ -4,7 +4,7 @@ title: eLettery
 problem-id: jdcc15novc
 problem-author: rtilikay
 contest: jdcc2015
-round: 11
+round: 2
 round-title: november
 difficulty: c
 ---

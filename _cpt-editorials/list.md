@@ -10,7 +10,7 @@ description: Editorials to practice problems.
 
 ---
 
-## 2015
+## 2015-2016
 <div>
 	{% for contest in contests %}
 		{% if contest.name == "jdcc2015" %}

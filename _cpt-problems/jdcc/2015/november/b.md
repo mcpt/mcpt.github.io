@@ -4,7 +4,7 @@ title: Icy Spiral
 problem-id: jdcc15novb
 problem-author: rtilikay
 contest: jdcc2015
-round: 11
+round: 2
 round-title: november
 difficulty: b
 ---

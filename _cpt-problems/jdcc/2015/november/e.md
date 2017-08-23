@@ -4,7 +4,7 @@ title: Randomize
 problem-id: jdcc15nove
 problem-author: rtilikay
 contest: jdcc2015
-round: 11
+round: 2
 round-title: november
 difficulty: e
 ---

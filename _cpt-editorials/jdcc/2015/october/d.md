@@ -4,7 +4,7 @@ title: Basically Right
 problem-id: jdcc15octd
 editorial-author: aurpine
 contest: jdcc2015
-round: 10
+round: 1
 round-title: october
 difficulty: d
 ---

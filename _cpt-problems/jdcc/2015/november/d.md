@@ -4,7 +4,7 @@ title: Lucky Tickets
 problem-id: jdcc15novd
 problem-author: rtilikay
 contest: jdcc2015
-round: 11
+round: 2
 round-title: november
 difficulty: d
 ---

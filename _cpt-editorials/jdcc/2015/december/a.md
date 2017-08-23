@@ -4,7 +4,7 @@ title: Countdown
 problem-id: jdcc15deca
 editorial-author: aurpine
 contest: jdcc2015
-round: 12
+round: 3
 round-title: december
 difficulty: a
 ---
