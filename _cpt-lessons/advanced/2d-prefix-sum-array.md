@@ -67,7 +67,7 @@ int sum(int c1, int r1, int c2, int r2) {
 Alternatively, if the rectangular region is represented by $$[(c,r),(c+w+1,r+h+1)]$$. $$(c,r)$$ is the starting square, and the rectangle is $$w$$ squares wide and $$h$$ squares high.
 {% highlight java %}
 int sum(int c, int r, int w, int h) {
-	return psa[c + w + 1][r + h + 1] - psa[c][r + h + 1] - psa[c + h + 1][r] + psa[c][r];
+	return psa[c + w + 1][r + h + 1] - psa[c][r + h + 1] - psa[c + w + 1][r] + psa[c][r];
 }
 {% endhighlight %}
 
