@@ -36,9 +36,6 @@ For each test case, your program should output one line containing the countdown
 5 4 3 2 1 0!
 {% endhighlight %}
 
-# Explanation for Sample Output
-Explain sample output.
-
 ---
 
 # Editorial
