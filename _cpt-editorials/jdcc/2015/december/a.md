@@ -9,7 +9,6 @@ round-title: december
 difficulty: a
 ---
 
-
 Very easy implementation problem. Use a for loop to count print all the numbers $$N \dots 1$$ with a space after. Then print ``"0!"``.
 
 ## Time complexity
