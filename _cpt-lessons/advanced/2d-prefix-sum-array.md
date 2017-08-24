@@ -12,27 +12,39 @@ The underlying structure is a simple 2D array of size `[C + 1][R + 1]`, where `C
 
 Say we have this grid, full of 1s:
 
-IMAGE
+<figure>
+	<img src="/assets/cpt/diagrams/2dpsa1.png">
+</figure>
 
 The prefix sum array would look like:
 
-IMAGE
+<figure>
+	<img src="/assets/cpt/diagrams/2dpsa2.png">
+</figure>
 
 `psa[c][r]` contains the sum of the region $$[(0,0),(c−1,r−1)]$$. `psa[3][3]` has a value of `9`.
 
-IMAGE
+<figure>
+	<img src="/assets/cpt/diagrams/2dpsa3.png">
+</figure>
 
-Say we only wanted the sum of the region $$[(1,2),(2,2)]$$. We would have an extra region, highlighted in red.
+Say we only wanted the sum of the region $$[(1,2),(2,2)]$$. We would have an extra region, highlighted in pink.
 
-IMAGE
+<figure>
+	<img src="/assets/cpt/diagrams/2dpsa4.png">
+</figure>
 
 We must subtract the region. However, when we use two rectangles to subtract the region, we have subtracted another rectangular region an additional time. Thus, we must add it back.
 
-IMAGE(S)
+<figure>
+	<img src="/assets/cpt/diagrams/2dpsa5.gif">
+</figure>
 
 Our final expression for the sum is: `ps[3][3] - ps[1][2] - ps[2][2] + ps[0][1] = 9 - 3 - 6 + 2 = 2`
 
-IMAGE
+<figure>
+	<img src="/assets/cpt/diagrams/2dpsa6.png">
+</figure>
 
 A generalized formula for the sum of a rectangle $$[(c1,r1),(c2,r2)]$$ is `ps[c2 + 1][r2 + 1] - ps[c1][r2 + 1] - ps[c2 + 1][r1] + ps[c1][r1]`
 
@@ -40,11 +52,15 @@ A generalized formula for the sum of a rectangle $$[(c1,r1),(c2,r2)]$$ is `ps[c2
 
 Construction is done iteratively from top to bottom, left to right. At each point, the respective rectangular region excluding the right-bottommost square is summed, and added to the right-bottommost square from the original array. Green represents the already calculated sums. Gold is the current square.
 
-IMAGE
+<figure>
+	<img src="/assets/cpt/diagrams/2dpsa7.png">
+</figure>
 
 Similar to summing up a rectangular region, there will be a repeated region which will be subtracted.
 
-IMAGE
+<figure>
+	<img src="/assets/cpt/diagrams/2dpsa8.png">
+</figure>
 
 # Implementation
 
