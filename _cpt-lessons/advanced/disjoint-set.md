@@ -32,7 +32,9 @@ In the tree, each element is connected to another element, with the exception of
 
 An example is shown below, representing the collection of sets `{1, 2, 4}, {5}, {7, 8}`:
 
-IMAGE GOES HERE
+<figure>
+	<img src="/assets/cpt/diagrams/disjoint_set1.png">
+</figure>
 
 # Implementation
 
@@ -68,7 +70,9 @@ int find(int e) {
 
 Note that the `find()` operation modifies the elements to link directly to the root of the tree for faster access in the future. For example, if `find(4)` is called on the above graph, the tree is modified as illustrated below:
 
-IMAGE GOES HERE
+<figure>
+	<img src="/assets/cpt/diagrams/disjoint_set2.png">
+</figure>
 
 Implementing the `union()` operation is also relatively easy. To merge the sets containing `e1` and `e2`, the roots of the trees containing `e1` and `e2` must be found. If the roots are identical, `e1` and `e2` are already in the same set and no work needs to be done.
 
@@ -80,7 +84,9 @@ If `rank[e1]` > `rank[e2]`, this means that `e1` is part of a larger tree than `
 
 The result of the operation `union(4, 7)` on the original example is shown below:
 
-IMAGE GOES HERE
+<figure>
+	<img src="/assets/cpt/diagrams/disjoint_set3.png">
+</figure>
 
 The ideas discussed above are implemented below:
 
