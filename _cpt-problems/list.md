@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CPT Problems
-description: Problems to practice competitive programming
+description: Problems to practice competitive programming.
 ---
 
 {% assign contests = site.cpt-problems | group_by: 'contest' %}
