@@ -76,7 +76,7 @@ The person really doesn't like being called old, so Lily needs to be careful. He
 >Are you over 1 years old? _Yes_  
 Are you over 2 years old? _Yes_  
 ...  
-Are you over 9 years old? No, how dare you?!?
+Are you over 9 years old? _No, how dare you?!?_
 
 In the worst case, Lily needs 9 questions and must guess too high at some point, so the worst case score is $$5900$$.
 
