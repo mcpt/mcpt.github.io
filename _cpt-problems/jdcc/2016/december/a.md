@@ -2,10 +2,10 @@
 layout: problem
 title: Simpilify
 problem-id: jdcc16deca
-problem-author: Reyno Tilikaynen
+problem-author: Mehwar Raza
 contest: jdcc2016
-round: 1
-round-title: november
+round: 2
+round-title: december
 difficulty: a
 ---
 
