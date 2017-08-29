@@ -64,9 +64,9 @@ Output the minimum disillusion score that Lily can achieve in the worst case.
 The volunteer does not care if Lily guesses too high, so Lily can guess however she wants. If the volunteer's age is 9, then she could ask the questions:
 
 >Are you over 5 years old? Yes
-Are you over 7 years old? Yes
-Are you over 8 years old? Yes
-Are you over 9 years old? No
+>Are you over 7 years old? Yes
+>Are you over 8 years old? Yes
+>Are you over 9 years old? No
 
 In fact, Lily only needs 4 questions in any case, so the volunteer will have a disillusion score of $$400$$ at worst.
 
@@ -74,9 +74,9 @@ In fact, Lily only needs 4 questions in any case, so the volunteer will have a d
 The person really doesn't like being called old, so Lily needs to be careful. Her best strategy is to try every age in increasing order, asking:
 
 >Are you over 1 years old? Yes
-Are you over 2 years old? Yes
-...
-Are you over 9 years old? No, how dare you?!?
+>Are you over 2 years old? Yes
+>...
+>Are you over 9 years old? No, how dare you?!?
 
 In the worst case, Lily needs 9 questions and must guess too high at some point, so the worst case score is $$5900$$.
 
