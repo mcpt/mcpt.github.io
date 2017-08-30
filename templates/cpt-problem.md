@@ -22,7 +22,7 @@ Describe output.
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 1
 2
@@ -30,7 +30,7 @@ Describe output.
 {% endhighlight %}
 
 
-# Sample output
+# Sample Output
 {% highlight text %}
 4
 5
