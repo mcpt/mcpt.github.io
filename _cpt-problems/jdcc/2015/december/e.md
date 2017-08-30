@@ -2,7 +2,7 @@
 layout: problem
 title: Fireworks
 problem-id: jdcc15dece
-problem-author: rtilikay
+problem-author: Reyno Tilikaynen
 contest: jdcc2015
 round: 3
 round-title: december

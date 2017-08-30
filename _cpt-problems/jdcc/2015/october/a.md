@@ -2,7 +2,7 @@
 layout: problem
 title: Guessing Game
 problem-id: jdcc15octa
-problem-author: rtilikay
+problem-author: Reyno Tilikaynen
 contest: jdcc2015
 round: 1
 round-title: october

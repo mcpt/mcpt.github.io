@@ -2,7 +2,7 @@
 layout: problem
 title: Countdown
 problem-id: jdcc15deca
-problem-author: rtilikay
+problem-author: Reyno Tilikaynen
 contest: jdcc2015
 round: 3
 round-title: december

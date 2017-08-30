@@ -2,7 +2,7 @@
 layout: problem
 title: Roadwork
 problem-id: jdcc15febd
-problem-author: rtilikay
+problem-author: Reyno Tilikaynen
 contest: jdcc2015
 round: 4
 round-title: february

@@ -2,7 +2,7 @@
 layout: problem
 title: Elevator
 problem-id: jdcc15marb
-problem-author: rtilikay
+problem-author: Reyno Tilikaynen
 contest: jdcc2015
 round: 5
 round-title: march

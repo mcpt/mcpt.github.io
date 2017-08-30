@@ -2,7 +2,7 @@
 layout: problem
 title: Icy Spiral
 problem-id: jdcc15novb
-problem-author: rtilikay
+problem-author: Reyno Tilikaynen
 contest: jdcc2015
 round: 2
 round-title: november

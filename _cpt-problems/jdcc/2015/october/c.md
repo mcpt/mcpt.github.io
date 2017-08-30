@@ -2,7 +2,7 @@
 layout: problem
 title: Test Candy
 problem-id: jdcc15octc
-problem-author: rtilikay
+problem-author: Reyno Tilikaynen
 contest: jdcc2015
 round: 1
 round-title: october

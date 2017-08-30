@@ -2,7 +2,7 @@
 layout: problem
 title: Programming Elections
 problem-id: jdcc15octb
-problem-author: rtilikay
+problem-author: Reyno Tilikaynen
 contest: jdcc2015
 round: 1
 round-title: october

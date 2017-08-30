@@ -2,7 +2,7 @@
 layout: editorial
 title: Estuary
 problem-id: jdcc15octe
-editorial-author: aurpine and rtilikay
+editorial-author: aurpine and Reyno Tilikaynen
 contest: jdcc2015
 round: 1
 round-title: october
@@ -23,7 +23,7 @@ $$\mathcal{O}(RC\log L)$$, where $$L$$ is the level ($$1\,000\,000$$). Thus appr
 
 ---
 
-# Method 2 (rtilikay)
+# Method 2 (Reyno Tilikaynen)
 Instead of trying different water levels, why don't we just find the minimum water level?
 
 Water expands outwards from the blocks in which it already filled. Thus, to increase the area that the water occupies, we need to overcome the lowest adjacent block and keep track of the highest filled block, the water level. If the lowest adjacent block is lower than the water level, keep filling.
