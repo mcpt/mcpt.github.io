@@ -26,7 +26,7 @@ For each test case, output the minimum number of tracks that he needs to sort th
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 3
 3
@@ -38,7 +38,7 @@ For each test case, output the minimum number of tracks that he needs to sort th
 {% endhighlight %}
 
 
-# Sample output
+# Sample Output
 {% highlight text %}
 3
 3

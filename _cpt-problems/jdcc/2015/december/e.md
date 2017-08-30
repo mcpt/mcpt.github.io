@@ -24,7 +24,7 @@ For each test case, your program should output one integer: the time at which th
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 2
 5 3
@@ -38,7 +38,7 @@ For each test case, your program should output one integer: the time at which th
 {% endhighlight %}
 
 
-# Sample output
+# Sample Output
 {% highlight text %}
 1
 7

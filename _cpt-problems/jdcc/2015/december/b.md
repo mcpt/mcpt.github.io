@@ -26,7 +26,7 @@ For each test case, your program should output either ``Emily`` or ``Matthew``, 
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 3
 5 3
@@ -35,7 +35,7 @@ For each test case, your program should output either ``Emily`` or ``Matthew``, 
 {% endhighlight %}
 
 
-# Sample output
+# Sample Output
 {% highlight text %}
 Emily
 Matthew

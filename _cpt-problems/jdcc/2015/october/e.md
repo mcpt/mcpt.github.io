@@ -22,7 +22,7 @@ For each test case, your program should output one integer, the total volume of 
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 2
 3 3
@@ -37,7 +37,7 @@ For each test case, your program should output one integer, the total volume of 
 1 1 1 1 1
 {% endhighlight %}
 
-# Sample output
+# Sample Output
 {% highlight text %}
 19
 30

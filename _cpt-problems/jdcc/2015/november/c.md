@@ -24,7 +24,7 @@ For each test case, output the name of the best partner. If multiple partners sh
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 2
 SARAH 3
@@ -37,7 +37,7 @@ ANN
 JANE
 {% endhighlight %}
 
-# Sample output
+# Sample Output
 {% highlight text %}
 SAHAR
 ANDREW

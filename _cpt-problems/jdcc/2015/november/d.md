@@ -26,7 +26,7 @@ For each test case, your program should output one integer, the next lucky ticke
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 3
 113005
@@ -34,7 +34,7 @@ For each test case, your program should output one integer, the next lucky ticke
 123456789123455789
 {% endhighlight %}
 
-# Sample output
+# Sample Output
 {% highlight text %}
 113014
 113401

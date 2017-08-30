@@ -22,14 +22,14 @@ For each test case, your program should output one integer, how much she should 
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 2
 2 2 1
 2 3 4
 {% endhighlight %}
 
-# Sample output
+# Sample Output
 {% highlight text %}
 2
 11

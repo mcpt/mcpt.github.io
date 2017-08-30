@@ -26,7 +26,7 @@ For each test case, your program should output one integer: the number of unique
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 2
 3
@@ -39,7 +39,7 @@ XXO
 XOX
 {% endhighlight %}
 
-# Sample output
+# Sample Output
 {% highlight text %}
 4
 2

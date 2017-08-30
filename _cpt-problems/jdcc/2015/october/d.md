@@ -24,7 +24,7 @@ For each test case, output the percent value of the highest possible mark she ca
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 3
 11 100
@@ -32,7 +32,7 @@ For each test case, output the percent value of the highest possible mark she ca
 43 57
 {% endhighlight %}
 
-# Sample output
+# Sample Output
 {% highlight text %}
 75.000000
 54.545455

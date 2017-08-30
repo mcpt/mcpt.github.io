@@ -34,14 +34,14 @@ For each test case, your program should output one real number, rounded to 6 dec
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 2
 3 2 5
 4 5 3
 {% endhighlight %}
 
-# Sample output
+# Sample Output
 {% highlight text %}
 3.400000
 3.000000

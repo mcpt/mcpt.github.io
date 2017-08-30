@@ -22,7 +22,7 @@ For each test case, your program should output one line containing the countdown
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 2
 3
@@ -30,7 +30,7 @@ For each test case, your program should output one line containing the countdown
 {% endhighlight %}
 
 
-# Sample output
+# Sample Output
 {% highlight text %}
 3 2 1 0!
 5 4 3 2 1 0!

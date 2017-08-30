@@ -22,14 +22,14 @@ For each test case, your program should output one integer, the amount of turns 
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 2
 3 5
 4 4
 {% endhighlight %}
 
-# Sample output
+# Sample Output
 {% highlight text %}
 4
 6

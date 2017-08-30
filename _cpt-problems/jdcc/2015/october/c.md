@@ -24,7 +24,7 @@ A single integer denoting the minimum amount of candy she needs to give out.
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 2
 3
@@ -37,7 +37,7 @@ A single integer denoting the minimum amount of candy she needs to give out.
 0.3
 {% endhighlight %}
 
-# Sample output
+# Sample Output
 {% highlight text %}
 1
 2

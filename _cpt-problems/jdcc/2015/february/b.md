@@ -28,7 +28,7 @@ For each test case, your program should output an integer: the time it takes for
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 2
 3 3
@@ -41,7 +41,7 @@ For each test case, your program should output an integer: the time it takes for
 {% endhighlight %}
 
 
-# Sample output
+# Sample Output
 {% highlight text %}
 3
 4

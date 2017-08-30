@@ -30,7 +30,7 @@ For each test case, your program should output one line containing ``YES`` if th
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 4
 1 2
@@ -44,7 +44,7 @@ For each test case, your program should output one line containing ``YES`` if th
 {% endhighlight %}
 
 
-# Sample output
+# Sample Output
 {% highlight text %}
 YES
 YES

@@ -24,7 +24,7 @@ For each test case, your program should output one integer: the length of the lo
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 2
 3
@@ -38,7 +38,7 @@ For each test case, your program should output one integer: the length of the lo
 {% endhighlight %}
 
 
-# Sample output
+# Sample Output
 {% highlight text %}
 3
 4

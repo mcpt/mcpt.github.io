@@ -22,7 +22,7 @@ For each test case, output one integer, your friend's number.
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 2
 3
@@ -35,7 +35,7 @@ For each test case, output one integer, your friend's number.
 6
 {% endhighlight %}
 
-# Sample output
+# Sample Output
 {% highlight text %}
 5
 7

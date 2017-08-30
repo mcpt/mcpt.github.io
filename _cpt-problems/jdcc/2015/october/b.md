@@ -24,7 +24,7 @@ For each test case, output one line containing the name of the female co-preside
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 1
 3
@@ -39,7 +39,7 @@ M
 6
 {% endhighlight %}
 
-# Sample output
+# Sample Output
 {% highlight text %}
 Alice Bob
 {% endhighlight %}

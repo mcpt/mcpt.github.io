@@ -30,7 +30,7 @@ For each test case, your program should output one line containing ``YAY`` if th
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 4
 DAD
@@ -40,7 +40,7 @@ RACECAR
 {% endhighlight %}
 
 
-# Sample output
+# Sample Output
 {% highlight text %}
 YAY
 YAY

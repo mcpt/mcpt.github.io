@@ -36,7 +36,7 @@ For each test case, your program should output one integer: the minimum number o
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 2
 5 7 60
@@ -48,7 +48,7 @@ For each test case, your program should output one integer: the minimum number o
 {% endhighlight %}
 
 
-# Sample output
+# Sample Output
 {% highlight text %}
 2
 5

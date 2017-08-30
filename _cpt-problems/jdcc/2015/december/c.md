@@ -26,7 +26,7 @@ For each test case, output one integer, the song's score.
 
 ---
 
-# Sample input
+# Sample Input
 {% highlight text %}
 2
 4
@@ -42,7 +42,7 @@ I'll show you I'm no Kanye jest
 {% endhighlight %}
 
 
-# Sample output
+# Sample Output
 {% highlight text %}
 2
 18
