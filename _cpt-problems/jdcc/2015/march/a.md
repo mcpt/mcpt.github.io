@@ -10,7 +10,7 @@ difficulty: a
 ---
 
 # Problem
-Two points $$(x_1, y_1)$$ and $$(x)2,y_2)$$ are said to be integer multiples if there is an integer $$N$$ such that $$(x_1, y_1)=(Nx2,Ny2)$$ or $$(Nx_1, Ny_1) = (x_2, y_2)$$.
+Two points $$(x_1, y_1)$$ and $$(x_2,y_2)$$ are said to be integer multiples if there is an integer $$N$$ such that $$(x_1, y_1)=(Nx_2,Ny_2)$$ or $$(Nx_1, Ny_1) = (x_2, y_2)$$.
 
 For example,
 
