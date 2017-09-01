@@ -17,7 +17,7 @@ Given a map of Ash’s surroundings and where the Pokemon are located, can you f
 ---
 
 # Input
-The input begins with an integer $N (1 \leq N \leq 20)$. $$N$$ lines follow, each containing $$N$$ characters, which provide a map of Ash’s surroundings.
+The input begins with an integer $$N (1 \leq N \leq 20)$$. $$N$$ lines follow, each containing $$N$$ characters, which provide a map of Ash’s surroundings.
 
 `.` will mark empty space.
 

@@ -17,7 +17,7 @@ Can you help Sarah figure out what is the maximum number of friends that the bow
 ---
 
 # Input
-Each test case begins with an integer $$N (1 \leq N \leq 100000)$$ and $$K (1 \leq K \leq 1000)$$, the number of friends Sarah has and the number of shoe sizes that exist. The next line contains $$K$$ integers, with the $$M^th$$ one representing how many shoes of size $$M$$ the bowling alley has. The final line contains $$N$$ integers, the shoe sizes of all her friends.
+Each test case begins with an integer $$N (1 \leq N \leq 100000)$$ and $$K (1 \leq K \leq 1000)$$, the number of friends Sarah has and the number of shoe sizes that exist. The next line contains $$K$$ integers, with the $$M^{th}$$ one representing how many shoes of size $$M$$ the bowling alley has. The final line contains $$N$$ integers, the shoe sizes of all her friends.
 
 # Output
 For each test case, output the maximum number of shoes that the bowling alley can rent out to Sarah’s friends.
