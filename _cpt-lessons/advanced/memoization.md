@@ -3,6 +3,7 @@ title: Memoization
 description: Memoization is a technique that saves processing power by caching function call results to avoid reprocessing. It is often used to speed up recursion.
 layout: lesson
 category: advanced
+unit-number: 4
 order: 1
 ---
 

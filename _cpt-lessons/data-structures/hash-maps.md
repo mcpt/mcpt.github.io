@@ -3,6 +3,7 @@ title: Hash Maps
 description: Hash maps associate a key with a value.
 layout: lesson
 category: data-structures
+unit-number: 3
 order: 1
 ---
 

@@ -3,6 +3,7 @@ title: Difference Array
 description: The difference array is a data structure opposite to the prefix sum array. It contains the increase or decrease from one element to the next. It is used for range-increase operations.
 layout: lesson
 category: data-structures
+unit-number: 3
 order: 6
 ---
 

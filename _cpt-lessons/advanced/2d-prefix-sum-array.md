@@ -3,6 +3,7 @@ title: 2D Prefix Sum Array
 description: The 2D Prefix Sum Array handles queries for the sum of a rectangular region on a grid (2D array).
 layout: lesson
 category: advanced
+unit-number: 4
 order: 2
 ---
 

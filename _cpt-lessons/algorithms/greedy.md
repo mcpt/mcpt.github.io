@@ -3,6 +3,7 @@ title: Greedy
 description: Greedy algorithms algorithms make decisions based on the information that is known at the time of the decision, without worrying about any potential consequences that the decision might have in the future.
 layout: lesson
 category: algorithms
+unit-number: 2
 order: 1
 ---
 

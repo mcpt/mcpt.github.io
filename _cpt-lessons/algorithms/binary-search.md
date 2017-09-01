@@ -3,6 +3,7 @@ title: Binary Search
 description: Binary search is a very powerful, yet simple search algorithm. It operates on a sorted set of elements.
 layout: lesson
 category: algorithms
+unit-number: 2
 order: 4
 ---
 

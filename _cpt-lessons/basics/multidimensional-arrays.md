@@ -3,6 +3,7 @@ title: Multidimensional Arrays
 description: Multidimensional arrays may be required in some situations with multiple states or grids.
 layout: lesson
 category: basics
+unit-number: 1
 order: 2
 ---
 

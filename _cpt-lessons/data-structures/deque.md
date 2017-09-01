@@ -3,6 +3,7 @@ title: Deque
 description: A double ended queue (deque) is a data structure which combines the functions of a stack and a queue into one data structure. A deque provides fast insertion, deletion and access to elements at the front and back of the data structure.
 layout: lesson
 category: data-structures
+unit-number: 3
 order: 2
 ---
 

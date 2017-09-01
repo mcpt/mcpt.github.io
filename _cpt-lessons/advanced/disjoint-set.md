@@ -3,6 +3,7 @@ title: Disjoint Set
 description: A disjoint set (also known as union-find) is a powerful data structure which represents a collection of sets, each containing a number of items.
 layout: lesson
 category: advanced
+unit-number: 4
 order: 3
 ---
 

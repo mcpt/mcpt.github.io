@@ -3,6 +3,7 @@ title: Brute Force
 description: Brute force is trying every single possibility. Brute force is often inefficient, but may suffice for certain problems.
 layout: lesson
 category: algorithms
+unit-number: 2
 order: 2
 ---
 

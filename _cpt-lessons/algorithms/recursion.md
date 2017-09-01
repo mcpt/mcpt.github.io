@@ -3,6 +3,7 @@ title: Recursion
 description: Recursion is when a method calls itself.
 layout: lesson
 category: algorithms
+unit-number: 2
 order: 6
 ---
 

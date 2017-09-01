@@ -381,3 +381,12 @@ nav {
 		margin: 2vw;
 	}
 }
+
+.page-listing-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	.page-listing {
+		margin: 0 15px;
+	}
+}

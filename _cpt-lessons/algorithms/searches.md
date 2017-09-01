@@ -3,6 +3,7 @@ title: Searches
 description: A search is a general type of algorithm that tries many possibilities or states to solve a given problem. Searches range greatly in complexity. A search is similar to a brute-force, except that it often has optimizations.
 layout: lesson
 category: algorithms
+unit-number: 2
 order: 5
 ---
 

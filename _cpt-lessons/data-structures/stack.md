@@ -3,6 +3,7 @@ title: Stack
 description: The stack is a last in first out (LIFO) data structure. It allows you to insert elements, and remove elements in the reverse order of which they were inserted.
 layout: lesson
 category: data-structures
+unit-number: 3
 order: 4
 ---
 

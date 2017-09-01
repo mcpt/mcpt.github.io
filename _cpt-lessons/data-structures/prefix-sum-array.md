@@ -3,6 +3,7 @@ title: Prefix Sum Array
 description: The prefix sum array is a data structure used to quickly solve range-sum queries.
 layout: lesson
 category: data-structures
+unit-number: 3
 order: 5
 ---
 

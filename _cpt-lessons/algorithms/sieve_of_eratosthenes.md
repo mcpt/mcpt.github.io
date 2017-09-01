@@ -3,6 +3,7 @@ title: Sieve of Eratosthenes
 description: Sieve of Eratosthenes is an algorithm for quickly generating all the prime numbers below a maximum number.
 layout: lesson
 category: algorithms
+unit-number: 2
 order: 3
 ---
 
