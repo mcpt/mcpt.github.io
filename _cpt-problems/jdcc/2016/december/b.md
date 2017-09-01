@@ -19,7 +19,7 @@ Given the sequence of words passed on in the game, can you figure out if any chi
 ---
 
 # Input
-The first line of input contains $$T (1 \leq T \leq 10)$$. $$T$$ test cases follow. Each test case begins with an integer $$N (1 \leq N \leq 100), the number of words passed around the circle. The next $$N$$ lines each contain a word. The words appear in the order that the kids pass them on.
+The first line of input contains $$T (1 \leq T \leq 10)$$. $$T$$ test cases follow. Each test case begins with an integer $$N (1 \leq N \leq 100)%%, the number of words passed around the circle. The next $$N$$ lines each contain a word. The words appear in the order that the kids pass them on.
 
 # Output
 For each test case, output `Fair Game` if all the children played fair, or `Hooligans!` if there was tampering involved.
