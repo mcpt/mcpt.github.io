@@ -19,7 +19,7 @@ However, being a four year old, Suzie does not have a long reach. The only way s
 # Input
 Each test case contains one number written in binary.
 
-For $$40%$$ of the cases, the length of the number will not exceed $$100$$.
+For $$40\%$$ of the cases, the length of the number will not exceed $$100$$.
 
 For the remaining cases, the length of the number will not exceed $$100,000$$.
 

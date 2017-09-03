@@ -19,7 +19,7 @@ As Flatland's head of defense, you have been tasked with determining how long it
 ---
 
 # Input
-Each test case begins with two integers $$N, L (1 \leq N \leq 10,000, 1 \leq L \leq 10^9). The next $$N$$ lines each contain integers $$X, Y, V, W (−L \leq X \leq L, 1 \leq Y, V, W ≤ 10^9)$$, which represent the location of a ship, how fast it is moving, and how fast the aliens will spread out from the ship once it lands.
+Each test case begins with two integers $$N, L (1 \leq N \leq 10,000, 1 \leq L \leq 10^9)$$. The next $$N$$ lines each contain integers $$X, Y, V, W (−L \leq X \leq L, 1 \leq Y, V, W ≤ 10^9)$$, which represent the location of a ship, how fast it is moving, and how fast the aliens will spread out from the ship once it lands.
 
 For $$40\%$$ of the points, $$M \leq 10,000$$.
 

@@ -58,7 +58,7 @@ For each test case, output the number of ways the voting could have played out, 
 11934
 {% endhighlight %}
 
-#Explanation of Sample Output 1
+# Explanation of Sample Output 1
 The two ways the vote could have went is ABA and AAB, where A is a vote for André and B is a vote for Bertrand. BAA is not a valid since after the first vote, Bertrand has more votes than André.
 
 ---

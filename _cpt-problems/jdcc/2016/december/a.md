@@ -15,7 +15,7 @@ Nancy is in second grade and has just begun to learn about fractions. She’s pa
 ---
 
 # Input
-Each test case contains two integers, $$N, D ( 1 \leq N \le D \leq 10000)$$, the numerator and denominator of a fraction, separated by a forward slash.
+Each test case contains two integers, $$N, D (1 \leq N \le D \leq 10000)$$, the numerator and denominator of a fraction, separated by a forward slash.
 
 # Output
 For each test case, output the corresponding simplified fraction.

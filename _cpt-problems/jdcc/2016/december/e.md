@@ -15,9 +15,9 @@ Recently, the moon passed closer to the Earth than it ever has in decades. Hazel
 ---
 
 # Input
-Each test case begins with three integers $$X_w, Y_w, R_w (1 \leq X_w, Yw, Rw \leq 1000)$$, representing a circle centered at $$(X_w,Y_w)$$ with radius $$R_w$$, the part of the sky that she could see through her window.
+Each test case begins with three integers $$X_w, Y_w, R_w (1 \leq X_w, Y_w, R_w \leq 1000)$$, representing a circle centered at $$(X_w,Y_w)$$ with radius $$R_w$$, the part of the sky that she could see through her window.
 
-The next line contains three integers $$X_w, Y_w, R_w (1 \leq X_w, Yw, Rw \leq 1000)$$, the position and radius of the moon in the sky.
+The next line contains three integers $$X_w, Y_w, R_w (1 \leq X_w, Y_w, R_w \leq 1000)$$, the position and radius of the moon in the sky.
 
 # Output
 For each test case, output the area of the moon that was visible, rounded to two decimal places.

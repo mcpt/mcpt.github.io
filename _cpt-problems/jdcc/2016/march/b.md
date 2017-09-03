@@ -14,7 +14,7 @@ When working with numbers that are really big, it is common to use scientific no
 
 For example: $$987 = 9.87 \times 10^2$$ and $$1209 = 1.21 \times 10^3$$.
 
-We can also convert numbers out of scientific notation, rounding if needed. For example: $$1.21 \times 10^3 = 1210$$ and $$9.87 \times 101 = 99$$.
+We can also convert numbers out of scientific notation, rounding if needed. For example: $$1.21 \times 10^3 = 1210$$ and $$9.87 \times 10^1 = 99$$.
 
 Given a number in either decimal notation or scientific notation, convert the number to its alternate form.
 
