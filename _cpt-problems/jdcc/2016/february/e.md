@@ -18,7 +18,6 @@ $$THE$$\\
 $$CAT$$\\
 $$ZRE$$
 </center>
-{% endhighlight %}
 
 Boggle is Daniel’s favourite game and he has spent years training to become the best Boggler in the world. When he trains, he usually generates a random grid of letters and tries to find all the words in the grid. Of course, he can never be sure if he has found all the possible words.
 
