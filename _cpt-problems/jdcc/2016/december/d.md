@@ -25,7 +25,7 @@ The input begins with an integer $$N (1 \leq N \leq 20)$$. $$N$$ lines follow, e
 
 `H` will mark Ash’s home.
 
-For $$50%$$ of the cases, the number of Pokemon will be at most $$10$$. For the remaining cases, the number of Pokemon will be at most $$15$$.
+For $$50\%$$ of the cases, the number of Pokemon will be at most $$10$$. For the remaining cases, the number of Pokemon will be at most $$15$$.
 
 # Output
 Output one integer, the smallest distance that Ash needs to travel to catch all the Pokemon and return home.

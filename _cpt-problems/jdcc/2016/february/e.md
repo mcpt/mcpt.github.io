@@ -28,7 +28,7 @@ However, if he knew the expected number of words that will appear on a random bo
 # Input
 Each test case begins with integers $$N, M (1 \leq N \leq 30, 1 \leq M \leq 100,000)$$, the side length of the square grid Daniel plays on and the number of words in Daniel’s vocabulary. The next $$M$$ lines each contain a word in Daniel’s vocabulary. Each word will be at most $$7$$ characters long.
 
-For $$20%$$ of the cases, $$M = 1$$.
+For $$20\%$$ of the cases, $$M = 1$$.
 
 # Output
 For each test case, output the expected number of words that occur, rounded to three decimal places.

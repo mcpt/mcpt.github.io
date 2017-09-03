@@ -21,7 +21,7 @@ Reyno, always a fan of enumeration, wondered to himself: in how many ways could 
 # Input
 Each test case contains three integers $$N, M, K (1 \leq M < N \leq 10^6, 0 \leq K \leq N - M)$$.
 
-For $$70%$$ of the cases, $$N \leq 1,000$$.
+For $$70\%$$ of the cases, $$N \leq 1,000$$.
 
 # Output
 For each test case, output the number of ways the voting could have played out, modulo $$1,000,000,007$$.
