@@ -13,10 +13,11 @@ difficulty: e
 Boggle is a fast-paced word game played with a grid of letters. The objective of the game is to spell out words by stringing together letters on the grid that are adjacent vertically, horizontally, or diagonally. When spelling out a word, you can only visit every letter on the grid at most once. The player who finds most words wins (for this problem we allow duplicate words, as long as the path used is distinct).
 
 For example, in the following three by three grid, we can spell out words like `THAT`, `CAT`, `THE`, and `CHEATER`:
-{% highlight text %}
-THE
-CAT
-ZRE
+<center>
+$$THE$$\\
+$$CAT$$\\
+$$ZRE$$
+</center>
 {% endhighlight %}
 
 Boggle is Daniel’s favourite game and he has spent years training to become the best Boggler in the world. When he trains, he usually generates a random grid of letters and tries to find all the words in the grid. Of course, he can never be sure if he has found all the possible words.
