@@ -14,7 +14,7 @@ After years of scanning the skies, humans have finally found evidence of extrate
 
 Vibberish is a smooth and simple language that mostly uses words that have more vowels than consonants. On the other hand, the difficult-to-pronounce Cibberish language prefers words with more consonants than vowels.
 
-As the leading computer scientist at SETI, you have been tasked with detecting the language of a transmission. Given a sentence from the transmission, determine whether it is more likely to be Vibberish or Cibberish. (For our purposes, only __a__, __e__, __i__, __o__, and __u__ are considered vowels).
+As the leading computer scientist at SETI, you have been tasked with detecting the language of a transmission. Given a sentence from the transmission, determine whether it is more likely to be Vibberish or Cibberish. (For our purposes, only _a_, _e_, _i_, _o_, and _u_ are considered vowels).
 
 ---
 
