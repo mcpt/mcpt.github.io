@@ -1,6 +1,6 @@
 ---
 layout: problem
-title: Simpilify
+title: Simplify
 problem-id: jdcc16deca
 problem-author: Mehwar Raza
 contest: jdcc2016
