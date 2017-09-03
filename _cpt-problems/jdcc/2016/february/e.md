@@ -14,8 +14,8 @@ Boggle is a fast-paced word game played with a grid of letters. The objective of
 
 For example, in the following three by three grid, we can spell out words like `THAT`, `CAT`, `THE`, and `CHEATER`:
 <center>
-$$THE$$\\
-$$CAT$$\\
+$$THE$$
+$$CAT$$
 $$ZRE$$
 </center>
 
