@@ -21,7 +21,7 @@ However, the judge isn't sure which robot is on which team. He only knows that h
 # Input
 Each test case begins with two integers $$N, R (1 \leq R \leq N \leq 10,000)$$, the number of robots in the competition and which robot is known to be on Team 1, respectively.
 
-The next $$N$$ lines each describe the actions of one of the robots. The $$K^{th}$$ line begins with an integer $$M$4 followed by $$M$$ integers, the targets of robot $$K$$. Robots are numbered from $$1$$ to $$N$$.
+The next $$N$$ lines each describe the actions of one of the robots. The $$K^{th}$$ line begins with an integer $$M$$ followed by $$M$$ integers, the targets of robot $$K$$. Robots are numbered from $$1$$ to $$N$$.
 
 The total number of dodgeballs thrown will not exceed $$100,000$$.
 
