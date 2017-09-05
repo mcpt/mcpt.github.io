@@ -1,6 +1,6 @@
 ---
 layout: editorial
-title: Simplify
+title: Euler
 problem-id: jdcc16nova
 editorial-author: aurpine
 contest: jdcc2016
