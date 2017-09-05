@@ -10,14 +10,17 @@ order: #
 
 ---
 
+### Turing
 {% highlight text %}
 // Turing code
 {% endhighlight %}
 
+### Python
 {% highlight python %}
 // Python code
 {% endhighlight %}
 
+### Java
 {% highlight java %}
 // Java code
 {% endhighlight %}
