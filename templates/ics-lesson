@@ -8,14 +8,21 @@ unit-number: #
 order: #
 ---
 
-# Introduction
-<figure>
-	<img src="/assets/ics/lessons/image.png">
-</figure>
+---
+
+{% highlight text %}
+// Turing code
+{% endhighlight %}
+
+{% highlight python %}
+// Python code
+{% endhighlight %}
 
 {% highlight java %}
 // Java code
 {% endhighlight %}
+
+---
 
 # Practice
 Give some practice problems here.

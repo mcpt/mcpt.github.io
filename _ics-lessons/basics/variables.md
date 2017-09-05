@@ -9,6 +9,8 @@ order: 1
 
 In this lesson, we will be focusing on the syntax of using variables.
 
+---
+
 ### Turing
 {% highlight text linenos %}
 var firstName : string := "Vincent"
@@ -38,6 +40,8 @@ languages = 3;
 
 System.out.println(firstName + " " + lastName + " made this lesson. It teaches variables in " + languages + " languages!");
 {% endhighlight %}
+
+---
 
 You may have noticed that Turing and Java use double quotes (``" "``) for strings, while Python uses single quotes (``' '``). In Turing and Java, double quotes are used for strings, while single quotes are used for single characters. In Python, you can use either double or single quotes, but Python programmers tend to prefer single quotes.
 
