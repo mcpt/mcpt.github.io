@@ -4,6 +4,7 @@ description: Variables allow you to store values. They are one of the most impor
 lesson-author: Vincent Macri
 layout: lesson
 category: basics
+unit-number: 1
 order: 1
 ---
 

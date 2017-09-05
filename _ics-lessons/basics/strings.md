@@ -4,6 +4,7 @@ description: Strings are variables that store sequences of characters. String ma
 lesson-author: Vincent Macri
 layout: lesson
 category: basics
+unit-number: 1
 order: 2
 ---
 
