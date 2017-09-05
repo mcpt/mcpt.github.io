@@ -57,8 +57,3 @@ WORLD
 {% highlight text %}
 0.303
 {% endhighlight %}
-
----
-
-# Editorial
-not here yet

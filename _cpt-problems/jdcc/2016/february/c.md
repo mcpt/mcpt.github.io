@@ -53,4 +53,4 @@ For each test case, output, on one line, prime factorization of the number.
 ---
 
 # Editorial
-not here yet
+[Read only if you are stuck or have already solved the problem.](/cpt-editorials/jdcc/2016/february/c)

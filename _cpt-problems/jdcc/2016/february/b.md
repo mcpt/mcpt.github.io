@@ -49,8 +49,3 @@ The first LED has $$1 + 1 = 2$$ amperes of current and hence outputs 2 lumens. T
 
 # Explanation of Sample Output 2
 The first resistor carries $$|1 − 1| = 0$$ amperes and the second carries $$|1 − 0| = 1$$ ampere. Then the first LED carries $$0 + 1 = 1$$ ampere and the second receives $$1 + 1 = 2$$ amperes, for a total of $$3$$ lumens of light.
-
----
-
-# Editorial
-not here yet

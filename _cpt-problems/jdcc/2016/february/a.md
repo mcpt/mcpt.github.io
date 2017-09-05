@@ -68,4 +68,4 @@ There is one word with a vowel majority and no words with a consonant majority, 
 ---
 
 # Editorial
-not here yet
+[Read only if you are stuck or have already solved the problem.](/cpt-editorials/jdcc/2016/february/a)
