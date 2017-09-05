@@ -1,0 +1,20 @@
+---
+title: Title
+description: Description
+lesson-author: Author
+layout: lesson
+category: unit
+order: #
+---
+
+# Introduction
+<figure>
+	<img src="/assets/ics/lessons/image.png">
+</figure>
+
+{% highlight java %}
+// Java code
+{% endhighlight %}
+
+# Practice
+Give some practice problems here.
