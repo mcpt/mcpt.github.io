@@ -9,7 +9,7 @@ round-title: december
 difficulty: d
 ---
 
-First, calculate the distance between each pair of Pokemon present on the map, as well as Ash's home to each Pokemon, and store this in an array. Distances can be calculated using this formula: $$\lvert x_1 − x_2\rvert + \|y_1 − y_2\|$$, where $$(x_1, y_1)$$ and $$(x_2, y_2)$$ are two coordinate locations.
+First, calculate the distance between each pair of Pokemon present on the map, as well as Ash's home to each Pokemon, and store this in an array. Distances can be calculated using this formula: $$\lvert x_1 − x_2\rvert + \lvert y_1 − y_2\rvert$$, where $$(x_1, y_1)$$ and $$(x_2, y_2)$$ are two coordinate locations.
 
 Next, we must try out various orders in which Ash can visit all the points, and choose the one which gives the minimum total distance. This is done using DFS, where the parameters passed in are the current location of Ash, and the Pokemon locations that have already been visited.
 
