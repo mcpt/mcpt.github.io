@@ -57,4 +57,4 @@ The bowling alley can’t rent out their size 4 shoe to anyone, so they can only
 ---
 
 # Editorial
-not here yet
+[Read only if you are stuck or have already solved the problem.](/cpt-editorials/jdcc/2016/december/c)

@@ -45,4 +45,4 @@ For each test case, output the corresponding simplified fraction.
 ---
 
 # Editorial
-not here yet
+[Read only if you are stuck or have already solved the problem.](/cpt-editorials/jdcc/2016/december/a)

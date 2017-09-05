@@ -49,4 +49,4 @@ For each test case, output the area of the moon that was visible, rounded to two
 ---
 
 # Editorial
-not here yet
+[Read only if you are stuck or have already solved the problem.](/cpt-editorials/jdcc/2016/december/e)

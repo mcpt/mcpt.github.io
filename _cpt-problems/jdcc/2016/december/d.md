@@ -65,4 +65,4 @@ PP...
 ---
 
 # Editorial
-not here yet
+[Read only if you are stuck or have already solved the problem.](/cpt-editorials/jdcc/2016/december/d)
