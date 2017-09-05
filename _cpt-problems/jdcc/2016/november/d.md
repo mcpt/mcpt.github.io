@@ -83,4 +83,4 @@ In the worst case, Lily needs 9 questions and must guess too high at some point,
 ---
 
 # Editorial
-not here yet
+[Read only if you are stuck or have already solved the problem.](/cpt-editorials/jdcc/2016/november/d)
