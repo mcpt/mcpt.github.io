@@ -1,6 +1,6 @@
 ---
 layout: editorial
-title: Catchy Music
+title: Supermoon Viewing
 problem-id: jdcc16dece
 editorial-author: aurpine
 contest: jdcc2016

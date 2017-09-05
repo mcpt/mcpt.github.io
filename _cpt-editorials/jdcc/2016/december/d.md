@@ -16,7 +16,7 @@ Next, we must try out various orders in which Ash can visit all the points, and 
 To speed this up, use dynamic programming to store results calculated by the DFS. To do so, the Pokemon locations that have already been visited can be represented in binary, with the $$i^{th}$$ bit being a $$0$$ or $$1$$ to represent whether or not the $$i^{th}$$ Pokemon has already been visited.
 
 ## Time complexity
-$$\mathcal{O}(N^2 + M2^M)$$O(N2+M2M)$$, where $$M$$ is the number of Pokemon on the map.
+$$\mathcal{O}(N^2 + M2^M)$$, where $$M$$ is the number of Pokemon on the map.
 
 ---
 
