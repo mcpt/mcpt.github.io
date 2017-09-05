@@ -3,6 +3,7 @@ title: Title
 description: Description
 layout: lesson
 category: unit
+unit-number: #
 order: #
 ---
 

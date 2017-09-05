@@ -4,6 +4,7 @@ description: Description
 lesson-author: Author
 layout: lesson
 category: unit
+unit-number: #
 order: #
 ---
 
