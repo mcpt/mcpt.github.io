@@ -1,6 +1,6 @@
 ---
 layout: problem
-title: Broken Telephone
+title: Phi Circuits
 problem-id: jdcc16febb
 problem-author: Mehwar Raza
 contest: jdcc2016
