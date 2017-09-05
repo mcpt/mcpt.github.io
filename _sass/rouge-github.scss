@@ -210,3 +210,18 @@
 	-moz-tab-size: 4;
 	-o-tab-size: 4;
 }
+figure.highlight {
+	pre {
+		code {
+			td {
+				border: 0;
+				padding-top: 0;
+				padding-bottom: 0;
+			}
+			td.gutter {
+				padding-left: 0;
+				padding-right: 0;
+			}
+		}
+	}
+}
