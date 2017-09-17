@@ -8,15 +8,19 @@ permalink: /contact/
 # Meet the 2017-2018 exec team: 
 
 ## Co-presidents
-- [Vincent Macri](mailto:cpt@vincemacri.ca)
-- [Sarah Goldfarb](mailto:sarahgoldfarb12@gmail.com)
-- [Samantha Unger](mailto:sammydsu@gmail.com)
-- [Arsh Raza](mailto:arsh.raza2015@gmail.com)
+- [Vincent Macri](mailto:cpt@vincemacri.ca) cpt@vincemacri.ca
+- [Sarah Goldfarb](mailto:sarahgoldfarb12@gmail.com) sarahgoldfarb12@gmail.com
+- [Samantha Unger](mailto:sammydsu@gmail.com) sammydsu@gmail.com
+- [Arsh Raza](mailto:arsh.raza2015@gmail.com) arsh.raza2015@gmail.com
 
-## Vice Presidents
-- [Richard Yi](mailto:richardyi25@gmail.com)
-- [Lev Raizman](mailto:raizman.lev@gmail.com)
-- [Jeffrey Gao](mailto:jeffrey.magmachu@gmail.com)
+## Vice presidents
+- [Richard Yi](mailto:richardyi25@gmail.com) richardyi25@gmail.com
+- [Lev Raizman](mailto:raizman.lev@gmail.com) raizman.lev@gmail.com
+- [Jeffrey Gao](mailto:jeffrey.magmachu@gmail.com) jeffrey.magmachu@gmail.com
 
-## Staff Supervisor
+## Staff supervisor
 - Ms. Krasteva
+
+## Other ways to contact us
+- [Email](mailto:mcpt.ca@gmail.com) mcpt.ca@gmail.com
+- [Twitter](https://twitter.com/Mackenzie_CPT) @Mackenzie_CPT
