@@ -4,4 +4,4 @@ title: Registration
 description: Join the Mackenzie Computer Programming Team!
 permalink: /register/
 ---
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-qfyAXceYE3A_QmFwfQkwawhJJ1CHAkvQ3rvmW-RYhS7cbQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">We are having trouble loading the form. <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-qfyAXceYE3A_QmFwfQkwawhJJ1CHAkvQ3rvmW-RYhS7cbQ/viewform?usp=sf_link">Click here</a> to open a new page to load it.</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfv4lfVAOMDj8t8LWsW_Oa9V8TP-722hsUyIIMC0X2wLnhWjw/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
