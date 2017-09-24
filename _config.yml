@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mackenzie CPT
-email: mcpt@gmail.com
+email: mcpt.ca@gmail.com
 repository: mcpt/mcpt.github.io
 description: > # this means to ignore newlines until minipage"baseurl:"
   This is the website for the William Lyon Mackenzie Computer Programming Team.
@@ -60,3 +60,7 @@ collections:
   cpt-editorials:
     output: true
     permalink: /:collection/:path
+
+kramdown:
+  math_engine_opts:
+    preview: true
