@@ -5,8 +5,8 @@ description: Resources for learning competitive programming.
 permalink: /cpt/
 ---
 
-# [Lessons](/cpt-lessons/list)
+# [Lessons](/cpt-lessons/)
 
-# [Problems](/cpt-problems/list)
+# [Problems](/cpt-problems/)
 
-# [Editorials](/cpt-editorials/list)
+# [Editorials](/cpt-editorials/)
