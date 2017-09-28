@@ -51,8 +51,8 @@ For Turing and Java, we concatenated the variables with the string. Concatenate 
 In Python, we used the ``str.format()`` command. It formats strings for us. We use ``{}`` in place of the variables, and then list the variables in order at the end.
 
 # Practice
+The following programs require user input. If you don't know how to get user input yet, write your programs so that you can easily change the initial values of the variables instead of prompting the user for input.
+
 Write a program where the user can enter their first name, last name, and age, and then output "``first name`` ``last name`` is ``age`` years old."
 
 Write a program where the user can enter two numbers, and then output the sum of the numbers.
-
-If you don't know how to get user input yet, write your programs so that you can easily change the initial value of the variables instead of prompting the user for input.
