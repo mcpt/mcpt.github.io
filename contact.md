@@ -19,7 +19,7 @@ permalink: /contact/
 - [Jeffrey Gao](mailto:jeffrey.magmachu@gmail.com) jeffrey.magmachu@gmail.com
 
 ## Staff supervisor
-- Ms. Krasteva
+- [Ms. Krasteva](mailto:valentina.krasteva@tdsb.on.ca) valentina.krasteva@tdsb.on.ca
 
 ## Other ways to contact us
 - [Email](mailto:mcpt.ca@gmail.com) mcpt.ca@gmail.com
