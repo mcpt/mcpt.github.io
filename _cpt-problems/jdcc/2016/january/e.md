@@ -2,7 +2,7 @@
 layout: problem
 title: CPT Elections
 problem-id: jdcc16jane
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2016
 round: 3
 round-title: january

@@ -2,7 +2,7 @@
 layout: editorial
 title: Test Candy
 problem-id: jdcc15octc
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2015
 round: 1
 round-title: october

@@ -2,7 +2,7 @@
 layout: problem
 title: Catchy Music
 problem-id: jdcc16nove
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2016
 round: 1
 round-title: november

@@ -2,7 +2,7 @@
 layout: problem
 title: Triangle Types
 problem-id: jdcc16jana
-problem-author: Mehwar Raza
+author: Mehwar Raza
 contest: jdcc2016
 round: 3
 round-title: january

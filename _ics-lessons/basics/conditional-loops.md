@@ -1,7 +1,7 @@
 ---
 title: Conditional Loops
 description: Conditional Loops execute until a specific condition is met.
-lesson-author: Abdul Arif
+author: Abdul Arif
 layout: lesson
 category: basics
 unit-number: 1

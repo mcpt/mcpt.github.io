@@ -2,7 +2,7 @@
 layout: editorial
 title: CPT Elections
 problem-id: jdcc16jane
-editorial-author: atarw
+author: atarw
 contest: jdcc2016
 round: 3
 round-title: january

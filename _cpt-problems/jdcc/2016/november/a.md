@@ -2,7 +2,7 @@
 layout: problem
 title: Euler
 problem-id: jdcc16nova
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2016
 round: 1
 round-title: november

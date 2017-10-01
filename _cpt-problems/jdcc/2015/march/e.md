@@ -2,7 +2,7 @@
 layout: problem
 title: Domino Tilings
 problem-id: jdcc15mare
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2015
 round: 5
 round-title: march

@@ -2,7 +2,7 @@
 layout: problem
 title: Reddit at Work
 problem-id: jdcc16novb
-problem-author: Mehwar Raza
+author: Mehwar Raza
 contest: jdcc2016
 round: 1
 round-title: november

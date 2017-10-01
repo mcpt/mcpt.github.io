@@ -2,7 +2,7 @@
 layout: editorial
 title: Triangle Types
 problem-id: jdcc16jana
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2016
 round: 3
 round-title: january

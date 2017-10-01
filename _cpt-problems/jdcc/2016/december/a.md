@@ -2,7 +2,7 @@
 layout: problem
 title: Simplify
 problem-id: jdcc16deca
-problem-author: Mehwar Raza
+author: Mehwar Raza
 contest: jdcc2016
 round: 2
 round-title: december

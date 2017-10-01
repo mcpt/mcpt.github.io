@@ -2,7 +2,7 @@
 layout: problem
 title: Letter Swap
 problem-id: jdcc16janc
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2016
 round: 3
 round-title: january

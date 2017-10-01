@@ -2,7 +2,7 @@
 layout: editorial
 title: Programming Elections
 problem-id: jdcc15octb
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2015
 round: 1
 round-title: october

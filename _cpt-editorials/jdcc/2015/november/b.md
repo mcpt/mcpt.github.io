@@ -2,7 +2,7 @@
 layout: editorial
 title: Icy Spiral
 problem-id: jdcc15novb
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2015
 round: 2
 round-title: november

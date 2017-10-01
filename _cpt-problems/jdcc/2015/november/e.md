@@ -2,7 +2,7 @@
 layout: problem
 title: Randomize
 problem-id: jdcc15nove
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2015
 round: 2
 round-title: november

@@ -2,7 +2,7 @@
 layout: problem
 title: Phi Circuits
 problem-id: jdcc16febb
-problem-author: Mehwar Raza
+author: Mehwar Raza
 contest: jdcc2016
 round: 4
 round-title: february

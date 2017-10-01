@@ -1,7 +1,7 @@
 ---
 title: Counted Loops
 description: Counted loops execute a predetermined number of times.
-lesson-author: Abdul Arif
+author: Abdul Arif
 layout: lesson
 category: basics
 unit-number: 1

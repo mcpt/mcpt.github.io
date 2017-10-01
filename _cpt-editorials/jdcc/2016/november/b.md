@@ -2,7 +2,7 @@
 layout: editorial
 title: Reddit at Work
 problem-id: jdcc16novb
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2016
 round: 1
 round-title: november

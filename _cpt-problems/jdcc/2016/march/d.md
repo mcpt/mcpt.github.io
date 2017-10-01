@@ -2,7 +2,7 @@
 layout: problem
 title: Space Invaders
 problem-id: jdcc16mard
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2016
 round: 5
 round-title: march

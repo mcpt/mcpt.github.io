@@ -2,7 +2,7 @@
 layout: editorial
 title: Euler
 problem-id: jdcc16nova
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2016
 round: 1
 round-title: november

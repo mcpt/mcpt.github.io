@@ -2,7 +2,7 @@
 layout: editorial
 title: Shoe Rental
 problem-id: jdcc16decc
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2016
 round: 2
 round-title: december

@@ -2,7 +2,7 @@
 layout: problem
 title: Shoe Rental
 problem-id: jdcc16decc
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2016
 round: 2
 round-title: december

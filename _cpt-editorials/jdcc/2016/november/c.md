@@ -2,7 +2,7 @@
 layout: editorial
 title: Painting Cost
 problem-id: jdcc16novc
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2016
 round: 1
 round-title: november

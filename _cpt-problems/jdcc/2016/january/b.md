@@ -2,7 +2,7 @@
 layout: problem
 title: The Number Eight
 problem-id: jdcc16janb
-problem-author: Mehwar Raza
+author: Mehwar Raza
 contest: jdcc2016
 round: 3
 round-title: january

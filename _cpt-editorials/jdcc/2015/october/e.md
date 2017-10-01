@@ -2,7 +2,7 @@
 layout: editorial
 title: Estuary
 problem-id: jdcc15octe
-editorial-author: aurpine and Reyno Tilikaynen
+author: aurpine and Reyno Tilikaynen
 contest: jdcc2015
 round: 1
 round-title: october

@@ -1,7 +1,7 @@
 ---
 title: Conditionals
 description: Conditional statements, or "if statements", let you run a block of code only if a certain condition is true.
-lesson-author: Richard Yi
+author: Richard Yi
 layout: lesson
 category: basics
 unit-number: 1

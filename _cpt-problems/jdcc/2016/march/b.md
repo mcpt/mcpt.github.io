@@ -2,7 +2,7 @@
 layout: problem
 title: Scientific Notation
 problem-id: jdcc16marb
-problem-author: Reyno Tilikaynen, Mehwar Raza
+author: Reyno Tilikaynen, Mehwar Raza
 contest: jdcc2016
 round: 5
 round-title: march

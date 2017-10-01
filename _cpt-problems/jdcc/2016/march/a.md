@@ -2,7 +2,7 @@
 layout: problem
 title: Word Sums
 problem-id: jdcc16mara
-problem-author: Reyno Tilikaynen, Mehwar Raza
+author: Reyno Tilikaynen, Mehwar Raza
 contest: jdcc2016
 round: 5
 round-title: march

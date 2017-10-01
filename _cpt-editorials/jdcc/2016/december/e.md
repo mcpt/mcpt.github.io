@@ -2,7 +2,7 @@
 layout: editorial
 title: Supermoon Viewing
 problem-id: jdcc16dece
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2016
 round: 2
 round-title: december

@@ -2,7 +2,7 @@
 layout: editorial
 title: Palindromes
 problem-id: jdcc15feba
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2015
 round: 4
 round-title: february

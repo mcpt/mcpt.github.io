@@ -2,7 +2,7 @@
 layout: editorial
 title: Catchy Music
 problem-id: jdcc16nove
-editorial-author: atarw
+author: atarw
 contest: jdcc2016
 round: 1
 round-title: november

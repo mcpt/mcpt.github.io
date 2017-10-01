@@ -2,7 +2,7 @@
 layout: editorial
 title: Vibberish or Cibberish?
 problem-id: jdcc16feba
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2016
 round: 4
 round-title: february

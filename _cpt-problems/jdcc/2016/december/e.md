@@ -2,7 +2,7 @@
 layout: problem
 title: Supermoon Viewing
 problem-id: jdcc16dece
-problem-author: Mehwar Raza
+author: Mehwar Raza
 contest: jdcc2016
 round: 2
 round-title: december

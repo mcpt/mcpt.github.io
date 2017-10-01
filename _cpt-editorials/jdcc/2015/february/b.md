@@ -2,7 +2,7 @@
 layout: editorial
 title: Ants on a Log
 problem-id: jdcc15febb
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2015
 round: 4
 round-title: february

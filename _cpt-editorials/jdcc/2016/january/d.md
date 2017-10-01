@@ -2,7 +2,7 @@
 layout: editorial
 title: Robot Dodgeball
 problem-id: jdcc16jand
-editorial-author: atarw
+author: atarw
 contest: jdcc2016
 round: 3
 round-title: january

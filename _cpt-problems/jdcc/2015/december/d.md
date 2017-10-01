@@ -2,7 +2,7 @@
 layout: problem
 title: Skiing
 problem-id: jdcc15decd
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2015
 round: 3
 round-title: december

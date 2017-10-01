@@ -1,7 +1,7 @@
 ---
 title: Time
 description: The universe was created on January 1st, 1970.
-lesson-author: Vincent Macri
+author: Vincent Macri
 layout: lesson
 category: advanced
 unit-number: 2

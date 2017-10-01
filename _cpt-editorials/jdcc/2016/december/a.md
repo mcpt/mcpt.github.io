@@ -2,7 +2,7 @@
 layout: editorial
 title: Simplify
 problem-id: jdcc16deca
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2016
 round: 2
 round-title: december

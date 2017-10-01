@@ -2,7 +2,7 @@
 layout: problem
 title: Careless Sums
 problem-id: jdcc16marc
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2016
 round: 5
 round-title: march

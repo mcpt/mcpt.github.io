@@ -2,7 +2,7 @@
 layout: problem
 title: Painting Cost
 problem-id: jdcc16novc
-problem-author: Mehwar Raza
+author: Mehwar Raza
 contest: jdcc2016
 round: 1
 round-title: november

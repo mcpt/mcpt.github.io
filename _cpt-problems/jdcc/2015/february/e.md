@@ -2,7 +2,7 @@
 layout: problem
 title: Pocket Change
 problem-id: jdcc15febe
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2015
 round: 4
 round-title: february

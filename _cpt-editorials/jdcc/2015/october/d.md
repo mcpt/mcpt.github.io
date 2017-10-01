@@ -2,7 +2,7 @@
 layout: editorial
 title: Basically Right
 problem-id: jdcc15octd
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2015
 round: 1
 round-title: october

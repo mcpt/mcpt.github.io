@@ -2,7 +2,7 @@
 layout: problem
 title: Pokemon Woes
 problem-id: jdcc16decd
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2016
 round: 2
 round-title: december

@@ -2,7 +2,7 @@
 layout: problem
 title: Vibberish or Cibberish?
 problem-id: jdcc16feba
-problem-author: Mehwar Raza
+author: Mehwar Raza
 contest: jdcc2016
 round: 4
 round-title: february

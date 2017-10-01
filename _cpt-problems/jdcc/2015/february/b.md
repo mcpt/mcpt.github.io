@@ -2,7 +2,7 @@
 layout: problem
 title: Ants on a Log
 problem-id: jdcc15febb
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2015
 round: 4
 round-title: february

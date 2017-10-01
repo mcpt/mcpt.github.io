@@ -2,7 +2,7 @@
 layout: problem
 title: Gas N Go
 problem-id: jdcc16febd
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2016
 round: 4
 round-title: february

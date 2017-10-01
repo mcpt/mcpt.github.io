@@ -2,7 +2,7 @@
 layout: problem
 title: Robot Dodgeball
 problem-id: jdcc16jand
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2016
 round: 3
 round-title: january

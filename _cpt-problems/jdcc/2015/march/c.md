@@ -2,7 +2,7 @@
 layout: problem
 title: Mazecrawler
 problem-id: jdcc15marc
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2015
 round: 5
 round-title: march

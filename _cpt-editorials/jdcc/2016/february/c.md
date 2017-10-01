@@ -2,7 +2,7 @@
 layout: editorial
 title: Big Integer Factorization
 problem-id: jdcc16febc
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2016
 round: 4
 round-title: february

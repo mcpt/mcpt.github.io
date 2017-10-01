@@ -2,7 +2,7 @@
 layout: problem
 title: Big Integer Factorization
 problem-id: jdcc16febc
-problem-author: Mehwar Raza
+author: Mehwar Raza
 contest: jdcc2016
 round: 4
 round-title: february

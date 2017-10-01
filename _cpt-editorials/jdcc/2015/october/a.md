@@ -2,7 +2,7 @@
 layout: editorial
 title: Guessing Game
 problem-id: jdcc15octa
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2015
 round: 1
 round-title: october

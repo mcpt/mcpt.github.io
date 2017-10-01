@@ -2,7 +2,7 @@
 layout: problem
 title: Mind Boggling
 problem-id: jdcc16febe
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2016
 round: 4
 round-title: february

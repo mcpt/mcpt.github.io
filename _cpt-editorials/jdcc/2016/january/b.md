@@ -2,7 +2,7 @@
 layout: editorial
 title: The Number Eight
 problem-id: jdcc16janb
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2016
 round: 3
 round-title: january

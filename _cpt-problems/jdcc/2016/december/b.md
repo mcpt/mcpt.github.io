@@ -2,7 +2,7 @@
 layout: problem
 title: Broken Telephone
 problem-id: jdcc16decb
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2016
 round: 2
 round-title: december

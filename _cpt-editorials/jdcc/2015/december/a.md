@@ -2,7 +2,7 @@
 layout: editorial
 title: Countdown
 problem-id: jdcc15deca
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2015
 round: 3
 round-title: december

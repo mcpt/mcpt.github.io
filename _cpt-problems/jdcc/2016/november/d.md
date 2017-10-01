@@ -2,7 +2,7 @@
 layout: problem
 title: Guess My Age
 problem-id: jdcc16novd
-problem-author: Reyno Tilikaynen
+author: Reyno Tilikaynen
 contest: jdcc2016
 round: 1
 round-title: november

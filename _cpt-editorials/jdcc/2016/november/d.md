@@ -2,7 +2,7 @@
 layout: editorial
 title: Guess My Age
 problem-id: jdcc16novd
-editorial-author: aurpine
+author: aurpine
 contest: jdcc2016
 round: 1
 round-title: november

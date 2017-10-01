@@ -1,7 +1,7 @@
 ---
 title: Variables
 description: Variables allow you to store values. They are one of the most important parts of programming.
-lesson-author: Vincent Macri
+author: Vincent Macri
 layout: lesson
 category: basics
 unit-number: 1

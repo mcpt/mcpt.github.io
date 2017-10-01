@@ -2,7 +2,7 @@
 layout: editorial
 title: Pokemon Woes
 problem-id: jdcc16decd
-editorial-author: atarw
+author: atarw
 contest: jdcc2016
 round: 2
 round-title: december

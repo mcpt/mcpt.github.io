@@ -1,7 +1,7 @@
 ---
 title: Strings
 description: Strings are variables that store sequences of characters. String manipulation is working with strings to turn an input into an output.
-lesson-author: Vincent Macri
+author: Vincent Macri
 layout: lesson
 category: basics
 unit-number: 1
