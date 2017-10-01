@@ -1,0 +1,45 @@
+# This is how to add a lesson:
+# - title: The Lesson Title
+#   date: YYYY-MM-DD
+#   id: Some sort of identifier unique to the lesson. It is okay for other branches to use the same identifier. This is usually the lesson number (1, 2, 3, etc.). Use a consistent format.
+#   url: The URL to view the lesson at.
+
+- title: The Basics
+  date: 2015-10-09
+  id: 1
+  url: https://docs.google.com/presentation/d/1EHBnJFnCPDWIf4fpNDr-rhiHx1lOZ9W3woiJHhigfuw/edit?usp=sharing
+
+- title: Basic Problems
+  date: 2015-10-15
+  id: 2
+  url: https://docs.google.com/presentation/d/1cOQP_jNqktYupcfE7UOO9ikwg7YLB6Y_PF4rh6xhmBc/edit?usp=sharing
+
+- title: Problem Solutions
+  date: 2015-11-05
+  id: 3
+  url: https://docs.google.com/presentation/d/1jaj2gwhK9JEgwHZWAdvwoTwpA3pRHiWDm13QLfirYOo/edit?usp=sharing
+
+- title: Weekly Problems
+  date: 2015-11-05
+  id: 3b
+  url: https://docs.google.com/presentation/d/1139msTxVg1HQrlfHVnSuWyCM0VI2KRAfoDVbAs-yQB0/edit?usp=sharing
+
+- title: Problem Solutions
+  date: 2015-11-05
+  id: 4
+  url: https://docs.google.com/presentation/d/1q3NnmoeDfOnF7mRukEQNhXz3rU9cgf9-FrjN78PpkkQ/edit?usp=sharing
+
+- title: GREEDY!
+  date: 2015-12-04
+  id: 5
+  url: https://docs.google.com/presentation/d/1Mu0RJska13BAVb_yRJlQkcmAJJL01duf2k8ig6DKybE/edit?usp=sharing
+
+- title:  Applying Greedy
+  date: 2015-12-10
+  id: 6
+  url: https://docs.google.com/presentation/d/1EHsV03W0xwW2-_A3OSxMexoCCsCUXTdUf_Z5VNzHCs0/edit?usp=sharing
+
+- title: Divide & Conquer
+  date: 2016-01-08
+  id: 7
+  url: https://docs.google.com/presentation/d/1t4AtiRrtROa6j0JyI_UphzVfJG0t-SJXQlhj6Cwqydw/edit?usp=sharing
