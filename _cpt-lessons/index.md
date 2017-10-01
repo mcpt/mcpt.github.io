@@ -2,6 +2,7 @@
 layout: default
 title: CPT Lessons
 description: Lessons on competitive programming.
+permalink: /cpt-lessons/
 ---
 
 {% assign units = site.cpt-lessons | sort: 'unit-number' | group_by: 'category' %}

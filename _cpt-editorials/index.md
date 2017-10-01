@@ -2,6 +2,7 @@
 layout: default
 title: CPT Problem Editorials
 description: Editorials to practice problems.
+permalink: /cpt-editorials/
 ---
 
 {% assign contests = site.cpt-editorials | group_by: 'contest' %}

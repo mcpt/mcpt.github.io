@@ -2,6 +2,7 @@
 layout: default
 title: CPT Problems
 description: Problems to practice competitive programming.
+permalink: /cpt-problems/
 ---
 
 {% assign contests = site.cpt-problems | group_by: 'contest' %}

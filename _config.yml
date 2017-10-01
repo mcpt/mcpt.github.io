@@ -52,16 +52,16 @@ sass:
 collections:
   cpt-lessons:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
   ics-lessons:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
   cpt-problems:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
   cpt-editorials:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
 
 kramdown:
   math_engine_opts:
