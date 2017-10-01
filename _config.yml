@@ -43,6 +43,9 @@ gems:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+exclude:
+  - ndir/
+
 sass:
   style: compressed
 
