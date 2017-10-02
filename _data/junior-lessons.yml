@@ -4,7 +4,7 @@
 #   id: Some sort of identifier unique to the lesson. It is okay for other branches to use the same identifier. This is usually the lesson number (1, 2, 3, etc.). Use a consistent format.
 #   url: The URL to view the lesson at.
 
-- title: Review Week 1 - Introductions
+- title: Review Week 1
   date: 2017-10-03
   id: Review1
   url: https://drive.google.com/open?id=0B-ME2VR2GcaVSkE5VnprRVpDU2c
