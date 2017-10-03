@@ -8,8 +8,8 @@ We meet three times a week:
 
 The Junior and Intermediate branches meet on Tuesdays.
 
-The Girls branch meet on Thursdays.
+The Girls branch meets on Thursdays.
 
-The Advanced branch meet on Fridays.
+The Advanced branch meets on Fridays.
 
 [Register](/register/)
