@@ -3,3 +3,8 @@
 #   date: YYYY-MM-DD
 #   id: Some sort of identifier unique to the lesson. It is okay for other branches to use the same identifier. This is usually the lesson number (1, 2, 3, etc.). Use a consistent format.
 #   url: The URL to view the lesson at.
+
+title: Time Complexity
+date: 2017-10-13
+id: 1
+url: https://docs.google.com/presentation/d/1TKMO4zNVoPKOSz4yl79-Rt3Cyu7ui1SiLRMh7CLj9Ow/edit?usp=sharing
