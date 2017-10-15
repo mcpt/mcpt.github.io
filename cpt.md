@@ -5,9 +5,14 @@ description: Resources for learning competitive programming.
 permalink: /cpt/
 ---
 
+# Online Content
+[Online lessons](/cpt-lessons/)
+
+[Problems](/cpt-problems/)
+
+[Editorials](/cpt-editorials/)
+
 # Meeting Workshops
-
-
 <div class="page-listing-container">
 	<div class="page-listing">
 		<h2>Junior lessons</h2>
@@ -75,9 +80,3 @@ permalink: /cpt/
 		</dl>
 	</div>
 </div>
-
-# [Online Lessons](/cpt-lessons/)
-
-# [Problems](/cpt-problems/)
-
-# [Editorials](/cpt-editorials/)
