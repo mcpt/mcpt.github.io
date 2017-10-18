@@ -387,8 +387,11 @@ nav {
 	flex-wrap: wrap;
 	justify-content: center;
 	.page-listing {
+		margin: 0 1%;
+		min-width: 15%;
+	}
+	.page-listing.fixed-size {
 		width: 150px;
-		margin: 0 15px;
 	}
 }
 

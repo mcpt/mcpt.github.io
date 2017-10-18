@@ -12,7 +12,7 @@ permalink: /cpt-problems/
 ---
 
 ## 2015--2016
-<div class="page-listing-container">
+<div class="page-listing-container fixed-size">
 	{% for contest in contests %}
 		{% if contest.name == "jdcc2015" %}
 			{% assign rounds = contest.items | sort: 'round' | group_by: 'round-title' %}
@@ -30,7 +30,7 @@ permalink: /cpt-problems/
 </div>
 
 ## 2016--2017
-<div class="page-listing-container">
+<div class="page-listing-container fixed-size">
 	{% for contest in contests %}
 		{% if contest.name == "jdcc2016" %}
 			{% assign rounds = contest.items | sort: 'round' | group_by: 'round-title' %}
