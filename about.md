@@ -23,3 +23,6 @@ I have been a part of CPT for 3 years and enjoyed all the events and lessons hel
 In 9th grade I joined CPT for the lessons and joined the house JDCC competitions. I'm amazed by how much I've learned, just being in a room with enthusiastic members and so many ideas and new concepts flying about. I will never forget my introduction to Bogo, Quantum, and Existentialist Sort (treat yourself, go check them out).
 
 I was inspired to share my knowledge of programming, in the branch I know best: Game Development. This year I'm hyped to help as a Junior Branch exec and teach Game Development alongside my friends Derek and Dereck. We can’t wait to meet you.
+
+### Lisa Patrascu
+Being a part of CPT has brought me to a level of understanding of programming that I never thought I'd reach. Through the lessons provided and contests offered, I've really been able to hone my technical skills enough to start being creative with my programs and solutions.
