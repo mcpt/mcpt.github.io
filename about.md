@@ -24,5 +24,8 @@ In 9th grade I joined CPT for the lessons and joined the house JDCC competitions
 
 I was inspired to share my knowledge of programming, in the branch I know best: Game Development. This year I'm hyped to help as a Junior Branch exec and teach Game Development alongside my friends Derek and Dereck. We can’t wait to meet you.
 
+### Jaclyn Woon
+CPT is my favourite club at Mac. My friends and I always have so much fun at the monthly JDCC competitions.
+
 ### Lisa Patrascu
 Being a part of CPT has brought me to a level of understanding of programming that I never thought I'd reach. Through the lessons provided and contests offered, I've really been able to hone my technical skills enough to start being creative with my programs and solutions.
