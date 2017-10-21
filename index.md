@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Welcome to the new website for the William Lyon Mackenzie C.I. Computer Programming Team!
+[Register for the JDCC](/jdcc/)
+
+Welcome to the website for the William Lyon Mackenzie C.I. Computer Programming Team!
 
 We meet three times a week:
 
