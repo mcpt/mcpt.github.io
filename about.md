@@ -29,3 +29,9 @@ CPT is my favourite club at Mac. My friends and I always have so much fun at the
 
 ### Lisa Patrascu
 Being a part of CPT has brought me to a level of understanding of programming that I never thought I'd reach. Through the lessons provided and contests offered, I've really been able to hone my technical skills enough to start being creative with my programs and solutions.
+
+### Angela Wang
+I've been a part of CPT since grade 10 and I have gained so much from my experience. Not only does CPT have an amazing learning environment where I can expand on my knowledge needed for classes and contests, CPT also has that close team spirit where everyone part of the club has the same goals and ambitions as me. I'm glad to be part of such an incredible team of individuals.
+
+### Cyrus Gandevia
+Two years ago, I had absolutely no knowledge or exposure to the field of computer science. Looking back at it, I am simply amazed by how much I have learned and grown as a programmer in these past years. From the intriguing lessons being taught to the contests being offered, CPT has always, and will continue providing me with a challenge to further improve my skills as a programmer.
