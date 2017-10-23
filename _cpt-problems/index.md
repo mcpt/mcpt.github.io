@@ -19,12 +19,18 @@ permalink: /cpt-problems/
 			{% for round in rounds %}
 				<div class="page-listing">
 					<h3>{{ round.name | capitalize }}</h3>
-					<ol type="A" style="padding: 0">
+					<div style="width:2rem; display: inline-block; text-align: right; margin-left:-2rem">
 						{% assign problems = round.items | sort: 'difficulty' %}
 						{% for problem in problems %}
-							<a href="{{ problem.url }}"><li>{{ problem.title }}</li></a>
+							{{ problem.difficulty | capitalize }}. <br>
 						{% endfor %}
-					</ol>
+					</div><!--
+					--><div style="display: inline-block">
+						{% assign problems = round.items | sort: 'difficulty' %}
+						{% for problem in problems %}
+							<a href="{{ problem.url }}">{{ problem.title }}</a><br>
+						{% endfor %}
+					</div>
 				</div>
 			{% endfor %}
 		{% endif %}
@@ -39,13 +45,18 @@ permalink: /cpt-problems/
 			{% for round in rounds %}
 				<div class="page-listing">
 					<h3>{{ round.name | capitalize }}</h3>
-					{% assign problems = round.items | sort: 'difficulty' %}
-					<ol type="A" style="padding: 0">
+					<div style="width:2rem; display: inline-block; text-align: right; margin-left:-2rem">
 						{% assign problems = round.items | sort: 'difficulty' %}
 						{% for problem in problems %}
-							<a href="{{ problem.url }}"><li>{{ problem.title }}</li></a>
+							{{ problem.difficulty | capitalize }}. <br>
 						{% endfor %}
-					</ol>
+					</div><!--
+					--><div style="display: inline-block">
+						{% assign problems = round.items | sort: 'difficulty' %}
+						{% for problem in problems %}
+							<a href="{{ problem.url }}">{{ problem.title }}</a><br>
+						{% endfor %}
+					</div>
 				</div>
 			{% endfor %}
 		{% endif %}
