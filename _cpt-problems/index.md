@@ -19,13 +19,13 @@ permalink: /cpt-problems/
 			{% for round in rounds %}
 				<div class="page-listing">
 					<h3>{{ round.name | capitalize }}</h3>
-					<div style="width:2rem; display: inline-block; text-align: right; margin-left:-2rem">
+					<div class="inline list-index">
 						{% assign problems = round.items | sort: 'difficulty' %}
 						{% for problem in problems %}
-							{{ problem.difficulty | capitalize }}. <br>
+							{{ problem.difficulty | capitalize }}.<br>
 						{% endfor %}
-					</div><!--
-					--><div style="display: inline-block">
+					</div>
+					<div class="inline">
 						{% assign problems = round.items | sort: 'difficulty' %}
 						{% for problem in problems %}
 							<a href="{{ problem.url }}">{{ problem.title }}</a><br>
@@ -45,13 +45,13 @@ permalink: /cpt-problems/
 			{% for round in rounds %}
 				<div class="page-listing">
 					<h3>{{ round.name | capitalize }}</h3>
-					<div style="width:2rem; display: inline-block; text-align: right; margin-left:-2rem">
+					<div class="inline list-index">
 						{% assign problems = round.items | sort: 'difficulty' %}
 						{% for problem in problems %}
-							{{ problem.difficulty | capitalize }}. <br>
+							{{ problem.difficulty | capitalize }}.<br>
 						{% endfor %}
-					</div><!--
-					--><div style="display: inline-block">
+					</div>
+					<div class="inline">
 						{% assign problems = round.items | sort: 'difficulty' %}
 						{% for problem in problems %}
 							<a href="{{ problem.url }}">{{ problem.title }}</a><br>
