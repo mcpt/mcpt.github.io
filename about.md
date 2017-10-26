@@ -35,3 +35,6 @@ I've been a part of CPT since grade 10 and I have gained so much from my experie
 
 ### Cyrus Gandevia
 Two years ago, I had absolutely no knowledge or exposure to the field of computer science. Looking back at it, I am simply amazed by how much I have learned and grown as a programmer in these past years. From the intriguing lessons being taught to the contests being offered, CPT has always, and will continue providing me with a challenge to further improve my skills as a programmer.
+
+### Jessica Peter
+I joined CPT in grade 9, and it was one of the best decisions I ever made. Not only does CPT teach you how to think outside the box and challenge you to improve your programming skills, it also gives you the perfect opportunity to meet new people that have the same interests and goals as you. I'm really glad that I became part of this team so early on, and I would recommend anyone that is even remotely interested in programming to do so as well.
