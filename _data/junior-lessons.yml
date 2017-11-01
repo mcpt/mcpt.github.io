@@ -6,21 +6,25 @@
 
 - title: Intro
   date: 2017-10-03
-  id: Review1
+  id: 1
   url: https://docs.google.com/presentation/d/1Eq3NSO1B_q2lAB1F6lEWmgI-JFPms9zaekuicEePbG8
 
 - title: Advanced Put Statements
   date: 2017-10-10
-  id: Review2
+  id: 2
   url: https://docs.google.com/presentation/d/13UsZRZVChp9-r5HwfiPD_6eSqA42sLpjiduEbSTS2P0
   
 - title: Loops
   date: 2017-10-17
-  id: Review3
+  id: 3
   url: https://docs.google.com/presentation/d/1OeFy5_aO1X5XTftjdT57XaaGZtME1GJnbglXWd7ikmc
   
 - title: Variables and User Input
   date: 2017-10-24
-  id: Review4
+  id: 4
   url: https://docs.google.com/presentation/d/11rwNHEhiyFEmIOCoIYqVDanQTxQY4i-nBd-45VfpCZo
 
+- title: Logic and Conditionals
+  date: 2017-10-31
+  id: 5
+  url: https://docs.google.com/presentation/d/1LJ0diHCQmEewUNQEUy5YoTCcvf3cXcppuG9rUGHrd8Q
