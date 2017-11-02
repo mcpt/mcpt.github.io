@@ -57,3 +57,6 @@ I joined CPT in grade 9, and it was one of the best decisions I ever made. Not o
 Through CPT, I have been connected with so many amazing programmers who are just as passionate as I am, and the monthly JDCC is always an incredible experience. I have learned so much just by being around like-minded students who see the beauty in programming.
 
 Alongside my friends Dereck, Andy, and Jenny, we can show you this beauty and the fun of programming through Game Development. Feel free to drop by our weekly lessons in Room 220 on Tuesdays!
+
+### Rachel Cummings
+Since joining the club in grade 9, CPT has really helped me develop my programming and problem-solving skills outside of the classroom. Within its supportive environment, CPT is a place where I can challenge myself, collaborate with others, learn new and interesting concepts, and creatively tackle tough problems.
