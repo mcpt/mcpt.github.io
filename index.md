@@ -12,6 +12,12 @@ Mackenzie Computer Programming Team, affectionately known as MCPT, is a group of
 I remember when I was in grade 9, I found out that my school had a programming team. I immediately made it my goal to one day be one of the team's presidents (mission accomplished!). In grade 10, I was elected by my peers to run Junior CPT, which is when I really started getting involved in the team. In grade 11, I had multiple executive roles and became much more familiar with how the team is run. Now, in grade 12, I have the privilege of leading the Junior branch, running the website, and participating in all parts of CPT.
 
 In CPT, I've met amazing people, including my fellow executives, who are among my closest friends. We all work together to further computer science education at Mackenzie. This year, I'm going to work as hard as I can to make this the best year in the history of CPT at this school.
+
+### Sarah Goldfarb
+Before grade nine, I had always been interested in computers and technology. However, I had never actually learned to code. From ICS 2O to my first JDCC to the MCPT Girls Contest, I have continued to learn and grow as a programmer. CPT has always been part of my high school career and I believe it is an amazing opportunity for students to improve their programming, teamwork, and critical thinking skills.
+
+CPT is a club for anyone who wants to learn, compete, or simply have fun programming. I highly recommend it to every student at Mackenzie and I’m excited for the upcoming year!
+
 ## Execs
 ### Eleanor Robson
 CPT has helped me learn to think critically and creatively. Through contests and practice problems, I have become a more persistent problem-solver. More than that, CPT has given me the opportunity to socialize with friends and meet fellow programmers.
