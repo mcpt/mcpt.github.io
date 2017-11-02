@@ -42,3 +42,8 @@ Two years ago, I had absolutely no knowledge or exposure to the field of compute
 
 ### Jessica Peter
 I joined CPT in grade 9, and it was one of the best decisions I ever made. Not only does CPT teach you how to think outside the box and challenge you to improve your programming skills, it also gives you the perfect opportunity to meet new people that have the same interests and goals as you. I'm really glad that I became part of this team so early on, and I would recommend anyone that is even remotely interested in programming to do so as well.
+
+### Derek Zhang
+Through CPT, I have been connected with so many amazing programmers who are just as passionate as I am, and the monthly JDCC is always an incredible experience. I have learned so much just by being around like-minded students who see the beauty in programming.
+
+Alongside my friends Dereck, Andy, and Jenny, we can show you this beauty and the fun of programming through Game Development. Feel free to drop by our weekly lessons in Room 220 on Tuesdays!
