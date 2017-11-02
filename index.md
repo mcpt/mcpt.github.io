@@ -25,6 +25,9 @@ CPT is a club for anyone who wants to learn, compete, or simply have fun program
 ### Richard Yi
 After I joined CPT in Grade 9, I cared only about two things: my friends, and competitive programming. I hope that we can train our members to be the best competitive programmers. Long live JDCC!
 
+### Jeffrey Gao
+I've always been interested in competitive programming, and CPT has given me a good place to develop and practice my skills through engaging lessons and fun monthly competitions.
+
 ## Execs
 
 ### Eleanor Robson
@@ -60,3 +63,6 @@ Alongside my friends Dereck, Andy, and Jenny, we can show you this beauty and th
 
 ### Rachel Cummings
 Since joining the club in grade 9, CPT has really helped me develop my programming and problem-solving skills outside of the classroom. Within its supportive environment, CPT is a place where I can challenge myself, collaborate with others, learn new and interesting concepts, and creatively tackle tough problems.
+
+### Chloe Nguyen
+Over the past 3 years, CPT has not only provided me with knowledge but it has also strengthened my interest for programming. Both encouraging and inviting, the club offers a wonderful environment for those interested in computer science.
