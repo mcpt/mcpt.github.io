@@ -53,6 +53,9 @@ I've been a part of CPT since grade 10 and I have gained so much from my experie
 ### Cyrus Gandevia
 Two years ago, I had absolutely no knowledge or exposure to the field of computer science. Looking back at it, I am simply amazed by how much I have learned and grown as a programmer in these past years. From the intriguing lessons being taught to the contests being offered, CPT has always, and will continue providing me with a challenge to further improve my skills as a programmer.
 
+### Jenny Wu
+I started programming about two months before my MaCS entrance exam. I didn't expect to love programming as much as I did. When I came to Mackenzie, the first thing I did was join CPT. I was an unknown loner at contests who eventually had to drop contests to, ironically, practice programming at home. Now, just one year later, I’m an exec with an actual JDCC team. Thank you so much, CPT.
+
 ### Jessica Peter
 I joined CPT in grade 9, and it was one of the best decisions I ever made. Not only does CPT teach you how to think outside the box and challenge you to improve your programming skills, it also gives you the perfect opportunity to meet new people that have the same interests and goals as you. I'm really glad that I became part of this team so early on, and I would recommend anyone that is even remotely interested in programming to do so as well.
 
@@ -66,3 +69,6 @@ Since joining the club in grade 9, CPT has really helped me develop my programmi
 
 ### Chloe Nguyen
 Over the past 3 years, CPT has not only provided me with knowledge but it has also strengthened my interest for programming. Both encouraging and inviting, the club offers a wonderful environment for those interested in computer science.
+
+### Kimberly Hau
+Since joining CPT in grade 9, I've been exposed to many challenges that I wouldn't have otherwise encountered. Being a part of CPT has allowed me to improve my programming skills and learn new concepts through engaging lessons and a supportive environment.
