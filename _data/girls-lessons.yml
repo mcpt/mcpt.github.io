@@ -6,35 +6,40 @@
 
 - title: Introduction and Logic Games
   date: 2017-10-05
-  id: 0
+  id: 1
   url: https://docs.google.com/presentation/d/1aVHpVzp5WpKAEFdqHAW915EeIstxOtZvpBFdAdTFJaA/edit?usp=sharing
 
 - title: IO in Turing and Java
   date: 2017-10-12
-  id: 1
+  id: 2
   url: https://docs.google.com/presentation/d/1SfiotRH1nld2FWWDFNfm8PfniNuGp14S8RJxpo3jSAM/edit?usp=sharing
 
 - title: "Java: Variables, Maths, Parsing and String Manipulation"
   date: 2017-10-18
-  id: 2J
+  id: 3J
   url: https://docs.google.com/presentation/d/1uG2ker_SqEz95xKqOcz3110osigjU0NkS_k2pM4yy7E/edit?usp=sharing
   
 - title: "Turing: Variables and Maths operations"
   date: 2017-10-18
-  id: 2T
+  id: 3T
   url: https://docs.google.com/presentation/d/1NmWceciCZ0DWKWVko5ahOavRQI5UcNAJ6m1-uXkO2CA/edit?usp=sharing
 
 - title: Solutions to IO/Maths/String Problems
   date: 2017-10-25
-  id: 3
+  id: 4
   url: https://docs.google.com/document/d/1U5Hi7YvbrjNkUEA6rV1RluQ83OIITUWnIiAbdViKZJE/edit?usp=sharing
 
 - title: "Java: Loops and String Manipulation"
   date: 2017-11-02
-  id: 4J
+  id: 5J
   url: https://docs.google.com/presentation/d/1CGBJoTzcA7xmO8tq5TJYeyg9W6CZZGwW29V8AqqYrug/edit?usp=sharing
   
 - title: "Turing: Loops and String Manipulation"
   date: 2017-11-02
-  id: 4T
+  id: 5T
   url: https://docs.google.com/presentation/d/1ivPEOwxhJxf7vmQDrQWQ_t71eEsrMjTI5uXQYVs4Eq4/edit?usp=sharing
+
+- title: Arrays in Turing and Java
+  date: 2017-11-09
+  id: 6
+  url: https://docs.google.com/presentation/d/1i2FsMC0Xk0VbENxt1nIPRw6t6SxUeClyyZ7AwufgzqE/edit?usp=sharing
