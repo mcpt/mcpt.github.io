@@ -28,3 +28,28 @@
   date: 2017-10-31
   id: 5
   url: https://docs.google.com/presentation/d/1LJ0diHCQmEewUNQEUy5YoTCcvf3cXcppuG9rUGHrd8Q
+
+- title: String Manipulation
+  date: 2017-11-07
+  id: 6
+  url: https://docs.google.com/presentation/d/1aKMcSr_86IP7Tdw_FMqIooL8LwF7RThwiRyQzZzNpWg
+  
+- title: Term Review
+  date: 2017-11-14
+  id: 7
+  url: https://docs.google.com/presentation/d/1Y-2NTeJHS4u-uTanottgSHGHCHJbF1tuypBfI7Ci5xs
+  
+- title: GUI Windows
+  date: 2017-11-21
+  id: 8
+  url: https://docs.google.com/presentation/d/1kjBspPVVuYYByuoLO5UQLenaXbV5lrO_hhrExADJTK4
+
+- title: Procedures and Functions
+  date: 2017-11-28
+  id: 9
+  url: https://docs.google.com/presentation/d/1q_lBw2FsCuGllxfqY5AhSwkjL5Pnz7O88G-_ZgeDyFM
+  
+- title: Arrays
+  date: 2017-12-05
+  id: 10
+  url: https://docs.google.com/presentation/d/1qIoCaCUhMYoMlR7ca9QbmL32FVg9XZPHwUkCQmRujTg
