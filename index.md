@@ -20,6 +20,11 @@ Before grade nine, I had always been interested in computers and technology. How
 
 CPT is a club for anyone who wants to learn, compete, or simply have fun programming. I highly recommend it to every student at Mackenzie and I’m excited for the upcoming year!
 
+### Arsh Raza
+Joining CPT was one of the best choices I have ever made in my life.  Through CPT I was exposed to competitive programming, one of my favourite hobbies. I find competitive programming very fun because I am able to solve logic-based problems through coding.
+
+This is my first year on the CPT exec team and I hope to help as many students as possible in strengthening their competitive programming skills.
+
 ## Vice Presidents
 
 ### Richard Yi
