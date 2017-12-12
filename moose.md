@@ -1,7 +1,7 @@
 ---
 layout: default
-title: MOOSE
-description: Information for Mackenzie's MOOSE Contest.
+title: Moose
+description: Information for Mackenzie's Moose Contest.
 permalink: /moose/
 ---
 
