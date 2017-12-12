@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MOOSE
-description: Information for Mackenzie's Outstanding Online Software Evaluation
+description: Information for Mackenzie's MOOSE Contest.
 permalink: /moose/
 ---
 
