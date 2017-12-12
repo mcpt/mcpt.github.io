@@ -1,15 +1,15 @@
 ---
 layout: default
-title: WLMCIOC
-description: Information for the William Lyon Mackenzie C.I. Online Contest
-permalink: /wlmcioc/
+itle: MOOSE
+description: Information for Mackenzie's Outstanding Online Software Evaluation
+permalink: /moose/
 ---
 
 In preparation for the upcoming CCC and ECOO contests, we would like to offer an online practice contest with our judge.
 
 Every month William Lyon Mackenzie C.I. runs a programming contest for students at the school. Problems are written by past alumni including Reyno Tilikaynen, who also writes problems for ECOO.
 
-The junior contest will be held on Monday December 18, 2017. The senior contest will be held on Tuesday December 19, 2017.
+The junior contest will be held on Tuesday December 19, 2017. The senior contest will be held on Wednesday December 20, 2017. Both contests are held from 12:00pm to 3:00pm.
 
 # Rules
 
