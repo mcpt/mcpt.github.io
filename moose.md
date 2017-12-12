@@ -9,7 +9,7 @@ In preparation for the upcoming CCC and ECOO contests, we would like to offer an
 
 Every month William Lyon Mackenzie C.I. runs a programming contest for students at the school. Problems are written by past alumni including Reyno Tilikaynen, who also writes problems for ECOO.
 
-The junior contest will be held on Tuesday December 19, 2017. The senior contest will be held on Wednesday December 20, 2017. Both contests are held from 12:00pm to 3:00pm.
+The junior contest will be held on Tuesday December 19, 2017. The senior contest will be held on Wednesday December 20, 2017. Both contests are held from 12:00pm to 3:00pm. You may start or stop at any time while the contest is being held.
 
 # Rules
 
