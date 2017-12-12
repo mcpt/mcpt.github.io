@@ -14,7 +14,7 @@ The junior contest will be held on Tuesday December 19, 2017. The senior contest
 # Rules
 
 - The contest must be written under teacher supervision.
-- Two computers per team. Only computer may be used for programming.
+- Two computers per team. Only one computer may be used for programming.
 - You may not use the internet during the contest except to access the judge and official language documentation (for example, you may access <https://docs.oracle.com/javase/8/docs/api/> or <https://docs.python.org/3/>). You may not access other websites (such as <http://compsci.ca> or <https://stackoverflow.com/>).
 - You may bring any printed resources.
 - You may use any one of the programming languages supported by the judge (Turing, Java, Python 2, Python 3, C, C++, Pascal, PHP, Ruby).
