@@ -5,6 +5,8 @@ description: Information for members.
 permalink: /members/
 ---
 
+[Join the mailing list to be notified of events](https://groups.google.com/d/forum/mcpt-2017-2018)
+
 [Register for the JDCC](/jdcc/)
 
 We meet three times a week:
