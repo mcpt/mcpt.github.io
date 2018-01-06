@@ -26,10 +26,11 @@ github_username: mcpt
 # Build settings
 markdown: kramdown
 highlighter: rouge
-gems:
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -66,6 +67,3 @@ collections:
 kramdown:
   math_engine_opts:
     preview: true
-
-plugins:
-  - jekyll-redirect-from
