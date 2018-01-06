@@ -67,3 +67,5 @@ kramdown:
   math_engine_opts:
     preview: true
 
+plugins:
+  - jekyll-redirect-from
