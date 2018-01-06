@@ -9,6 +9,8 @@ permalink: /members/
 
 [Register for the JDCC](/jdcc/)
 
+[Information pamphlet](/info-night/)
+
 We meet three times a week:
 
 The Junior and Intermediate branches meet on Tuesdays.
@@ -21,5 +23,3 @@ The Advanced branch meets on Fridays.
 
 <iframe title="Calendar" src="https://calendar.google.com/calendar/embed?src=qm1lonultf52u3schnqng47h88%40group.calendar.google.com&ctz=America/Toronto" scrolling="no"></iframe>
 
-[Info night](/info-night/)
-[Moose contest](/moose/)
