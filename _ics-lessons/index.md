@@ -3,7 +3,6 @@ layout: default
 title: ICS Lessons
 description: Lessons on programming for your ICS course.
 permalink: /ics-lessons/
-redirect_from: /ics/
 ---
 
 {% assign units = site.ics-lessons | sort: 'unit-number' | group_by: 'category' %}
