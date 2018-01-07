@@ -3,7 +3,6 @@ layout: default
 title: Learn ICS
 description: Resources for learning computer science.
 permalink: /ics/
-redirect_from: /ics-lessons
 ---
 
 {% assign units = site.ics-lessons | sort: 'unit-number' | group_by: 'category' %}
