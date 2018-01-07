@@ -6,8 +6,6 @@ permalink: /ics/
 redirect_from: /ics-lessons
 ---
 
-[test](/ics-lessons/)
-
 {% assign units = site.ics-lessons | sort: 'unit-number' | group_by: 'category' %}
 
 <div class="page-listing-container">
