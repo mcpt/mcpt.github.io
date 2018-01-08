@@ -91,17 +91,18 @@ a {
 	color: $header-heading-color;
 	text-align: center;
 	background-color: $header-bg-color;
+	box-shadow: 0 0 5px black;
 
 	@include large {
-		padding: 2rem 6rem;
+		padding: 2rem 6rem 0 6rem;
 	}
 
 	@include medium {
-		padding: 1rem 4rem;
+		padding: 1rem 4rem 0 4rem;
 	}
 
 	@include small {
-		padding: 0.5rem 1rem;
+		padding: 0.5rem 1rem 0 1rem;
 	}
 }
 
@@ -368,10 +369,41 @@ a {
 }
 
 nav {
-	a {
+	a, .dropdown-btn {
 		color: $nav-text-color;
 		display: inline-block;
-		margin: 0 3vw;
+		width: 10em;
+		padding: 0.5rem 0;
+	}
+	.dropdown {
+		display: inline-block;
+		&:hover {
+			.dropdown-btn {
+				//background-color: $dropdown-highlight-color;
+			}
+			.dropdown-content {
+				display: block;
+				background-color: $dropdown-highlight-color;
+			}
+		}
+		.dropdown-content {
+			border-radius: 0 0 10px 10px;
+			display: none;
+			position: absolute;
+			overflow: hidden;
+			a {
+				display: block;
+				margin: 0 auto;
+				padding: 5px 20px;
+				border-bottom: 1px solid $dropdown-border-color;
+				&:last-child {
+					border-bottom: none;
+				}
+				&:first-child {
+					border-top: 1px solid $dropdown-border-color;
+				}
+			}
+		}
 	}
 }
 
@@ -407,29 +439,4 @@ iframe {
 object {
 	width: 100%;
 	height: 100vh;
-}
-
-.dropdown {
-	display: inline-block;
-}
-.dropdown-content {
-	display: none;
-	position: absolute;
-	border-radius: 0 0 10px 10px;
-	overflow: hidden;
-	
-}
-.dropdown-content a {
-	text-decoration: none;
-	display: block;
-	background-color: #3b44b5;
-	padding: 5px 10px;
-	color: #fff;
-	margin: 0;
-}
-.dropdown-content a:hover {
-	background-color: #2b34a5;
-}
-.dropdown:hover .dropdown-content {
-	display: block;
 }
