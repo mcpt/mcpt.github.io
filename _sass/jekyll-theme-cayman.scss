@@ -388,6 +388,7 @@ nav {
 		}
 		.dropdown-content {
 			background-color: $header-bg-color;
+			box-shadow: 0 0 5px black;
 			display: none;
 			position: absolute;
 			overflow: hidden;
