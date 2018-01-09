@@ -21,8 +21,7 @@ Describe here what the issue is.
 - pages
 
 ### Mockups
-<!-- Drag and drop images below of what it should look lile. Rough sketches done in MS Paint, GTMP, etc. are okay. -->
-
+<!-- Drag and drop images below of what it should look lile. Rough sketches done in MS Paint, GIMP, etc. are okay. -->
 
 ### Browser info
 **Browser:** Firefox/Chrome/Opera/Something
