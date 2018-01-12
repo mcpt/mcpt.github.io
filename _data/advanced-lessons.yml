@@ -4,7 +4,7 @@
 #   id: Some sort of identifier unique to the lesson. It is okay for other branches to use the same identifier. This is usually the lesson number (1, 2, 3, etc.). Use a consistent format.
 #   url: The URL to view the lesson at.
 
-- title: Time Complexity
+- title: All Lessons (Google Drive)
   date: 0000-00-00
   id: 0
   url: https://drive.google.com/drive/folders/0B9NfoDjy6j6TX0lMZ1FIV0RIM00 
@@ -34,7 +34,7 @@
   id: 5
   url: https://docs.google.com/presentation/d/1oNUkRxtXaf0gsO_LdBOEPJjPSrekRv_hfOBDgbden6k/edit?usp=sharing
 
-- title: Dynamic Programming
+- title: Graph Theory (BFS/DFS)
   date: 2017-12-15
   id: 6
   url: https://docs.google.com/presentation/d/1NsGcBKCiuvuszm-g601rnGZ--0KRa7SqQBH_uKhIy2o/edit?usp=sharing 
