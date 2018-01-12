@@ -5,6 +5,11 @@
 #   url: The URL to view the lesson at.
 
 - title: Time Complexity
+  date: 0000-00-00
+  id: 0
+  url: https://drive.google.com/drive/folders/0B9NfoDjy6j6TX0lMZ1FIV0RIM00 
+
+- title: Time Complexity
   date: 2017-10-13
   id: 1
   url: https://docs.google.com/presentation/d/1TKMO4zNVoPKOSz4yl79-Rt3Cyu7ui1SiLRMh7CLj9Ow/edit?usp=sharing
@@ -16,15 +21,20 @@
 
 - title: Prefix Sum Array
   date: 2017-11-10
-  id: 4
+  id: 3
   url: https://docs.google.com/presentation/d/1EHHZ5W7hKK-NySX5jOTjWq6gdKfN9ELyoxSvIlFG5ok/edit?usp=sharing
 
 - title: Prefix Difference Array
   date: 2017-11-24
-  id: 5
+  id: 4
   url: https://docs.google.com/presentation/d/1pVp6sCmICxWvpRNwqJJFc5jUQaaJcFHxb_5F24xZUso/edit?usp=sharing
 
 - title: Dynamic Programming
   date: 2017-12-15
-  id: 6
+  id: 5
   url: https://docs.google.com/presentation/d/1oNUkRxtXaf0gsO_LdBOEPJjPSrekRv_hfOBDgbden6k/edit?usp=sharing
+
+- title: Dynamic Programming
+  date: 2017-12-15
+  id: 6
+  url: https://docs.google.com/presentation/d/1NsGcBKCiuvuszm-g601rnGZ--0KRa7SqQBH_uKhIy2o/edit?usp=sharing 
