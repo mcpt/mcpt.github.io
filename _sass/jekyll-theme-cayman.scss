@@ -387,7 +387,7 @@ nav {
 			}
 		}
 		.dropdown-content {
-			z-index: -5;
+			z-index: 0;
 			background-color: $header-bg-color;
     		box-shadow: 0 0 5px black;
 			display: none;
