@@ -376,8 +376,8 @@ nav {
 		padding: 0.5rem 0;
 	}
 	a.dropdown-link:hover {
+		background-color: $dropdown-highlight-color;
 		text-decoration: none;
-		color: $section-headings-color;
 	}
 	.dropdown {
 		display: inline-block;
