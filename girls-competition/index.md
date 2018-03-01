@@ -9,3 +9,5 @@ Page under construction.
 [Schedule](schedule/)
 
 [Map](map/)
+
+[Map](booklet/)
