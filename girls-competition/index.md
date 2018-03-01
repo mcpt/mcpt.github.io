@@ -10,4 +10,4 @@ Page under construction.
 
 [Map](map/)
 
-[Map](booklet/)
+[Booklet](booklet/)
