@@ -14,3 +14,5 @@ With two levels of competition and the ability to work in teams of up to 4, this
 [Booklet](booklet/)
 
 [Flyer](flyer/)
+
+[2017 Junior Contest](junior-problems-2017/)
