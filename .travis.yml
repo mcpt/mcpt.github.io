@@ -17,9 +17,12 @@ env:
 script:
 - chmod +x _scripts/build.sh
 - _scripts/build.sh
-after_success:
-- chmod +x _scripts/deploy.sh
-- _scripts/deploy.sh
+deploy:
+  provider: script
+  script: bash _scripts/deploy.sh
+  on:
+    branch: master
+
 sudo: false
 addons:
   apt:
