@@ -71,6 +71,7 @@ a {
 .page-name {
 	margin-top: 0;
 	margin-bottom: 0.1rem;
+	letter-spacing: 3pt;
 
 	@include large {
 		font-size: 3.25rem;
