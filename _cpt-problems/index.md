@@ -12,7 +12,7 @@ permalink: /cpt-problems/
 ---
 
 ## 2015--2016
-<div class="page-listing-container fixed-size">
+<div class="page-listing-container">
 	{% for contest in contests %}
 		{% if contest.name == "jdcc2015" %}
 			{% assign rounds = contest.items | sort: 'round' | group_by: 'round-title' %}

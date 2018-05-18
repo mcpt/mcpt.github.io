@@ -408,11 +408,16 @@ nav {
 	flex-wrap: wrap;
 	justify-content: center;
 	.page-listing {
-		margin: 0 1%;
-		min-width: 15%;
-	}
-	.page-listing.fixed-size {
-		width: 150px;
+		@include not-small {
+			margin: 0 2%;
+			min-width: 15%;
+			max-width: 21%;
+		}
+		@include small {
+			margin: 0 2%;
+			min-width: 50%;
+			max-width: 100%;
+		}
 	}
 }
 
