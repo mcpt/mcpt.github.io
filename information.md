@@ -13,5 +13,5 @@ The co-ed branch meets on Tuesday
 
 The Game Dev branch meets on Thursday
 
-The Girls branch and Competitive branch meets friday
+The Girls branch and Competitive branch meets Friday
 
