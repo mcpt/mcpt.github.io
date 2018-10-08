@@ -34,5 +34,11 @@ I've always been interested in programming. When I was offered a chance to creat
 ### Yi Deng
 Ever since I attended my first CPT meeting, I knew competitive programming was for me. Doing JDCC has been one of my favorite high school experiences  and I cant wait for JDCC this year. I hope we can get better at competitive programming and be one of the best schools for programmers this year! 
 
+### Andy Pham
+I'm an avid reader, a horrible gamer,  and an absolute geek - who just so happens to enjoy coding! After Grade 9 ICS2O, I realized I enjoyed teaching other students through exploring new perspectives and ideas about what code can do. With my friends Dereck and Derek, I started the Game Dev branch last year and look forward to continuing it this year. Happy coding!
+
+### Derek Zhang
+Through MCPT, I have been connected with so many amazing programmers who are just as passionate as I am. I have learned so much just by being around like-minded students who see the beauty in programming, beyond the depths of ICS. The monthly contests that MCPT hosts also introduced me to competitive programming, a face of computer science I would have never discovered without MCPT.
+
 ## Executives
 
