@@ -2,7 +2,7 @@
 layout: non_archived_default
 title: Member Information
 description: Information for members.
-permalink: /members/
+permalink: /information/
 ---
 
 [Register](/register/)
