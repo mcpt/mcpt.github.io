@@ -5,7 +5,7 @@ description: Contact information for all executives. Click on someone's name to 
 permalink: /contact/
 ---
 
-# Contact the ExecutiveTeam: 
+# Contact the Team: 
 
 ## Presidents
 - [Lev Raizman](mailto:raizman.lev@gmail.com) raizman.lev@gmail.com
