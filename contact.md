@@ -5,22 +5,23 @@ description: Contact information for all executives. Click on someone's name to 
 permalink: /contact/
 ---
 
-# Meet the 2017-2018 exec team: 
+# Contact the ExecutiveTeam: 
 
-## Co-presidents
-- [Vincent Macri](mailto:cpt@vincemacri.ca) cpt@vincemacri.ca
-- [Sarah Goldfarb](mailto:sarahgoldfarb12@gmail.com) sarahgoldfarb12@gmail.com
-- [Samantha Unger](mailto:sammydsu@gmail.com) sammydsu@gmail.com
-- [Arsh Raza](mailto:arsh@arshraza.com) arsh@arshraza.com
-
-## Vice presidents
-- [Richard Yi](mailto:richardyi25@gmail.com) richardyi25@gmail.com
+## Presidents
 - [Lev Raizman](mailto:raizman.lev@gmail.com) raizman.lev@gmail.com
-- [Jeffrey Gao](mailto:jeffrey.magmachu@gmail.com) jeffrey.magmachu@gmail.com
+- [Richard Yi](mailto:richardyi25@gmail.com) richardyi25@gmail.com
+- [Chloe Nguyen](mailto:sammydsu@gmail.com) sammydsu@gmail.com
+- [Angela Wang](mailto:arsh@arshraza.com) arsh@arshraza.com
 
+## Head Executives
+- [Jeffrey Gao](mailto:jeffrey.magmachu@gmail.com) jeffrey.magmachu@gmail.com
+- [Yi Deng](mailto:yidengqd@gmail.com) yidengqd@gmail.com
+- [Matthew Mach](mailto:mattlikesreading@gmail.com) mattlikesreading@gmail.com
+- [Emily Hu](mailto:emacodo@gmail.com) emacodo@gmail.com
 ## Staff supervisor
 - [Ms. Krasteva](mailto:valentina.krasteva@tdsb.on.ca) valentina.krasteva@tdsb.on.ca
 
 ## Other ways to contact us
 - [Email](mailto:mcpt.ca@gmail.com) mcpt.ca@gmail.com
 - [Twitter](https://twitter.com/Mackenzie_CPT) @Mackenzie_CPT
+- [Discord](https://discord.gg/aQy9RmA)

@@ -31,5 +31,8 @@ Hey, I'm Yuan and I'm the head of girls junior. I have been in CPT since grade 9
 ### Matthew Mach
 I've always been interested in programming. When I was offered a chance to create problems as an executive of MCPT, I jumped at the opportunity. At first, I wasn't sure if I was going to enjoy writing computer science problems as I normally do math. But as I continued, I enjoyed the different aspects of computer contest. And the more I enjoyed it, the more I wanted to do for the club. So, I decided to apply for the head of problem development and got in. I’m looking forward to creating more fun and interesting problems for Mackenzie!
 
+### Yi Deng
+Ever since I attended my first CPT meeting, I knew competitive programming was for me. Doing JDCC has been one of my favorite high school experiences  and I cant wait for JDCC this year. I hope we can get better at competitive programming and be one of the best schools for programmers this year! 
+
 ## Executives
 
