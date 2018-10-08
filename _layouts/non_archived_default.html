@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+	<head>
+		{% include head.html %}
+	</head>
+	<body>
+		<section class="page-header">
+			<h1 class="page-name">{{ page.title | default: site.title}}</h1>
+			<h2 class="page-tagline">{{ page.description | default: site.description}}</h2>
+			{% include nav.html %}
+		</section>
+
+		<section class="main-content">
+ 			{{ content }}
+
+			<footer class="site-footer">
+				<img src="/assets/logo.svg" alt="">
+			</footer>
+		</section>
+	</body>
+</html>
