@@ -5,10 +5,6 @@ description: Information for members.
 permalink: /members/
 ---
 
-[Register for the JDCC](/jdcc/)
-
-[Information pamphlet](/info-night/)
-
 [Register](/register/)
 
 We meet three times a week, during lunch:
