@@ -24,34 +24,34 @@ The first time I touched programming was in Grade 9, and honestly, the whole ide
 
 ## Heads
 
-### Emily Hu
-I've learned so much about programming (and how to pass my ICS courses) from CPT since joining in grade 9. I've met some great friends through this club and I hope you will too! I'm honored to be a part of the executive team. Let's make this year better than ever!
-
-### Yuan Yang
-Hey, I'm Yuan and I'm the head of girls junior. I have been in CPT since grade 9 and had a great time in it. In my free time, I code, art and read. Programming is the most inspiring and rewarding experience for me. That's why I want to share this joy with you, by helping you in your studies. I hope one day we'll have free breakfast at Google together.
-
-### Matthew Mach
-I've always been interested in programming. When I was offered a chance to create problems as an executive of MCPT, I jumped at the opportunity. At first, I wasn't sure if I was going to enjoy writing computer science problems as I normally do math. But as I continued, I enjoyed the different aspects of computer contest. And the more I enjoyed it, the more I wanted to do for the club. So, I decided to apply for the head of problem development and got in. I’m looking forward to creating more fun and interesting problems for Mackenzie!
-
 ### Yi Deng
 Ever since I attended my first CPT meeting, I knew competitive programming was for me. Doing JDCC has been one of my favorite high school experiences  and I cant wait for JDCC this year. I hope we can get better at competitive programming and be one of the best schools for programmers this year! 
-
-### Andy Pham
-I'm an avid reader, a horrible gamer,  and an absolute geek - who just so happens to enjoy coding! After Grade 9 ICS2O, I realized I enjoyed teaching other students through exploring new perspectives and ideas about what code can do. With my friends Dereck and Derek, I started the Game Dev branch last year and look forward to continuing it this year. Happy coding!
-
-### Derek Zhang
-Through MCPT, I have been connected with so many amazing programmers who are just as passionate as I am. I have learned so much just by being around like-minded students who see the beauty in programming, beyond the depths of ICS. The monthly contests that MCPT hosts also introduced me to competitive programming, a face of computer science I would have never discovered without MCPT.
-
-### Hannah Zhu
-Loves eating, sleeping and rock climbing. Is technologically impaired. Can not write a bio to save her life.
-
-### Tina Sokhanvar
-I enjoy reading and playing sports and I am always looking for new things to learn and improve on. Through programming competitions hosted by MCPT I was able to realize my love for problem solving. Each challenge is like a puzzle and it's so satisfying to finish a problem. 
 
 ### Jeffrey Gao
 I'm a grade 12 student who's passionate about computer science, I do competitive programming but also like neat maintainable code which don't always go well together. Somehow I can choke on a camera watching a robot but can also randomly guess how many balanced trees and have it work..
 
+### Emily Hu
+I've learned so much about programming (and how to pass my ICS courses) from CPT since joining in grade 9. I've met some great friends through this club and I hope you will too! I'm honored to be a part of the executive team. Let's make this year better than ever!
+
+### Matthew Mach
+I've always been interested in programming. When I was offered a chance to create problems as an executive of MCPT, I jumped at the opportunity. At first, I wasn't sure if I was going to enjoy writing computer science problems as I normally do math. But as I continued, I enjoyed the different aspects of computer contest. And the more I enjoyed it, the more I wanted to do for the club. So, I decided to apply for the head of problem development and got in. I’m looking forward to creating more fun and interesting problems for Mackenzie!
+
+### Andy Pham
+I'm an avid reader, a horrible gamer,  and an absolute geek - who just so happens to enjoy coding! After Grade 9 ICS2O, I realized I enjoyed teaching other students through exploring new perspectives and ideas about what code can do. With my friends Dereck and Derek, I started the Game Dev branch last year and look forward to continuing it this year. Happy coding!
+
+### Tina Sokhanvar
+I enjoy reading and playing sports and I am always looking for new things to learn and improve on. Through programming competitions hosted by MCPT I was able to realize my love for problem solving. Each challenge is like a puzzle and it's so satisfying to finish a problem. 
+
+### Yuan Yang
+Hey, I'm Yuan and I'm the head of girls junior. I have been in CPT since grade 9 and had a great time in it. In my free time, I code, art and read. Programming is the most inspiring and rewarding experience for me. That's why I want to share this joy with you, by helping you in your studies. I hope one day we'll have free breakfast at Google together.
+
+### Derek Zhang
+Through MCPT, I have been connected with so many amazing programmers who are just as passionate as I am. I have learned so much just by being around like-minded students who see the beauty in programming, beyond the depths of ICS. The monthly contests that MCPT hosts also introduced me to competitive programming, a face of computer science I would have never discovered without MCPT.
+
 ### Evan Zhang
 Programming has always been one of my favorite hobbies to do. I started coding competitively in grade 9 thinking it was a hobby, but only 1 year later, I placed tenth in the country for programming. Programming has always brought joy in my life, and I hope that I can get better at it in the future.  I hope to see you all in the competitive branch of CPT!
+
+### Hannah Zhu
+Loves eating, sleeping and rock climbing. Is technologically impaired. Can not write a bio to save her life.
 
 ## Executives
