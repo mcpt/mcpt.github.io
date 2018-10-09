@@ -17,8 +17,10 @@ Being president of CPT has been my goal since I joined the club in grade 9. Over
 Whether it is learning or teaching at CPT, I enjoy competitive programming. My notable achievements include cheesing the 5-point subtask in CCC18S5 and not choking at ECOO18R1.
 
 ### Chloe Nguyen
+Over the past 3 years, CPT has not only provided me with knowledge but also strengthened my passion for programming. Both fun and engaging, the club offers a wonderful environment for those interested in computer science.
 
 ### Angela Wang
+The first time I touched programming was in Grade 9, and honestly, the whole idea of coding intimated me especially the endless symbols and phrases that seemed nonsensical at the time. Now that I’ve been exploring the field of CS for a few years both in and out of school, the seemingly mysterious world of programming was actually the greatest discovery I made. No, it isn’t scary, rather intriguing. It’s a process of creative problem solving and logical thinking, something that sucks your mind into the CS world and introduces you to the many doors that lie ahead. So my advice to MCPT’s future members, whether you’re curious about, struggling with, or have mastered computer programming, we have a place for you. MCPT helped me in grade 9 and will surely help you too. All you need to do is step through the door. Rm 222 ;)
 
 ## Heads
 
@@ -40,5 +42,16 @@ I'm an avid reader, a horrible gamer,  and an absolute geek - who just so happen
 ### Derek Zhang
 Through MCPT, I have been connected with so many amazing programmers who are just as passionate as I am. I have learned so much just by being around like-minded students who see the beauty in programming, beyond the depths of ICS. The monthly contests that MCPT hosts also introduced me to competitive programming, a face of computer science I would have never discovered without MCPT.
 
-## Executives
+### Hannah Zhu
+Loves eating, sleeping and rock climbing. Is technologically impaired. Can not write a bio to save her life.
 
+### Tina Sokhanvar
+I enjoy reading and playing sports and I am always looking for new things to learn and improve on. Through programming competitions hosted by MCPT I was able to realize my love for problem solving. Each challenge is like a puzzle and it's so satisfying to finish a problem. 
+
+### Jeffrey Gao
+I'm a grade 12 student who's passionate about computer science, I do competitive programming but also like neat maintainable code which don't always go well together. Somehow I can choke on a camera watching a robot but can also randomly guess how many balanced trees and have it work..
+
+### Evan Zhang
+Programming has always been one of my favorite hobbies to do. I started coding competitively in grade 9 thinking it was a hobby, but only 1 year later, I placed tenth in the country for programming. Programming has always brought joy in my life, and I hope that I can get better at it in the future.  I hope to see you all in the competitive branch of CPT!
+
+## Executives
