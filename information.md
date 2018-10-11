@@ -7,7 +7,7 @@ permalink: /information/
 
 [Register](/register/)
 
-We meet three times a week, during lunch:
+We meet three times a week, in room 222 during lunch:
 
 The co-ed branch meets on Tuesday
 
