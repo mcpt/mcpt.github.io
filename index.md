@@ -53,5 +53,3 @@ Programming has always been one of my favorite hobbies to do. I started coding c
 
 ### Hannah Zhu
 Loves eating, sleeping and rock climbing. Is technologically impaired. Can not write a bio to save her life.
-
-## Executives

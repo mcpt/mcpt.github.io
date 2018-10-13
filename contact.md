@@ -24,4 +24,4 @@ permalink: /contact/
 
 ## Other ways to contact us
 - [Email](mailto:mcpt.ca@gmail.com) mcpt.ca@gmail.com
-- [Discord](https://discord.gg/aQy9RmA)
+- [Discord Link](https://discord.gg/aQy9RmA)

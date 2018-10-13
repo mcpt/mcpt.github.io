@@ -7,11 +7,13 @@ permalink: /information/
 
 [Register](/register/)
 
-We meet three times a week, in room 222 during lunch:
+We meet four times a week in room 222 during lunch:
+
+The Girls branch meets on Monday
 
 The co-ed branch meets on Tuesday
 
 The Game Dev branch meets on Thursday
 
-The Girls branch and Competitive branch meets Friday
+The Competitive branch meets Friday
 
