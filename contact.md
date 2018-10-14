@@ -10,8 +10,8 @@ permalink: /contact/
 ## Presidents
 - [Lev Raizman](mailto:raizman.lev@gmail.com) raizman.lev@gmail.com
 - [Richard Yi](mailto:richardyi25@gmail.com) richardyi25@gmail.com
-- [Chloe Nguyen](mailto:sammydsu@gmail.com) sammydsu@gmail.com
-- [Angela Wang](mailto:arsh@arshraza.com) arsh@arshraza.com
+- [Chloe Nguyen](mailto:chloe.nguyen@student.tdsb.on.ca) chloe.nguyen@student.tdsb.on.ca
+- [Angela Wang](mailto:angela.wang4@student.tdsb.on.ca) angela.wang4@student.tdsb.on.ca
 
 ## Head Executives
 - [Jeffrey Gao](mailto:jeffrey.magmachu@gmail.com) jeffrey.magmachu@gmail.com
