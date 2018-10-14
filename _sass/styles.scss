@@ -331,6 +331,12 @@ a {
 	color: $blockquote-text-color;
 }
 
+.footer-link {
+	margin-left: 1em;
+	margin-right: 1em;
+	color: $blockquote-text-color;
+}
+
 nav {
 	@include small {
 		padding-bottom: 1em;
