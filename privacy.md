@@ -14,4 +14,4 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 - Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
 - We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
 - We will make readily available to customers information about our policies and practices relating to the management of personal information.
-- When logging in to our site with third party services (i.e. Google), we only collect information necessary to verify your identity. 
+- When logging in to our site with third party services (i.e. Google), we only collect and store information necessary to verify your identity. 

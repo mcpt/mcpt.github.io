@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: en-US }}">
 	<head>
 		{% include head.html %}
 		{% include mathjax.html %}
@@ -17,9 +17,7 @@
 			{% include archive_banner.html %}
 			{{ content }}
 
-			<footer class="site-footer">
-				<img src="/assets/logo.svg" alt="">
-			</footer>
+			{% include footer.html %}
 		</section>
 	</body>
 </html>

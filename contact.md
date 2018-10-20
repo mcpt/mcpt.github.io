@@ -18,6 +18,8 @@ permalink: /contact/
 - [Yi Deng](mailto:yidengqd@gmail.com) yidengqd@gmail.com
 - [Matthew Mach](mailto:mattlikesreading@gmail.com) mattlikesreading@gmail.com
 - [Emily Hu](mailto:emacodo@gmail.com) emacodo@gmail.com
+- [Evan Zhang](mailto:evan.zhang@student.tdsb.on.ca) evan.zhang@student.tdsb.on.ca
+
 
 ## Staff supervisor
 - [Ms. Krasteva](mailto:valentina.krasteva@tdsb.on.ca) valentina.krasteva@tdsb.on.ca
