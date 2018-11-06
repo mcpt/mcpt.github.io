@@ -11,7 +11,7 @@ permalink: /contact/
 - [Lev Raizman](mailto:raizman.lev@gmail.com) raizman.lev@gmail.com
 - [Richard Yi](mailto:richardyi25@gmail.com) richardyi25@gmail.com
 - [Chloe Nguyen](mailto:chloe.nguyen@student.tdsb.on.ca) chloe.nguyen@student.tdsb.on.ca
-- [Angela Wang](mailto:angela.wang4@student.tdsb.on.ca) angela.wang4@student.tdsb.on.ca
+- [Angela Wang](mailto:angelawang7e3@gmail.com) angelawang7e3@gmail.com
 
 ## Head Executives
 - [Jeffrey Gao](mailto:jeffrey.magmachu@gmail.com) jeffrey.magmachu@gmail.com
