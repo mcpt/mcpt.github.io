@@ -5,6 +5,8 @@ description: Information for Mackenzie's 2018 Moose Contest
 permalink: /moose/
 ---
 
+![Moose Poster](/assets/cpt/ads/MOOSE_Poster_New_2)
+
 In preparation for the upcoming CCC and ECOO contest, we are pleased to offer an online practice round with our judge. Consider this an invitation.
 
 Every month William Lyon Mackenzie C.I. runs an after-school programming contest for students from our school who compete in teams against each other. The contest proved to be an invaluable tool for student’s preparation for programming contests. We have been fortunate to have the Senior contest problems written by past alumni including Reyno Tilikaynen. Reyno is currently a student at Waterloo and also contributed to the problem sets for ECOO 2017-2018 and ECOO 2018-2019 (Regional and Provincial rounds). The junior contest problems have been written by problem writers from Mackenzie’s Computer Programming Team. Writers in both divisions have ample experience with problem writing.
