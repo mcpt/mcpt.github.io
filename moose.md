@@ -36,3 +36,4 @@ Please register [here](https://goo.gl/forms/J3YPkODXUdAOXwRo1) by 17:00:00 on De
 	- Some problems have pretests. Failing these pretests will result in an automatic 0 on the submission.
 - No accommodations can be made for malfunctioning technology or the inability to participate on the day of the contest.
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdzS2OTaePGJ8Re4-WR7MJ0p1jdIludjmIb8pI0wDxi94TrJA/viewform?embedded=true" width="640" height="980" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
