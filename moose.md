@@ -5,35 +5,23 @@ description: Information for Mackenzie's 2018 Moose Contest
 permalink: /moose/
 ---
 
-<div style="display:flex;">
-<div style="flex: 250%; min-width:350px; padding-right:15px; text-align:justify;">
-
 In preparation for the upcoming CCC and ECOO contest, we are pleased to offer an online practice round with our judge. Consider this an invitation.
-<br>
-<br>
+
+
 Every month William Lyon Mackenzie C.I. runs an after-school programming contest for students from our school who compete in teams against each other. The contest proved to be an invaluable tool for student’s preparation for programming contests. We have been fortunate to have the Senior contest problems written by past alumni including **Reyno Tilikaynen**. Reyno is currently a student at Waterloo and also contributed to the problem sets for ECOO 2017-2018 and ECOO 2018-2019 (Regional and Provincial rounds). The junior contest problems have been written by problem writers from Mackenzie’s Computer Programming Team. Writers in both divisions have ample experience with problem writing.
 
-<br>
-<br>
-<h4> Dates </h4>
+## Dates
 For the month of December, we have decided to open the contest to teams outside of Mackenzie. These teams will compete against each other, separately from Mackenzie’s teams.
-<br>
-<br>
+
 The contest will run on **December 18, 2018.** The contest starts at 9:00:00 and ends at 15:05:00. Teams will get two and a half hours from the moment they start. Please note that if you start the contest after 12:35:00, the contest will end before your two and a half hours pass, and you will lose any time remaining in your two and a half hours.
 
-<br>
-<br>
-<h4> Registration </h4>
-
+## Registration
 **Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSdzS2OTaePGJ8Re4-WR7MJ0p1jdIludjmIb8pI0wDxi94TrJA/viewform) or at the bottom of the page** by **17:00:00 on December 15**. Instructions on how to fill in the registration form are in the form. If you have several teams to register, register each one separately. 
-<br>
-<br>
+
 Each team may participate in only one of the competitions. **LATE REGISTRATIONS MAY NOT BE ACCEPTED**, due to the time necessary to set up an account for your team. Once all teams have registered, additional information on how the judge works, and how to access it will be sent out to teams. 
-</div>
-<div style="padding-bottom:15px;" align="center">
-    <img src="/assets/cpt/ads/MOOSE_Poster_New_2.png" style="display: block; margin-left: auto; margin-right: auto;"/>
-</div>
-</div>
+
+
+<img src="/assets/cpt/ads/MOOSE_Poster_New_2.png" style="width: 50vw; float: right; margin-left: 10px; margin-bottom: 10px"/>
 
 ## Contact
 
