@@ -31,7 +31,7 @@ The contest will run on **December 18, 2018.** The contest starts at 9:00:00 and
 Each team may participate in only one of the competitions. **LATE REGISTRATIONS MAY NOT BE ACCEPTED**, due to the time necessary to set up an account for your team. Once all teams have registered, additional information on how the judge works, and how to access it will be sent out to teams. 
 </div>
 <div style="padding-bottom:15px;" align="center">
-    <img src="/assets/2018_moose_poster.png" style="display: block; margin-left: auto; margin-right: auto;"/>
+    <img src="/assets/cpt/ads/MOOSE_Poster_New_2.png" style="display: block; margin-left: auto; margin-right: auto;"/>
 </div>
 </div>
 
