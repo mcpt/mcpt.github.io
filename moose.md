@@ -4,6 +4,7 @@ title: Moose
 description: Information for Mackenzie's 2018 Moose Contest
 permalink: /moose/
 ---
+<img src="/assets/cpt/ads/MOOSE_Poster_New_2.png" style="width: 50vw; float: right; margin-left: 10px; margin-bottom: 10px"/>
 
 In preparation for the upcoming CCC and ECOO contest, we are pleased to offer an online practice round with our judge. Consider this an invitation.
 
@@ -20,8 +21,6 @@ The contest will run on **December 18, 2018.** The contest starts at 9:00:00 and
 
 Each team may participate in only one of the competitions. **LATE REGISTRATIONS MAY NOT BE ACCEPTED**, due to the time necessary to set up an account for your team. Once all teams have registered, additional information on how the judge works, and how to access it will be sent out to teams. 
 
-
-<img src="/assets/cpt/ads/MOOSE_Poster_New_2.png" style="width: 50vw; float: right; margin-left: 10px; margin-bottom: 10px"/>
 
 ## Contact
 
