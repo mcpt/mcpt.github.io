@@ -2,7 +2,7 @@
 layout: non_archived_default
 title: Mackenzie CPT
 ---
-[## About Moose](/moose/)
+## [About Moose](/moose/)
 
 <div align="center">
   <img src="/assets/cpt/ads/MOOSE_Poster_New_2.png" alt="MOOSE Poster" width="850" height="1150"/>
