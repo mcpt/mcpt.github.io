@@ -5,7 +5,7 @@ title: Mackenzie CPT
 ## [About Moose](/moose/)
 
 <div align="center">
-  <a href="/moose/"><img src="/assets/cpt/ads/MOOSE_Poster_New_2.png" alt="MOOSE Poster" width="850" height="1150"/></a>
+  <a href="/moose/"><img src="/assets/cpt/ads/MOOSE_Poster_New_2.png" alt="MOOSE Poster" width="425" height="575"/></a>
 </div> 
 
 # About MCPT
