@@ -8,7 +8,6 @@ permalink: /moose/
 
 In preparation for the upcoming CCC and ECOO contest, we are pleased to offer an online practice round with our judge. Consider this an invitation.
 
-
 Every month William Lyon Mackenzie C.I. runs an after-school programming contest for students from our school who compete in teams against each other. The contest proved to be an invaluable tool for student’s preparation for programming contests. We have been fortunate to have the Senior contest problems written by past alumni including **Reyno Tilikaynen**. Reyno is currently a student at Waterloo and also contributed to the problem sets for ECOO 2017-2018 and ECOO 2018-2019 (Regional and Provincial rounds). The junior contest problems have been written by problem writers from Mackenzie’s Computer Programming Team. Writers in both divisions have ample experience with problem writing.
 
 ## Dates
@@ -20,7 +19,6 @@ The contest will run on **December 18, 2018.** The contest starts at 9:00:00 and
 **Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSdzS2OTaePGJ8Re4-WR7MJ0p1jdIludjmIb8pI0wDxi94TrJA/viewform) or at the bottom of the page** by **17:00:00 on December 15**. Instructions on how to fill in the registration form are in the form. If you have several teams to register, register each one separately. 
 
 Each team may participate in only one of the competitions. **LATE REGISTRATIONS MAY NOT BE ACCEPTED**, due to the time necessary to set up an account for your team. Once all teams have registered, additional information on how the judge works, and how to access it will be sent out to teams. 
-
 
 ## Contact
 
@@ -34,6 +32,7 @@ If you have any questions or concerns, feel free to contact:
 **Please *only* contact the relevant people, *not* everyone**. For example, please only contact Evan Zhang for judge-related concerns/questions.
 
 ## Rules
+
  - The contest must be written under teacher supervision.
  - Teams may not have more than four students. At least two students are recommended.
  - No communication between teams is allowed during the contest.
