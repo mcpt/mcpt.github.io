@@ -4,7 +4,7 @@ title: Moose
 description: Information for Mackenzie's 2018 Moose Contest
 permalink: /moose/
 ---
-<img src="/assets/cpt/ads/MOOSE_Poster_New_2.png" style="width: 50vw; float: right; margin-left: 10px; margin-bottom: 10px"/>
+<img src="/assets/cpt/ads/MOOSE_Poster_New_2.png" style="width: 50vw; float: right; margin-left: 10px; margin-bottom: 10px; min-width: 300px;"/>
 
 In preparation for the upcoming CCC and ECOO contest, we are pleased to offer an online practice round with our judge. Consider this an invitation.
 
@@ -54,7 +54,7 @@ Scoring happens as follows:
  - Completing all batches will result in a score of ~100~ points.
  - An additional ~10~ points are granted for a successful AC (Accepted) on the first attempt.
  - A time bonus is given, based on how much time has elapsed. The sooner you submit, the bigger the time bonus. The time bonus is then multiplied by your score divided by ~100~.
-   - Formula: ~S = \lfloor{T+\frac{m}{5} \times \frac{T}{100}}\rfloor{}~, where ~S~ is your final score, ~T~ is the number of points you got on the problem, ~m~ is the number of minutes remaining in the contest, and ~\lfloor{Z}\rfloor{}~ represents the largest integer less than ~Z~.
+   - Formula: $$S = \lfloor{T+\frac{m}{5} \times \frac{T}{100}}\rfloor{}$$, where ~S~ is your final score, ~T~ is the number of points you got on the problem, ~m~ is the number of minutes remaining in the contest, and ~\lfloor{Z}\rfloor{}~ represents the largest integer less than ~Z~.
  - Some problems will have sample test cases. Failing these sample test cases will result in an automatic ~0~ on the submission.
  - No accommodations can be made for malfunctioning technology or the inability to participate on the day of the contest.
 
