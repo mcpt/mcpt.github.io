@@ -5,7 +5,9 @@ description: Information for Mackenzie's 2018 Moose Contest
 permalink: /moose/
 ---
 
-<img src="/assets/cpt/ads/MOOSE_Poster_New_2.png" alt="MOOSE Poster" width="850" height="1150"/>
+<div align="center">
+  <img src="/assets/cpt/ads/MOOSE_Poster_New_2.png" alt="MOOSE Poster" width="850" height="1150"/>
+</div> 
 
 In preparation for the upcoming CCC and ECOO contest, we are pleased to offer an online practice round with our judge. Consider this an invitation.
 
