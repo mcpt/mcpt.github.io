@@ -38,11 +38,11 @@ If you have any questions or concerns, feel free to contact:
  - No communication between teams is allowed during the contest.
  - Only $$1$$ computer can be used for writing code. An additional computer can be used to access other online or offline resources.
  - Allowed online resources are the judge and language documentation
- - All other online resources are not allowed
+   - All other online resources are not allowed
+   - Any offline resources prepared before the contest, whether printed or not, are allowed
  - All clarification requests must either be submitted through the clarification system built into the judge, **or** by email to the aforementioned persons.
- - Any offline resources prepared before the contest, whether printed or not, are allowed
  - Making submissions to the judge in an attempt to learn the test cases or to earn points without solving the problem will result in an immediate ban from the contest.
- - You must act ethically during the contest; any unethical behaviour (as determined by contest supervisors) will be grounds for disqualification. Appeals can be made to Mrs. Krasteva (mskrasteva@gmail.com or valentina.krasteva@tdsb.on.ca).
+   - You must act ethically during the contest; any unethical behaviour (as determined by contest supervisors) will be grounds for disqualification. Appeals can be made to [Mrs. Krasteva](mailto:valentina.krasteva@tdsb.on.ca).
 
 
 ## Scoring
