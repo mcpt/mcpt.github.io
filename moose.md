@@ -4,9 +4,8 @@ title: Moose
 description: Information for Mackenzie's 2018 Moose Contest
 permalink: /moose/
 ---
-## Registration is now closed!
-All team that have registered will recieve an email by sunday at noon with login information. If you don't receive the email, please contact [Evan Zhang](mailto:evan.zhang@student.tdsb.on.ca) or join our [Discord server](https://discord.gg/aQy9RmA).
-
+## Moose Participation Information
+All teams that have registered will recieve an email by Sunday at noon with login information. If you don't receive the email, please contact [Evan Zhang](mailto:evan.zhang@student.tdsb.on.ca) or join our [Discord server](https://discord.gg/aQy9RmA).
 
 <img src="/assets/cpt/ads/MOOSE_Poster_New_2.png" style="width: 50vw; float: right; margin-left: 10px; margin-bottom: 10px; min-width: 400px;"/>
 
@@ -63,4 +62,4 @@ Scoring happens as follows:
 
 ## Registration Form
 
-Registration is now closed.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdzS2OTaePGJ8Re4-WR7MJ0p1jdIludjmIb8pI0wDxi94TrJA/viewform?embedded=true" width="640" height="980" frameborder="0" marginheight="0" marginwidth="0" style="display:block; margin-left:auto; margin-right:auto;">Loading...</iframe>
