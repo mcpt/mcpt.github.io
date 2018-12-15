@@ -4,6 +4,9 @@ title: Moose
 description: Information for Mackenzie's 2018 Moose Contest
 permalink: /moose/
 ---
+## Moose Participation Information
+All teams that have registered will recieve an email by Sunday at noon with login information. If you don't receive the email, please contact [Evan Zhang](mailto:evan.zhang@student.tdsb.on.ca) or join our [Discord server](https://discord.gg/aQy9RmA).
+
 <img src="/assets/cpt/ads/MOOSE_Poster_New_2.png" style="width: 50vw; float: right; margin-left: 10px; margin-bottom: 10px; min-width: 400px;"/>
 
 In preparation for the upcoming CCC and ECOO contest, we are pleased to offer an online practice round with our judge. Consider this an invitation.
