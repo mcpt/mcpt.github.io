@@ -25,6 +25,8 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
+    autoprefixer-rails (9.4.3)
+      execjs
     backports (3.11.4)
     colorator (1.1.0)
     concurrent-ruby (1.1.4)
@@ -140,6 +142,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  autoprefixer-rails
   image_optim
   jekyll
   jekyll-admin

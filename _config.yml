@@ -16,3 +16,4 @@ assets:
   img: { integrity: true }
   plugins:
     img: { optim: {} }
+    css: { autoprefixer: {} }
