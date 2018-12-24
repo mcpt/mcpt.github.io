@@ -3,13 +3,13 @@ email: contact@mcpt.ca
 description: Mackenzie Computer Programming Team's Website
 markdown: kramdown
 plugins:
-  - jekyll-feed
   - jekyll-assets
+  - jekyll-admin
 input: GFM
 syntax_highlighter: rouge
 assets:
   compression: true
-  source_maps: true
+  source_maps: false
   defaults:
    js: { integrity: true }
   css: { integrity: true } 
