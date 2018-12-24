@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {%- include head.html -%}
+    {% asset home.css %}
+    {% asset default.css %}
+    {% asset footer.css %}
+    {% asset nav.css %}
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+    <title>{{ page.title }}</title>
+</head>
+
+<body>
+    {%- include header.html -%}
+    <div id="hero">
+        <h1>{{ page.title }}</h1>
+    </div>
+    <main>
+        <div id="posts">
+        	{% if site.posts.size > 0 %}
+        		{%- for post in site.posts -%}
+        			<div class="post">
+        				<a class="post-link" href="{{ post.url }}"><h1>{{ post.title | escape }}</h1></a>
+        				<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        				{{ post.content }}
+        			</div>
+        		{%- endfor -%}
+        	{% endif %}
+        </div>
+    </main>
+    {%- include footer.html -%}
+</body>
+{%- include scripts.html -%}
+</html>

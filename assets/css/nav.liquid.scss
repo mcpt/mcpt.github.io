@@ -1,0 +1,91 @@
+---
+why_this_is_here: Only way to get variables in css with jekyll
+---
+#show-nav {
+    display: none;
+    cursor: pointer;
+}
+
+#header-logo {
+    display: inline-block;
+    height: 50px;
+    float: left;
+}
+
+header {
+    border-style: solid;
+    border-width: 6px 0 1px;
+    border-top-color: rgba({{ site.data.theme.blue }});
+    border-bottom-color: rgba({{ site.data.theme.gray }});
+    padding-bottom: 6px;
+}
+
+nav {
+    margin-left: 15vw;
+    margin-right: 15vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+nav li {
+    float: right;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+nav li a {
+    display: block;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+#current-page {
+    border-radius: 10px;
+    background-color: rgba({{ site.data.theme.blue }});
+    color: white;
+}
+
+@media only screen and (min-width: 601px) {
+    #navbar {
+        display: block !important; 
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    nav {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+    nav ul {
+        clear: left;
+        display: flex;
+        flex-direction: column-reverse;
+        text-align: center;
+        align-items: center;
+        width: 100%;
+    }
+    nav li {
+        display: flex;
+        text-align: center;
+    }
+    #show-nav {
+        text-align: center;
+        font-size: 40px;
+        color: rgba({{ site.data.theme.blue }});
+        display: block;
+    }
+    #navbar {
+        display: none;
+    }
+}

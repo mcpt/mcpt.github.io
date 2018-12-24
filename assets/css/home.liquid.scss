@@ -1,0 +1,52 @@
+---
+why_this_is_here: Only way to get variables in css with jekyll
+---
+
+#hero {
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-image: asset_url("hero.jpg");
+    background-position: 50% 50%;
+}
+
+#hero h1 {
+    color: white;
+    text-align: center;
+    font-size: calc(5vmin + 1.5em);
+    max-width: 90%;
+}
+
+#posts {
+	display: flex;
+	flex-direction: column;
+	width: 60%;
+	margin: auto;
+	margin-top: 50px;
+	line-height: 2em;
+	border: 1px rgba({{ site.data.theme.gray }}) solid;
+	padding: 3em;
+}
+
+#posts .post:not(:first-child) {
+    padding-top: 2em;
+}
+
+#posts .post:not(:last-child) {
+    padding-bottom: 2em;
+    border-bottom : 1px rgba({{ site.data.theme.gray }}) solid;
+}
+
+.post-link, h1 {
+	margin-bottom: 0.3em;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.post-meta {
+	color: rgba({{ site.data.theme.darkgray }});
+}

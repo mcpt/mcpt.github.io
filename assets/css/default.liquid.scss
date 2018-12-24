@@ -1,0 +1,37 @@
+---
+why_this_is_here: Only way to get variables in css with jekyll
+---
+main {
+	padding-top: 2em;
+	line-height: 2em;
+}
+
+.wrapper {
+	width: 60%;
+	padding: 2em;
+	border: 1px rgba({{ site.data.theme.gray }}) solid;
+	margin: auto;
+}
+
+#title {
+	line-height: normal;
+	font-size: 3em;
+	margin-top: 0em;
+	margin-bottom: 0.1em;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h1, h2 {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+h1 {
+	font-size: 2.2em;
+}
+
+h2 {
+	font-size: 1.3em;
+}

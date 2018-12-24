@@ -1,0 +1,11 @@
+---
+why_this_is_here: Only way to get variables in css with jekyll
+---
+
+.post-meta {
+	color: rgba({{ site.data.theme.darkgray }});
+}
+
+#title {
+	margin-bottom: 0.1em;
+}

@@ -1,0 +1,18 @@
+<header>
+    <nav>
+        <a href="/">{% asset logo.svg id=header-logo %}</a>
+        <a id="show-nav">≡</a>
+        <ul id="navbar">
+            {% assign pages = site.html_pages | sort: 'nav_index' | reverse %}
+            {% for p in pages %}
+            	{% if p.nav_index %}
+           			<li>
+                        <a href="{% if p.redirect_url %} {{ p.redirect_url }} {% else %} {{ p.url }} {% endif %}" {% if page.url == p.url %} id="current-page" {% endif %}>
+                            {% if p.nav_title %} {{ p.nav_title }} {% else %} {{ p.title }} {% endif %}
+                        </a>
+            		</li>
+            	{% endif %}
+            {% endfor %}
+        </ul>
+    </nav>
+</header>
