@@ -19,14 +19,17 @@ script:
 - chmod +x _scripts/build.sh
 - _scripts/build.sh
 after_success:
-- chmod +x _scripts/deploy.sh
-- _scripts/deploy.sh
-sudo: false
+  - chmod +x _scripts/deploy.sh
+  - _scripts/deploy.sh
+  - wget https://raw.githubusercontent.com/DiscordHooks/travis-ci-discord-webhook/master/send.sh
+  - chmod +x send.sh
+  - ./send.sh success $WEBHOOK_URL
+after_failure:
+  - wget https://raw.githubusercontent.com/DiscordHooks/travis-ci-discord-webhook/master/send.sh
+  - chmod +x send.sh
+  - ./send.sh failure $WEBHOOK_URL
+sudo: true
 addons:
   apt:
     packages:
     - ncftp
-
-notifications:
-  slack:
-    secure: s1zPk3ILgpzp1QKOYde8oANijiCl5NUS25ClIm+FekFzP1Z+opdgZLfoWTwf51FQIvMJi1aKutWlsDl9zQueDVSbtM5JUCRtcDH3d1fnqY+H5P0xLfkm9Wajalw0Ak8486fMIjjuDwF7rTEW5nDqiyVwqsvUtN0tkfM1OYYfZopymEhnQ5R0pP0eVV6Owdf2qodw9UjY8unaWyabTotZe2GPnNPtP4zmKxkz/jFlLLAaYmSUJMQ/GCxzGdZj6HrjFECDQIBXohaS4S1ia0NMWzj5yAf74xLUEJpf6r286K+7qBdmRU5gxmlCBRul3SRx5VD7ZUfHSKVp1pLdWRATbXtAhdXRi/HVl8Q1Y0K4lU3USTxbK4a/UjUq8w56sXOgdpko5AM91u77ZSM0dMj93PyLnZyQFiMnqwkPYdVCllylJkQADYpMzpydQQDUVaBfmq833iePEGrwgCkRccxWXukP07vFxAl9k/McFhoWBGLWz3G0VULMA4tlUqXni24uxEyguPGxhV9Tf8CXs6T8NEK1g1ArRBdi6PxU6Peu2MhLC4soEuPez89JDZZjJB3kgBFdu221hKbPQPr64y9m2ZoreMfaQQYF6FTVkIvwp6x7/SVH1zQrPW1VBviTkwGsmErsiycvBqQqi4vvBBGrZbUZkJACeDi9IW80Ywuguw8=
