@@ -63,7 +63,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8.0)
+  jekyll (~> 3.8.4)
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
