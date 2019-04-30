@@ -1,5 +1,5 @@
 ---
-layout: non_archived_default
+layout: default
 title: Moose
 description: Information for Mackenzie's 2018 Moose Contest
 permalink: /moose/

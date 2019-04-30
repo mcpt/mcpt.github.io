@@ -1,5 +1,5 @@
 ---
-layout: non_archived_default
+layout: default
 title: Registration
 description: Join the Mackenzie Computer Programming Team!
 permalink: /register/

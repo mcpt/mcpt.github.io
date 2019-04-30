@@ -1,5 +1,5 @@
 ---
-layout: non_archived_default
+layout: default
 title: Contact
 description: Contact information for all executives. Click on someone's name to send them an email.
 permalink: /contact/

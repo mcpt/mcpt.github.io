@@ -1,5 +1,5 @@
 ---
-layout: non_archived_default
+layout: default
 title: Member Information
 description: Information for members.
 permalink: /information/

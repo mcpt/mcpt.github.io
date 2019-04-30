@@ -1,5 +1,5 @@
 ---
-layout: non_archived_default
+layout: default
 title: Mackenzie CPT
 ---
 
